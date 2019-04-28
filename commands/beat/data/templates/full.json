@@ -1,0 +1,51 @@
+{
+	"color": 5987935,
+	{{#beatUnmonetizable}}
+	"footer": {
+		"icon_url": "https://cdnjs.cloudflare.com/ajax/libs/twemoji/2.2.5/36x36/26a0.png",
+		"text": "This beat has been purchased. It may be unmonetizable."
+	},
+	{{/beatUnmonetizable}}
+	"fields": [
+		{
+			"name":"Beat",
+			"value":{{{beatTitle}}}
+		},
+		{
+			"name":"Audio file",
+			"value":{{{beatFileLink}}},
+			"inline":true
+		}
+		{{#beatPageLink}}
+		,
+		{
+			"name":"Beat page",
+			"value":{{{beatPageLink}}},
+			"inline":true
+		}
+		{{/beatPageLink}}
+		{{#beatBpm}}
+		,
+		{
+			"name":"BPM",
+			"value":{{{beatBpm}}}
+		}
+		{{/beatBpm}}
+		{{#beatGenres}}
+		,
+		{
+			"name":"Genres",
+			"value":{{{beatGenres}}},
+			"inline":true
+		}
+		{{/beatGenres}}
+		{{#beatMoods}}
+		,
+		{
+			"name":"Moods",
+			"value":{{{beatMoods}}},
+			"inline":true
+		}
+		{{/beatMoods}}
+	]
+}

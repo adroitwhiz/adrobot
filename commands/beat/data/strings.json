@@ -1,0 +1,4 @@
+{
+	"noMatchingBeats":"Sorry, no matching beats were found!",
+	"beatLimitExceeded":"Sorry, I can only display {{maxBeats}} beats at once!"
+}

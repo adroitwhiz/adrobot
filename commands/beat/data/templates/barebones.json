@@ -1,0 +1,20 @@
+{
+	"color": 5987935,
+	"fields": [
+		{
+			"name":"Beat",
+			"value":{{{beatTitle}}},
+			"inline":true
+		},
+		{
+			"name":"Audio file",
+			"value":{{{beatPageLink}}},
+			"inline":true
+		},
+		{
+			"name":"BPM",
+			"value":{{{beatBpm}}},
+			"inline":true
+		}
+	]
+}

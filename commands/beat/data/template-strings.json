@@ -1,0 +1,9 @@
+{
+	"beatTitle":"**{{{name}}}** by **{{{producers}}}**",
+	"beatPageLink":"{{#beatPageUrl}}[Visit]({{{beatPageUrl}}}){{/beatPageUrl}}",
+	"beatFileLink":"{{#beatFileUrl}}[Listen]({{{beatFileUrl}}}){{/beatFileUrl}}",
+	"beatBpm":"{{{beatBpm}}}",
+	"beatGenres":"{{{beatGenres}}}",
+	"beatMoods":"{{{beatMoods}}}",
+	"beatUnmonetizable":"{{{beatUnmonetizable}}}"
+}

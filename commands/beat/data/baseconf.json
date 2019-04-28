@@ -1,0 +1,10 @@
+{
+	"beatFolder":"beats",
+	"templateFolder":"templates",
+	"templatePaths":{
+		"barebones":"barebones.json",
+		"full":"full.json"
+	},
+	"stringsPath":"strings.json",
+	"templateStringsPath":"template-strings.json"
+}

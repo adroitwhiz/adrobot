@@ -1,0 +1,16 @@
+{
+  "name": "beat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adroitwhiz",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "mustache": "^2.3.0",
+    "shell-quote": "^1.6.1"
+  }
+}
