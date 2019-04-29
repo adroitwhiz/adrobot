@@ -9,8 +9,6 @@ module.exports = [
 	"Jacob SZ",
 	"Froggy",
 	"Mat4yo",
-	"WoodenHornets",
-	"Zack",
 	"Brodecai",
 	"Anthony Small",
 	"Toon",
@@ -40,11 +38,12 @@ module.exports = [
 	"Mr. E Owl",
 	"Zander Peers",
 	"B-Lo Lorbes",
-	"William Grigson",
+	"Dragonex",
 	"Chao",
 	"Dawson Couch-Hollan",
 	"KingKaji",
-	"Y.D.Geon",
+	"YDGeon",
 	"Atronachsaura",
-	"Freshy Kanal"
+	"Freshy Kanal",
+	"Julian"
 ];
