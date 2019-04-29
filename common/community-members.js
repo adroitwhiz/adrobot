@@ -51,5 +51,6 @@ module.exports = [
 	"Jason",
 	"GamingPlush64",
 	"Avav",
-	"Jughead Jay"
+	"Jughead Jay",
+	"Anthony Perry"
 ];
