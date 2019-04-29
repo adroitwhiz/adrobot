@@ -1,5 +1,5 @@
-const fs = require("fs").promises,
-      path = require("path");
+const fs = require("fs").promises;
+const path = require("path");
 
 class ConfigFetcher {
 	constructor(options) {
@@ -11,9 +11,9 @@ class ConfigFetcher {
 		this.CONFIG_TYPE_DEFAULT = Symbol("CONFIG_TYPE_DEFAULT"); //is this good practice? i don't think so
 	}
 	
-	fetchCommandConfig(command, guild, force) {
+	fetchCommandConfig(command, guild) {
 		if (guild) {
-			let configIdentifier = `${command.name}-${guild.id}`; //this will work just fine and will LITERALLY NEVER BREAK; 10/10 robust code. ToonMemeBot 2.0 is definitely off to a great start, guys
+			let configIdentifier = `${command.name}-${guild.id}`;
 		
 			return this._getMergedConfig(configIdentifier, guild, path.join(command._commandLocation, command.configDirectory));
 		} else {
@@ -21,7 +21,7 @@ class ConfigFetcher {
 		}
 	}
 	
-	fetchBotConfig(location, guild, force) {
+	fetchBotConfig(location, guild) {
 		let configIdentifier = `bot-${guild ? guild.id : "noguild"}`;
 		
 		return this._getMergedConfig(configIdentifier, guild, location);
@@ -29,7 +29,7 @@ class ConfigFetcher {
 	
 	_getMergedConfig(identifier, guild, location, forceReload) {
 		if (guild === this.CONFIG_TYPE_DEFAULT) {
-			return _getConfigFromSomewhere(identifier, guild, location, forceReload);
+			return this._getConfigFromSomewhere(identifier, guild, location, forceReload);
 		} else {
 			return Promise.all([
 				this._getConfigFromSomewhere(identifier, this.CONFIG_TYPE_DEFAULT, location, forceReload),

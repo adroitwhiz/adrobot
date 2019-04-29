@@ -2,9 +2,6 @@ const Promise = require("bluebird");
 
 const specialFunctions = {
 	previousMessage:message => {
-		const messageArray = message.channel.messages.array(),
-		      messageIndex = messageArray.findIndex(item => item.id === message.id) - 1;
-		
 		return message.channel.fetchMessages({limit:1, before:message.id}).then(messages => {
 			return messages.last();
 		})
@@ -14,7 +11,13 @@ const specialFunctions = {
 	}
 }
 
-class Command { //probably not necessary by any stretch of the imagination
+const CommandState = Object.freeze({
+	NOT_LOADED:Symbol("NOT_LOADED"),
+	LOADED:Symbol("LOADED"),
+	FAILED:Symbol("FAILED")
+});
+
+class Command {
 	constructor(options) {
 		this.commandFunction = options.commandFunction;
 		this.name = options.name;

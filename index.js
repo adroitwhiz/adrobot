@@ -1,13 +1,13 @@
 //load libraries
-const fs = require("fs").promises,
-      path = require("path"),
-      Promise = require("bluebird"),
-      Discord = require("discord.js"),
-      argv = require("minimist")(process.argv.slice(2));
+const fs = require("fs").promises;
+const path = require("path");
+const Promise = require("bluebird");
+const Discord = require("discord.js");
+const argv = require("minimist")(process.argv.slice(2));
 
 //load other modules
-const Command = require("./command.js"),
-      ConfigFetcher = require("./configfetch.js");
+const Command = require("./command.js");
+const ConfigFetcher = require("./configfetch.js");
 
 //define initial config
 const initConfig = {
