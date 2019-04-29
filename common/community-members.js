@@ -45,5 +45,10 @@ module.exports = [
 	"YDGeon",
 	"Atronachsaura",
 	"Freshy Kanal",
-	"Julian"
+	"Julian",
+	"crya_",
+	"DCARaps",
+	"Jason",
+	"GamingPlush64",
+	"Avav"
 ];
