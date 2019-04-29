@@ -50,5 +50,6 @@ module.exports = [
 	"DCARaps",
 	"Jason",
 	"GamingPlush64",
-	"Avav"
+	"Avav",
+	"Jughead Jay"
 ];
