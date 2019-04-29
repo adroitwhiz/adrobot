@@ -1,7 +1,5 @@
-require("app-module-path").addPath(__dirname);
-
 //load libraries
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path"),
       Promise = require("bluebird"),
       Discord = require("discord.js"),
@@ -21,7 +19,7 @@ const initConfig = {
 let client = new Discord.Client();
 
 function loadCommands(commandDirectory) {
-	return mzfs.readdir(commandDirectory).then(files => {
+	return fs.readdir(commandDirectory).then(files => {
 		console.log(`Loading ${files.length} command(s)...`);
 		
 		const commandPromises = [];
