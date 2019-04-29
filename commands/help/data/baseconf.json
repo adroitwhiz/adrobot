@@ -1,5 +1,0 @@
-{
-	"helpStringTemplate":"{commandName}: {commandHelpString}",
-	"commandNoHelpString":"No description available",
-	"helpStringJoin":"\n"
-}

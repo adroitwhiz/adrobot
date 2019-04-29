@@ -1,5 +1,0 @@
-{
-	"predictionsFile":"predictions.json",
-	"predictionStringFormat":"{time}, {prediction}",
-	"predictionTimeLowWeight":5
-}
