@@ -19,6 +19,7 @@ class Command { //probably not necessary by any stretch of the imagination
 		this.commandFunction = options.commandFunction;
 		this.name = options.name;
 		this.helpString = options.helpString || null;
+		this.hidden = options.hidden;
 		this.specials = options.specials || [];
 		this._commandLocation = options._commandLocation;
 		this.configDirectory = options.configDirectory;

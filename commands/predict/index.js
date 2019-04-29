@@ -5,8 +5,8 @@ const mzfs = require("mz/fs"),
       moment = require("moment"),
       _ = require("lodash");
 
-const appUtils = require("app-utils.js"),
-      communityMembers = require("rando_modules/community-members.js");
+const appUtils = require("common/app-utils.js"),
+      communityMembers = require("common/community-members.js");
 
 const dataFolder = "data";
 
