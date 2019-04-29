@@ -2,7 +2,7 @@ const mzfs = require("mz/fs"),
       path = require("path"),
       _ = require("lodash");
 
-const appUtils = require("app-utils.js");
+const appUtils = require("common/app-utils.js");
 
 const dataFolder = "data",
       emojiFile = "emojis.json";

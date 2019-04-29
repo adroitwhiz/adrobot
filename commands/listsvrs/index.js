@@ -16,7 +16,8 @@ module.exports = {
 				name:"listsvrs",
 				helpString:"Lists servers",
 				configDirectory:"config",
-				defaultConfig:"default.json"
+				defaultConfig:"default.json",
+				hidden:true
 			}
 		});
 	}

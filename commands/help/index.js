@@ -12,7 +12,9 @@ module.exports = {
 			return {
 				commandFunction:(inputMessage, outputChannel, config, specialResults) => {
 					outputChannel.send(
-						Array.from(specialResults.commands.values()).map(command => strTemplate(staticConfig.helpStringTemplate, {
+						Array.from(specialResults.commands.values())
+						.filter(command => command.hidden !== true)
+						.map(command => strTemplate(staticConfig.helpStringTemplate, {
 							commandName:command.name,
 							commandHelpString:command.helpString || staticConfig.commandNoHelpString
 						}))
