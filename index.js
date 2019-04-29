@@ -55,14 +55,6 @@ function loadCommands(commandDirectory) {
 	});
 }
 
-/*new Command(
-				Object.assign( //the very best way to properly implement things
-					{},
-					require(currentCommandDirectory),
-					{_commandLocation:currentCommandDirectory}
-				)
-			);*/
-
 function fetchCommandPermission(commandName, configFetcher) { //TODO: Actually implement this
 	return Promise.resolve(true);
 }
