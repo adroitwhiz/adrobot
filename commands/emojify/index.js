@@ -1,4 +1,4 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path"),
       _ = require("lodash");
 
@@ -9,10 +9,10 @@ var staticConfig;
 
 module.exports = {
 	initialize:() => {
-		return mzfs.readFile(path.join(__dirname, dataFolder, "baseconf.json"), {encoding:"utf8"}).then(contents => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json"), {encoding:"utf8"}).then(contents => {
 			staticConfig = JSON.parse(contents);
 		}).then(() => {
-			return mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.replacementsFile), {encoding:"utf8"});
+			return fs.readFile(path.join(__dirname, dataFolder, staticConfig.replacementsFile), {encoding:"utf8"});
 		}).then(replacementsFile => {
 			const replacements = JSON.parse(replacementsFile);
 			

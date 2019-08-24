@@ -1,4 +1,4 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path");
 
 class ConfigFetcher {
@@ -53,7 +53,7 @@ class ConfigFetcher {
 	_readConfigFile(path) { //plz halp is underscore am doing right???
 		console.log(`Reading config path ${path}`);
 		
-		return mzfs.readFile(path).then(fileContents => { //template string probably wasn't necessary. also assuming the extension is .json *could* be a problem one day maybe
+		return fs.readFile(path).then(fileContents => { //template string probably wasn't necessary. also assuming the extension is .json *could* be a problem one day maybe
 			return fileContents;
 		}, error => {
 			if (error.code === "ENOENT") {

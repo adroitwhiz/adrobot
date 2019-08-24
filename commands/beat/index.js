@@ -1,4 +1,4 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path"),
       mustache = require("mustache"),
       Promise = require("bluebird"),
@@ -44,20 +44,20 @@ function sendBeatEmbed(chosenBeat, data, outputChannel) {
 
 module.exports = {
 	initialize:() => {
-		return mzfs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => {staticConfig = JSON.parse(contents)}).then(() => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => {staticConfig = JSON.parse(contents)}).then(() => {
 			return Promise.props({
-				"beats":mzfs.readdir(path.join(__dirname, dataFolder, staticConfig.beatFolder)).then(files => {
-					return Promise.all(files.map(file => mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.beatFolder, file), {encoding:"utf8"})));
+				"beats":fs.readdir(path.join(__dirname, dataFolder, staticConfig.beatFolder)).then(files => {
+					return Promise.all(files.map(file => fs.readFile(path.join(__dirname, dataFolder, staticConfig.beatFolder, file), {encoding:"utf8"})));
 				}).then(beatFiles => beatFiles.reduce((acc, val) => acc.concat(JSON.parse(val)), [])),
-				"templateStrings":mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.templateStringsPath)).then(strings => JSON.parse(strings)),
-				"strings":mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.stringsPath)).then(strings => JSON.parse(strings)),
+				"templateStrings":fs.readFile(path.join(__dirname, dataFolder, staticConfig.templateStringsPath)).then(strings => JSON.parse(strings)),
+				"strings":fs.readFile(path.join(__dirname, dataFolder, staticConfig.stringsPath)).then(strings => JSON.parse(strings)),
 				"templates":(() => {
 					const templatePaths = staticConfig.templatePaths,
 					      templateFilePromises  = {};
 					
 					for (let i in templatePaths) {
 						if (templatePaths.hasOwnProperty(i)) {
-							templateFilePromises[i] = mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.templateFolder, templatePaths[i]), {encoding:"utf8"});
+							templateFilePromises[i] = fs.readFile(path.join(__dirname, dataFolder, staticConfig.templateFolder, templatePaths[i]), {encoding:"utf8"});
 						}
 					}
 					

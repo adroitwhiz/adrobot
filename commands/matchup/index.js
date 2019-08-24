@@ -1,4 +1,4 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path"),
 	  Promise = require("bluebird");
 
@@ -75,11 +75,11 @@ const dataFolder = "data";
 module.exports = {
 	initialize:() => {
 		let staticConfig;
-		return mzfs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => {staticConfig = JSON.parse(contents)})
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => {staticConfig = JSON.parse(contents)})
 		.then(() => {
 			return Promise.props({
-				"characters":mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.charactersPath)).then(JSON.parse),
-				"series":mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.seriesPath)).then(JSON.parse)
+				"characters":fs.readFile(path.join(__dirname, dataFolder, staticConfig.charactersPath)).then(JSON.parse),
+				"series":fs.readFile(path.join(__dirname, dataFolder, staticConfig.seriesPath)).then(JSON.parse)
 			})
 		}).then(data => {
 			return {
