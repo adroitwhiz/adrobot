@@ -18,7 +18,7 @@ const initConfig = {
 //set up some stuff
 let client = new Discord.Client();
 
-function loadCommands(commandDirectory) {
+const loadCommands = commandDirectory => {
 	return fs.readdir(commandDirectory).then(files => {
 		console.log(`Loading ${files.length} command(s)...`);
 		
@@ -31,7 +31,7 @@ function loadCommands(commandDirectory) {
 			
 			console.log(`Loading ${currentCommandDirectory}`);
 			
-			commandPromises.push(Promise.props({command:currentCommand.initialize(), directory:currentCommandDirectory}));
+			commandPromises.push(Promise.props({command:currentCommand.initializeData(), directory:currentCommandDirectory}));
 		});
 		
 		return Promise.all(commandPromises);
@@ -53,11 +53,11 @@ function loadCommands(commandDirectory) {
 	});
 }
 
-function fetchCommandPermission(commandName, configFetcher) { //TODO: Actually implement this
+const fetchCommandPermission = (commandName, configFetcher) => { //TODO: Actually implement this
 	return Promise.resolve(true);
 }
 
-function performActionOnMessage(message, commands, configFetcher) { //naming things is hard ok :'(
+const performActionOnMessage = (message, commands, configFetcher) => { //naming things is hard ok :'(
 	if (message.author === client.user) return; //could probably be implemented more elegantly, if another nested "if" expression is "elegant"
 	
 	configFetcher.fetchBotConfig(initConfig.configDirectory, message.guild).then(config => {

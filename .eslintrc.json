@@ -13,6 +13,7 @@
 		"eqeqeq": "error",
 		"one-var": ["error", "never"],
 		"no-var": "error",
-		"no-console": "warn"
+		"no-console": "warn",
+		"func-style": "error"
 	}
 }

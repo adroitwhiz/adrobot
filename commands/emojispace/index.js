@@ -1,19 +1,18 @@
-const mzfs = require("mz/fs"),
-      path = require("path"),
-      _ = require("lodash");
+const fs = require("fs").promises;
+const path = require("path");
 
-const appUtils = require("common/app-utils.js");
+const appUtils = require("../../common/app-utils.js");
 
-const dataFolder = "data",
-      emojiFile = "emojis.json";
+const dataFolder = "data";
+const emojiFile = "emojis.json";
 
 const emojiKeywords = require("emojis-keywords");
 
-function isEmoji(str) {
+const isEmoji = (str) => {
 	return emojiKeywords.indexOf(str) !== -1;
 }
 
-function escapeEmojiString(str) { //my proudest creation
+const escapeEmojiString = (str) => { //my proudest creation
 	const strColonIndices = [];
 	
 	let lastIndex = str.indexOf(":");
@@ -35,39 +34,45 @@ function escapeEmojiString(str) { //my proudest creation
 }
 
 module.exports = {
-	initialize:() => {
-		return mzfs.readFile(path.join(__dirname, dataFolder, emojiFile)).then(contents => { //using path.join instead of a "/"? it's not bloated, it's robust!
+	initializeData:() => {
+		return fs.readFile(path.join(__dirname, dataFolder, emojiFile)).then(contents => {
 			const emojis = JSON.parse(contents).map(emojiCode => String.fromCodePoint(emojiCode));
-			
+
 			return {
-				commandFunction:(inputMessage, outputChannel, config, specialResults) => {
-					const emojiToUse = appUtils.parseCommand(inputMessage.content, {splitSpaces:false})[0];
-					const textToEmojify = escapeEmojiString(specialResults.previousMessage.content);
+				emojis:emojis
+			}
+		});
+	},
+
+	command:data => {
+		return {
+			commandFunction:(inputMessage, outputChannel, config, specialResults) => {
+				const emojiToUse = appUtils.parseCommand(inputMessage.content, {splitSpaces:false})[0];
+				const textToEmojify = escapeEmojiString(specialResults.previousMessage.content);
+				
+				let emojifiedText;
+				
+				if (emojiToUse.length > 0) {
+					emojifiedText = textToEmojify.split(" ").join(emojiToUse);
+				} else {
+					let splitText = textToEmojify.split(" ");
 					
-					let emojifiedText;
-					
-					if (emojiToUse.length > 0) {
-						emojifiedText = textToEmojify.split(" ").join(emojiToUse);
-					} else {
-						let splitText = textToEmojify.split(" ");
-						
-						for (let i = 0; i < splitText.length - 1; i++) {
-						let chosenEmoji = _.sample(emojis);
-							splitText[i] += chosenEmoji;
-						}
-						
-						emojifiedText = splitText.join("");
+					for (let i = 0; i < splitText.length - 1; i++) {
+					let chosenEmoji = data.emojis[Math.floor(Math.random() * data.emojis.length)];
+						splitText[i] += chosenEmoji;
 					}
 					
-					outputChannel.send(emojifiedText);
-				},
+					emojifiedText = splitText.join("");
+				}
 				
-				name:"emojispace",
-				helpString:"Replaces spaces in the previous message with emoji, possibly of your choice",
-				configDirectory:"config",
-				defaultConfig:"default.json",
-				specials:["previousMessage"]
-			};
-		});
+				return outputChannel.send(emojifiedText);
+			},
+			
+			name:"emojispace",
+			helpString:"Replaces spaces in the previous message with emoji, possibly of your choice",
+			configDirectory:"config",
+			defaultConfig:"default.json",
+			specials:["previousMessage"]
+		}
 	}
 }
