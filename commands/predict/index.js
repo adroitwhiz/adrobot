@@ -1,4 +1,4 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path"),
       stringTemplate = require("string-template"),
       dot = require("dot"),
@@ -28,8 +28,8 @@ function floatToMinMaxInclusive(min, max, float) {
 
 module.exports = {
 	initialize:() => {
-		return mzfs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => JSON.parse(contents)).then(staticConfig => {
-			return mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.predictionsFile)).then(contents => {staticConfig.predictionStrings = JSON.parse(contents)}).then(() => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => JSON.parse(contents)).then(staticConfig => {
+			return fs.readFile(path.join(__dirname, dataFolder, staticConfig.predictionsFile)).then(contents => {staticConfig.predictionStrings = JSON.parse(contents)}).then(() => {
 				return {
 					commandFunction:(inputMessage, outputChannel, config) => {
 						const chosenPredictionTemplate = _.sample(staticConfig.predictionStrings),

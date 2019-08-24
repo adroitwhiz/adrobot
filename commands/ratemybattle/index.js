@@ -1,4 +1,4 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path"),
       stringTemplate = require("string-template"),
       seedrandom = require("seedrandom"),
@@ -19,9 +19,9 @@ module.exports = {
 		let ratingStrings;
 		let staticConfig;
 
-		return mzfs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(JSON.parse).then(config => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(JSON.parse).then(config => {
 			staticConfig = config;
-			return mzfs.readFile(path.join(__dirname, dataFolder, staticConfig.ratingStringsFile))
+			return fs.readFile(path.join(__dirname, dataFolder, staticConfig.ratingStringsFile))
 		}).then(contents => {ratingStrings = JSON.parse(contents)}).then(() => {
 			return {
 				commandFunction:(inputMessage, outputChannel, config) => {

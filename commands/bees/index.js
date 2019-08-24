@@ -1,11 +1,11 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path");
 
 const dataFolder = "data";
 
 module.exports = {
 	initialize:() => {
-		return mzfs.readFile(path.join(__dirname, dataFolder, "bees.txt"), "utf8").then(contents => {
+		return fs.readFile(path.join(__dirname, dataFolder, "bees.txt"), "utf8").then(contents => {
 			
 			const beeList = contents.split("\n");
 			

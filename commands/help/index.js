@@ -1,4 +1,4 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       strTemplate = require("string-template"),
       _ = require("lodash"),
       path = require("path");
@@ -8,7 +8,7 @@ const dataFolder = "data"
 
 module.exports = {
 	initialize:() => {
-		return mzfs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => JSON.parse(contents)).then(staticConfig => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => JSON.parse(contents)).then(staticConfig => {
 			return {
 				commandFunction:(inputMessage, outputChannel, config, specialResults) => {
 					outputChannel.send(

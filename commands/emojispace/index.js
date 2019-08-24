@@ -1,4 +1,4 @@
-const mzfs = require("mz/fs"),
+const fs = require("fs").promises,
       path = require("path"),
       _ = require("lodash");
 
@@ -38,7 +38,7 @@ function escapeEmojiString(str) { //my proudest creation
 
 module.exports = {
 	initialize:() => {
-		return mzfs.readFile(path.join(__dirname, dataFolder, emojiFile)).then(contents => { //using path.join instead of a "/"? it's not bloated, it's robust!
+		return fs.readFile(path.join(__dirname, dataFolder, emojiFile)).then(contents => { //using path.join instead of a "/"? it's not bloated, it's robust!
 			const emojis = JSON.parse(contents).map(emojiCode => String.fromCodePoint(emojiCode));
 			
 			return {
