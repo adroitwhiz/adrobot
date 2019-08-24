@@ -16,13 +16,12 @@ function floatToMinMaxInclusive(min, max, float) {
 
 module.exports = {
 	initialize:() => {
-		let ratingStrings;
 		let staticConfig;
 
 		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(JSON.parse).then(config => {
 			staticConfig = config;
 			return fs.readFile(path.join(__dirname, dataFolder, staticConfig.ratingStringsFile))
-		}).then(contents => {ratingStrings = JSON.parse(contents)}).then(() => {
+		}).then(JSON.parse).then(ratingStrings => {
 			return {
 				commandFunction:(inputMessage, outputChannel, config) => {
 					const battleString = appUtils.parseCommand(inputMessage.content, {splitSpaces:false})[0].toLowerCase();

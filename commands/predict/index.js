@@ -28,7 +28,7 @@ function floatToMinMaxInclusive(min, max, float) {
 
 module.exports = {
 	initialize:() => {
-		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => JSON.parse(contents)).then(staticConfig => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(JSON.parse).then(staticConfig => {
 			return fs.readFile(path.join(__dirname, dataFolder, staticConfig.predictionsFile)).then(contents => {staticConfig.predictionStrings = JSON.parse(contents)}).then(() => {
 				return {
 					commandFunction:(inputMessage, outputChannel, config) => {

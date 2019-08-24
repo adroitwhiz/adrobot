@@ -8,7 +8,7 @@ const dataFolder = "data"
 
 module.exports = {
 	initialize:() => {
-		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => JSON.parse(contents)).then(staticConfig => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(JSON.parse).then(staticConfig => {
 			return {
 				commandFunction:(inputMessage, outputChannel, config, specialResults) => {
 					outputChannel.send(

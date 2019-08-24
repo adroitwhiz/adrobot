@@ -3,7 +3,7 @@ const fs = require("fs").promises,
       _ = require("lodash");
 
 const dataFolder = "data";
-var staticConfig = toonMemeList = null;
+let staticConfig = toonMemeList = null;
 
 
 module.exports = {

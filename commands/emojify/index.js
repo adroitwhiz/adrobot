@@ -5,13 +5,10 @@ const fs = require("fs").promises,
 const appUtils = require("common/app-utils.js");
 
 const dataFolder = "data";
-var staticConfig;
 
 module.exports = {
 	initialize:() => {
-		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json"), {encoding:"utf8"}).then(contents => {
-			staticConfig = JSON.parse(contents);
-		}).then(() => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json"), {encoding:"utf8"}).then(JSON.parse).then(staticConfig => {
 			return fs.readFile(path.join(__dirname, dataFolder, staticConfig.replacementsFile), {encoding:"utf8"});
 		}).then(replacementsFile => {
 			const replacements = JSON.parse(replacementsFile);

@@ -7,7 +7,6 @@ const fs = require("fs").promises,
       _ = require("lodash");
 
 const dataFolder = "data";
-let staticConfig;
 
 function escapeMarkdownUrl(url) {
 	return url.split("(").join("%28").split(")").join("%29"); //super reliable
@@ -44,7 +43,7 @@ function sendBeatEmbed(chosenBeat, data, outputChannel) {
 
 module.exports = {
 	initialize:() => {
-		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => {staticConfig = JSON.parse(contents)}).then(() => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(JSON.parse).then(staticConfig => {
 			return Promise.props({
 				"beats":fs.readdir(path.join(__dirname, dataFolder, staticConfig.beatFolder)).then(files => {
 					return Promise.all(files.map(file => fs.readFile(path.join(__dirname, dataFolder, staticConfig.beatFolder, file), {encoding:"utf8"})));
