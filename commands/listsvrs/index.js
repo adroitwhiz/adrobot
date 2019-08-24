@@ -3,12 +3,11 @@ const fs = require("fs").promises,
       _ = require("lodash");
 
 const dataFolder = "data";
-var staticConfig = toonMemeList = null;
 
 
 module.exports = {
 	initialize:() => {
-		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => {staticConfig = JSON.parse(contents)}).then(() => {
+		return Promise.resolve().then(() => {
 			return {
 				commandFunction:(inputMessage, outputChannel, config) => {
 					inputMessage.author.sendMessage(client.guilds.array().map(item => item.name + ": " + item.id).join("\n"));

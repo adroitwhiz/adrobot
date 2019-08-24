@@ -74,9 +74,8 @@ function renderMatchupEmbed(matchup) {
 const dataFolder = "data";
 module.exports = {
 	initialize:() => {
-		let staticConfig;
-		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(contents => {staticConfig = JSON.parse(contents)})
-		.then(() => {
+		return fs.readFile(path.join(__dirname, dataFolder, "baseconf.json")).then(JSON.parse)
+		.then(staticConfig => {
 			return Promise.props({
 				"characters":fs.readFile(path.join(__dirname, dataFolder, staticConfig.charactersPath)).then(JSON.parse),
 				"series":fs.readFile(path.join(__dirname, dataFolder, staticConfig.seriesPath)).then(JSON.parse)
