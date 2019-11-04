@@ -1,59 +1,50 @@
 const fs = require("fs").promises;
 const path = require("path");
 
+const CONFIG_DIRECTORY = 'config';
+
 class ConfigFetcher {
 	constructor(options) {
-		this.maxLoadedConfigLimit = options.maxLoadedConfigLimit || -1; //currently does jack shit, which is definitely not a problem and will never become one
 		this.defaultConfig = options.defaultConfig || null;
-		
+
 		this._loadedConfigs = new Map();
-		
+
 		this.CONFIG_TYPE_DEFAULT = Symbol("CONFIG_TYPE_DEFAULT"); //is this good practice? i don't think so
 	}
-	
-	fetchCommandConfig(command, guild) {
-		if (guild) {
-			let configIdentifier = `${command.name}-${guild.id}`;
-		
-			return this._getMergedConfig(configIdentifier, guild, path.join(command._commandLocation, command.configDirectory));
-		} else {
-			return this._getConfigFromSomewhere(null, this.CONFIG_TYPE_DEFAULT, path.join(command._commandLocation, command.configDirectory));
-		}
-	}
-	
-	fetchBotConfig(location, guild) {
+
+	fetchGuildConfig(guild) {
 		let configIdentifier = `bot-${guild ? guild.id : "noguild"}`;
-		
-		return this._getMergedConfig(configIdentifier, guild, location);
+
+		return this._getMergedConfig(configIdentifier, guild);
 	}
-	
-	_getMergedConfig(identifier, guild, location, forceReload) {
+
+	_getMergedConfig(identifier, guild) {
 		if (guild === this.CONFIG_TYPE_DEFAULT) {
-			return this._getConfigFromSomewhere(identifier, guild, location, forceReload);
+			return this._getConfigFromSomewhere(identifier, guild);
 		} else {
 			return Promise.all([
-				this._getConfigFromSomewhere(identifier, this.CONFIG_TYPE_DEFAULT, location, forceReload),
-				guild ? this._getConfigFromSomewhere(identifier, guild, location, forceReload) : Promise.resolve(null)
+				this._getConfigFromSomewhere(identifier, this.CONFIG_TYPE_DEFAULT),
+				guild ? this._getConfigFromSomewhere(identifier, guild) : Promise.resolve(null)
 			]).then(configs => Object.assign({}, configs[0], configs[1]));
 		}
 	}
-	
-	_getConfigFromSomewhere(identifier, guild, location, forceReload) {
-		if (this._loadedConfigs.has(identifier) && !forceReload) {
+
+	_getConfigFromSomewhere(identifier, guild) {
+		if (this._loadedConfigs.has(identifier)) {
 			return Promise.resolve(this._loadedConfigs.get(identifier));
 		} else {
-			return this._readConfigFile(guild === this.CONFIG_TYPE_DEFAULT ? path.join(location, "default.json") : (path.join(location, `${guild.id}.json`))).then(fileContents => {
+			return this._readConfigFile(path.join(CONFIG_DIRECTORY, guild === this.CONFIG_TYPE_DEFAULT ? "default.json" : `${guild.id}.json`)).then(fileContents => {
 				let parsedConfig = JSON.parse(fileContents);
 				this._loadedConfigs.set(identifier, parsedConfig);
 				return parsedConfig;
 			});
 		}
 	}
-	
-	_readConfigFile(path) { //plz halp is underscore am doing right???
+
+	_readConfigFile(path) {
 		console.log(`Reading config path ${path}`);
-		
-		return fs.readFile(path).then(fileContents => { //template string probably wasn't necessary. also assuming the extension is .json *could* be a problem one day maybe
+
+		return fs.readFile(path).then(fileContents => {
 			return fileContents;
 		}, error => {
 			if (error.code === "ENOENT") {
