@@ -1,5 +1,5 @@
 {
-  "name": "emojispace",
+  "name": "emojify",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "emojis-keywords": "^2.0.0"
+    "lodash.deburr": "^4.1.0"
   }
 }

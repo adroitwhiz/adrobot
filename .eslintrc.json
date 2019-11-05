@@ -16,6 +16,7 @@
 		"func-style": "error",
 		"key-spacing": "error",
 		"semi": ["error", "always"],
-		"quotes": ["error", "single"]
+		"quotes": ["error", "single"],
+		"no-prototype-builtins": "off"
 	}
 }

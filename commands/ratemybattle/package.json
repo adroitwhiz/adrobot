@@ -1,5 +1,5 @@
 {
-  "name": "pong",
+  "name": "ratemybattle",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "adroitwhiz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
 }

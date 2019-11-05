@@ -12,16 +12,14 @@
   "license": "MIT",
   "dependencies": {
     "app-module-path": "^2.2.0",
-    "bluebird": "^3.5.0",
-    "discord.js": "^11.1.0",
-    "lodash": "^4.17.4",
+    "bluebird": "^3.7.1",
+    "discord.js": "^11.5.1",
     "lodash.clonedeep": "^4.5.0",
     "lodash.merge": "^4.6.2",
-    "minimist": "^1.2.0",
-    "mz": "^2.6.0"
+    "minimist": "^1.2.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
+    "eslint": "^6.6.0",
     "lerna": "^3.18.3"
   }
 }
