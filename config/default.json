@@ -1,3 +1,8 @@
 {
-	"prefix":"-"
+	"prefix":"-",
+	"commands": {
+		"beat": {
+			"maxBeats": 10
+		}
+	}
 }

@@ -1,1 +1,1 @@
-module.exports = console.log("testing 123 ayyyy");
+module.exports = console.log('testing 123 ayyyy');

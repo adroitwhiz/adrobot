@@ -13,6 +13,9 @@
 		"one-var": ["error", "never"],
 		"no-var": "error",
 		"no-console": "warn",
-		"func-style": "error"
+		"func-style": "error",
+		"key-spacing": "error",
+		"semi": ["error", "always"],
+		"quotes": ["error", "single"]
 	}
 }
