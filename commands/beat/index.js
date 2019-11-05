@@ -34,6 +34,7 @@ const escapeMarkdown = text => {
 	return escaped;
 };
 
+// Prevent any parentheses from causing the markdown URL format of "[text](link)" to mess up
 const escapeUrlForMarkdown = url => {
 	return url.split('(').join('%28').split(')').join('%29'); //super reliable
 };
@@ -41,7 +42,7 @@ const escapeUrlForMarkdown = url => {
 // Forgiving argument parser.
 // An argument is preceded by at least one minus sign ("-"), and may or may not contain an equals sign ("=").
 // Spaces do not separate arguments.
-// Example valid argument string: "--producers=hollywood legend -bpm 50 -mood=snoozy -g hip hop"
+// Example valid argument string: "--producers=hollywood legend -bpm 50-60 -mood=snoozy -g hip hop"
 const parseArgs = (args, aliases) => {
 	// Separate arguments by minus sign, first splitting then trimming zero-width characters (from e.g. two sequential minuses)
 	return new Map(args.split(/(\s|^)+--?/g).filter(item => item.length !== 0)
@@ -70,6 +71,7 @@ const argAliases = {
 	'n': 'name',
 	'b': 'bpm',
 	'p': 'producers',
+	'u': 'url',
 	'genre': 'genres',
 	'mood': 'moods',
 	'producer': 'producers'
@@ -85,7 +87,8 @@ const argHelp = {
 	'bpm': 'Tempo (in beats per minute) of the beat you want. This can be a single number (e.g 80) or a range (e.g. 80-90).',
 	'purchasable': 'Filter out beats that have *definitely* been sold. Does not guarantee that returned beats can be bought.',
 	'every': 'Return every beat (up to a limit) matching your filter(s), instead of just one.',
-	'num': 'Return this many matching beats.'
+	'num': 'Return this many matching beats.',
+	'url': 'Filter beats whose audio file links contain this text. Useful for finding the name of a beat given an audio file.'
 };
 
 const argHelpString = (() => {
@@ -133,8 +136,6 @@ module.exports = {
 					argAliases
 				);
 
-				console.log(argv);
-
 				let matchingBeats;
 				let shouldRandomize = true;
 
@@ -149,6 +150,11 @@ module.exports = {
 					shouldRandomize = false;
 				} else {
 					matchingBeats  = Array.from(data.beats);
+				}
+
+				if (argv.has('url')) {
+					const urlFragment = argv.get('url').toLowerCase();
+					matchingBeats = data.beats.filter(beat => beat.fileUrl.toLowerCase().includes(urlFragment));
 				}
 
 				if (argv.has('bpm')) {
@@ -208,7 +214,11 @@ module.exports = {
 				} else if (argv.has('num')) {
 					beatsToReturn = matchingBeats.slice(0, Number(argv.get('num')));
 				} else {
-					beatsToReturn = [matchingBeats[Math.floor(Math.random() * matchingBeats.length)]];
+					if (shouldRandomize) {
+						beatsToReturn = [matchingBeats[Math.floor(Math.random() * matchingBeats.length)]];
+					} else {
+						beatsToReturn = [matchingBeats[0]];
+					}
 				}
 
 				if (!config.maxBeats || beatsToReturn.length > config.maxBeats) {
@@ -219,7 +229,7 @@ module.exports = {
 
 				for (const beat of beatsToReturn) {
 					const embed = {
-						title: `**${escapeMarkdown(beat.name)}** by **${escapeMarkdown(beat.producers.join(', '))}**`,
+						title: `**${escapeMarkdown(beat.name)}** by **${escapeMarkdown(beat.producers ? beat.producers.join(', ') : '???')}**`,
 						fields: [
 							{
 								name: 'Audio file',
@@ -241,7 +251,7 @@ module.exports = {
 						});
 					}
 
-					if (beat.genres) {
+					if (beat.genres && beat.genres.length > 0) {
 						embed.fields.push({
 							name: 'Genres',
 							value: beat.genres.join(', '),
@@ -249,7 +259,7 @@ module.exports = {
 						});
 					}
 
-					if (beat.moods) {
+					if (beat.moods && beat.moods.length > 0) {
 						embed.fields.push({
 							name: 'Moods',
 							value: beat.moods.join(', '),

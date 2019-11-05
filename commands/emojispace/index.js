@@ -67,7 +67,7 @@ module.exports = {
 			},
 
 			name: 'emojispace',
-			helpString: 'Converts the previous message, or a message you provide, into emojis',
+			helpString: 'Replaces spaces in the previous message with emoji, possibly of your choice',
 			specials: ['previousMessage']
 		};
 	}

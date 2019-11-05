@@ -32,7 +32,7 @@ module.exports = {
 			},
 
 			name: 'emojify',
-			helpString: 'Replaces spaces in the previous message with emoji, possibly of your choice',
+			helpString: 'Converts the previous message, or a message you provide, into emojis',
 			specials: ['previousMessage']
 		};
 	}
