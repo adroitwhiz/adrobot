@@ -2,7 +2,6 @@
 const fs = require('fs').promises;
 const path = require('path');
 const Discord = require('discord.js');
-const argv = require('minimist')(process.argv.slice(2));
 
 //load other modules
 const Command = require('./command.js');
@@ -74,7 +73,7 @@ const performActionOnMessage = (message, commands, configFetcher) => { //naming 
 (() => {
 	let commands;
 	Promise.all([
-		client.login(argv.token),
+		client.login(process.argv[2]),
 		loadCommands().then(loadedCommands => {
 			commands = loadedCommands;
 		})
