@@ -1,6 +1,5 @@
 const fs = require('fs').promises;
 const path = require('path');
-const Promise = require('bluebird');
 
 const members = require('../../common/community-members.js');
 
@@ -75,10 +74,15 @@ const renderMatchupEmbed = matchup => {
 
 module.exports = {
 	initializeData: () => {
-		return Promise.props({
-			'characters': fs.readFile(path.join(__dirname, dataFolder, 'characters.json')).then(JSON.parse),
-			'series': fs.readFile(path.join(__dirname, dataFolder, 'series.json')).then(JSON.parse)
-		});
+		const data = {};
+		return Promise.all([
+			fs.readFile(path.join(__dirname, dataFolder, 'characters.json')).then(charactersText => {
+				data.characters = JSON.parse(charactersText);
+			}),
+			fs.readFile(path.join(__dirname, dataFolder, 'series.json')).then(seriesText => {
+				data.series = JSON.parse(seriesText);
+			})
+		]).then(() => data);
 	},
 
 	command: data => {

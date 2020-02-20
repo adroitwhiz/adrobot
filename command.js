@@ -1,13 +1,11 @@
-const Promise = require('bluebird');
-
 const specialFunctions = {
 	previousMessage: message => {
 		return message.channel.fetchMessages({limit: 1, before: message.id}).then(messages => {
 			return messages.last();
 		});
 	},
-	commands: (message, specials) => specials.commands,
-	prefix: (message, specials) => specials.prefix
+	commands: (message, specials) => Promise.resolve(specials.commands),
+	prefix: (message, specials) => Promise.resolve(specials.prefix)
 };
 
 class Command {
@@ -21,17 +19,20 @@ class Command {
 	}
 
 	run(inputMessage, outputChannel, config, specialInputs) {
-		const specialPromises = {};
+		const specialResults = {};
+		const specialPromises = [];
 
 		if (this.specials) {
-			this.specials.forEach(special => {
-				if (specialFunctions.hasOwnProperty(special)) {
-					specialPromises[special] = specialFunctions[special](inputMessage, specialInputs);
-				}
-			});
+			for (const special of this.specials) {
+				if (!specialFunctions.hasOwnProperty(special)) throw new Error(`Unknown special: ${special}`);
+				specialPromises.push(specialFunctions[special](inputMessage, specialInputs)
+					.then(result => {
+						specialResults[special] = result;
+					}));
+			}
 		}
 
-		return Promise.props(specialPromises).then(specialResults => {
+		return Promise.all(specialPromises).then(() => {
 			this.commandFunction(inputMessage, outputChannel, config, specialResults);
 		});
 	}

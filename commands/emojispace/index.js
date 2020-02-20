@@ -34,10 +34,8 @@ const escapeEmojiString = (str) => { //my proudest creation
 module.exports = {
 	initializeData: () => {
 		return fs.readFile(path.join(__dirname, emojiFile)).then(contents => {
-			const emojis = JSON.parse(contents).map(emojiCode => String.fromCodePoint(emojiCode));
-
 			return {
-				emojis: emojis
+				emojis: JSON.parse(contents).map(emojiCode => String.fromCodePoint(emojiCode))
 			};
 		});
 	},

@@ -1,7 +1,6 @@
 //load libraries
 const fs = require('fs').promises;
 const path = require('path');
-const Promise = require('bluebird');
 const Discord = require('discord.js');
 const argv = require('minimist')(process.argv.slice(2));
 
@@ -15,7 +14,8 @@ const COMMAND_DIRECTORY = 'commands';
 const client = new Discord.Client();
 
 const loadCommands = () => {
-	return fs.readdir(COMMAND_DIRECTORY).then(files => {
+	return fs.readdir(COMMAND_DIRECTORY)
+	.then(files => {
 		console.log(`Loading ${files.length} command(s)...`);
 
 		const commandPromises = [];
@@ -27,14 +27,11 @@ const loadCommands = () => {
 
 			console.log(`Loading ${file}`);
 
-			let commandPromise;
-			if (currentCommand.initializeData) {
-				commandPromise = currentCommand.initializeData().then(currentCommand.command);
-			} else {
-				commandPromise = currentCommand.command();
-			}
+			const commandPromise = currentCommand.initializeData ?
+				currentCommand.initializeData().then(currentCommand.command) :
+				currentCommand.command();
 
-			commandPromises.push(Promise.props({command: commandPromise, directory: currentCommandDirectory}));
+			commandPromises.push(commandPromise);
 		});
 
 		return Promise.all(commandPromises);
@@ -42,9 +39,9 @@ const loadCommands = () => {
 		let commands = new Map();
 
 		initializedCommands.forEach(currentCommand => {
-			commands.set(currentCommand.command.name, new Command(currentCommand.command));
+			commands.set(currentCommand.name, new Command(currentCommand));
 
-			console.log(`Loaded ${currentCommand.command.name} (${currentCommand.command.helpString || ''})`);
+			console.log(`Loaded ${currentCommand.name} (${currentCommand.helpString || ''})`);
 		});
 
 		return commands;
@@ -74,21 +71,25 @@ const performActionOnMessage = (message, commands, configFetcher) => { //naming 
 	});
 };
 
-Promise.props({
-	'login': client.login(argv.token),
-	'commands': loadCommands()
-}).then(res => {
-	console.log('Logged in');
+(() => {
+	let commands;
+	Promise.all([
+		client.login(argv.token),
+		loadCommands().then(loadedCommands => {
+			commands = loadedCommands;
+		})
+	])
+	.then(() => {
+		console.log('Logged in');
 
-	const commands = res.commands;
+		const configFetcher = new ConfigFetcher({});
 
-	const configFetcher = new ConfigFetcher({});
+		client.on('error', err => {
+			console.log(err);
+		});
 
-	client.on('error', err => {
-		console.log(err);
+		client.on('message', message => {
+			performActionOnMessage(message, commands, configFetcher);
+		});
 	});
-
-	client.on('message', message => {
-		performActionOnMessage(message, commands, configFetcher);
-	});
-});
+})();
