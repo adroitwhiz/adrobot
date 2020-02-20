@@ -1,5 +1,151 @@
 [
 	{
+		"name": "Soul Gang",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/soul-gang-3686162",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3686162&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"West Coast"
+		],
+		"bpm": 96
+	},
+	{
+		"name": "Family",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/family-3658293",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3658293&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 94
+	},
+	{
+		"name": "Trippy",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/trippy-3648672",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3648672&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 160
+	},
+	{
+		"name": "On Tape",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/on-tape-3620542",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3620542&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 93
+	},
+	{
+		"name": "Clouts",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/clouts-3581418",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3581418&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Dirty South"
+		],
+		"bpm": 158
+	},
+	{
+		"name": "Bounce House",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/bounce-house-3562380",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3562380&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / Hip Hop"
+		],
+		"bpm": 104
+	},
+	{
+		"name": "Sunflower",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/sunflower-3520763",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3520763&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"R&B",
+			"Classic Soul"
+		],
+		"bpm": 89
+	},
+	{
+		"name": "Simon Says",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/simon-says-3486129",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3486129&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 100
+	},
+	{
+		"name": "Dancing",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/dancing-3458102",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3458102&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / Hip Hop"
+		],
+		"bpm": 123
+	},
+	{
+		"name": "Good Day",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/good-day-3423741",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3423741&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 88
+	},
+	{
 		"name": "Jukebox",
 		"pageUrl": "https://tantubeats.beatstars.com/beat/jukebox-3391918",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3391918&return=audio",

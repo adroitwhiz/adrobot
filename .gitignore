@@ -1,3 +1,4 @@
 /node_modules
 /commands/*/node_modules
+/commands/beat/beats*
 npm-*

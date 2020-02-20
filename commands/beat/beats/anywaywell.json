@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Boulevards",
-		"pageUrl": "https://anywaywell.com/beat/boulevards-buy-1-get-3-free-3414765",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3414765&return=audio",
+		"name": "Smackdown",
+		"pageUrl": "https://anywaywell.com/beat/smackdown-buy-1-get-3-free-3713728",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3713728&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -12,12 +12,12 @@
 			"Hip Hop",
 			"Trap"
 		],
-		"bpm": 52.5
+		"bpm": 100
 	},
 	{
-		"name": "No Comments",
-		"pageUrl": "https://anywaywell.com/beat/no-comments-buy-1-get-3-free-3414783",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3414783&return=audio",
+		"name": "Hotel Everest",
+		"pageUrl": "https://anywaywell.com/beat/hotel-everest-buy-1-get-3-free-3687784",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3687784&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -27,12 +27,12 @@
 			"Hip Hop",
 			"Trap"
 		],
-		"bpm": 96
+		"bpm": 77
 	},
 	{
-		"name": "4 My People",
-		"pageUrl": "https://anywaywell.com/beat/4-my-people-buy-1-get-3-free-3414750",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3414750&return=audio",
+		"name": "Be Mine",
+		"pageUrl": "https://anywaywell.com/beat/be-mine-buy-1-get-3-free-3671398",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3671398&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -42,12 +42,12 @@
 			"Hip Hop",
 			"Trap"
 		],
-		"bpm": 92
+		"bpm": 78
 	},
 	{
-		"name": "RAF Camora",
-		"pageUrl": "https://anywaywell.com/beat/raf-camora-buy-1-get-3-free-3414846",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3414846&return=audio",
+		"name": "Never Forget",
+		"pageUrl": "https://anywaywell.com/beat/never-forget-buy-1-get-3-free-3665331",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3665331&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -57,102 +57,12 @@
 			"Hip Hop",
 			"Trap"
 		],
-		"bpm": 93
+		"bpm": 85.5
 	},
 	{
-		"name": "One More",
-		"pageUrl": "https://anywaywell.com/beat/one-more-buy-1-get-3-free-3329977",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3329977&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 96
-	},
-	{
-		"name": "10 Days",
-		"pageUrl": "https://anywaywell.com/beat/10-days-buy-1-get-3-free-3316899",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3316899&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 92
-	},
-	{
-		"name": "La La Land",
-		"pageUrl": "https://anywaywell.com/beat/la-la-land-buy-1-get-3-free-3187284",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3187284&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 82
-	},
-	{
-		"name": "Cheat Code",
-		"pageUrl": "https://anywaywell.com/beat/cheat-code-buy-1-get-3-free-3124301",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3124301&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 124
-	},
-	{
-		"name": "Adamantine",
-		"pageUrl": "https://anywaywell.com/beat/adamantine-buy-1-get-3-free-3163061",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3163061&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 70
-	},
-	{
-		"name": "Emotions",
-		"pageUrl": "https://anywaywell.com/beat/emotions-buy-1-get-3-free-3133121",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3133121&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 69
-	},
-	{
-		"name": "Dreamer",
-		"pageUrl": "https://anywaywell.com/beat/dreamer-buy-1-get-3-free-3033707",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3033707&return=audio",
+		"name": "Selfmade",
+		"pageUrl": "https://anywaywell.com/beat/selfmade-buy-1-get-3-free-3637430",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3637430&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -163,6 +73,156 @@
 			"Trap"
 		],
 		"bpm": 80
+	},
+	{
+		"name": "Homies",
+		"pageUrl": "https://anywaywell.com/beat/homies-buy-1-get-3-free-3637365",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3637365&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 145
+	},
+	{
+		"name": "Vernissage",
+		"pageUrl": "https://anywaywell.com/beat/vernissage-buy-1-get-3-free-3625066",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3625066&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Underground"
+		],
+		"bpm": 90
+	},
+	{
+		"name": "Boom",
+		"pageUrl": "https://anywaywell.com/beat/boom-buy-1-get-3-free-3598078",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3598078&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 72.5
+	},
+	{
+		"name": "Molly",
+		"pageUrl": "https://anywaywell.com/beat/molly-buy-1-get-3-free-3592014",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3592014&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 99
+	},
+	{
+		"name": "Sugar",
+		"pageUrl": "https://anywaywell.com/beat/sugar-buy-1-get-3-free-3571649",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3571649&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 99
+	},
+	{
+		"name": "Coca (Collab w / Diamond Style) (Buy 1 Get 3  Free)",
+		"pageUrl": "https://anywaywell.com/beat/coca-collab-w-diamond-style-buy-1-get-3-free-3553100",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3553100&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 130
+	},
+	{
+		"name": "Bands (Buy 1 Get 3  Free)",
+		"pageUrl": "https://anywaywell.com/beat/bands-buy-1-get-3-free-3525913",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3525913&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 99
+	},
+	{
+		"name": "Base",
+		"pageUrl": "https://anywaywell.com/beat/base-buy-1-get-3-free-3478287",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3478287&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 83
+	},
+	{
+		"name": "Tiger Shot",
+		"pageUrl": "https://anywaywell.com/beat/tiger-shot-buy-1-get-3-free-3464305",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3464305&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 88
+	},
+	{
+		"name": "Sony",
+		"pageUrl": "https://anywaywell.com/beat/sony-buy-1-get-3-free-3422009",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3422009&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 118
 	},
 	{
 		"name": "The Flow",
@@ -180,9 +240,9 @@
 		"bpm": 81.5
 	},
 	{
-		"name": "California",
-		"pageUrl": "https://anywaywell.com/beat/california-buy-1-get-3-free-2965188",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2965188&return=audio",
+		"name": "No Comments",
+		"pageUrl": "https://anywaywell.com/beat/no-comments-buy-1-get-3-free-3414783",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3414783&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -192,12 +252,12 @@
 			"Hip Hop",
 			"Trap"
 		],
-		"bpm": 99
+		"bpm": 96
 	},
 	{
-		"name": "Blackout",
-		"pageUrl": "https://anywaywell.com/beat/blackout-buy-1-get-3-free-3029985",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3029985&return=audio",
+		"name": "Nike Air",
+		"pageUrl": "https://anywaywell.com/beat/nike-air-buy-1-get-3-free-1880171",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=1880171&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -207,7 +267,82 @@
 			"Hip Hop",
 			"Trap"
 		],
-		"bpm": 78.5
+		"bpm": 130
+	},
+	{
+		"name": "10 Days",
+		"pageUrl": "https://anywaywell.com/beat/10-days-buy-1-get-3-free-3316899",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3316899&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 92
+	},
+	{
+		"name": "Feel Good",
+		"pageUrl": "https://anywaywell.com/beat/feel-good-buy-1-get-3-free-1927669",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=1927669&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 127
+	},
+	{
+		"name": "Adamantine",
+		"pageUrl": "https://anywaywell.com/beat/adamantine-buy-1-get-3-free-3163061",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3163061&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 70
+	},
+	{
+		"name": "Dreamer",
+		"pageUrl": "https://anywaywell.com/beat/dreamer-buy-1-get-3-free-3033707",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3033707&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 80
+	},
+	{
+		"name": "Boulevards",
+		"pageUrl": "https://anywaywell.com/beat/boulevards-buy-1-get-3-free-3414765",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3414765&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 52.5
 	},
 	{
 		"name": "Mickey",
@@ -240,99 +375,9 @@
 		"bpm": 65
 	},
 	{
-		"name": "Savage",
-		"pageUrl": "https://anywaywell.com/beat/savage-buy-1-get-3-free-2895738",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2895738&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 73
-	},
-	{
-		"name": "Good Day",
-		"pageUrl": "https://anywaywell.com/beat/good-day-buy-1-get-3-free-2293307",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2293307&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 139
-	},
-	{
-		"name": "Real",
-		"pageUrl": "https://anywaywell.com/beat/real-buy-1-get-3-free-2988001",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2988001&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 71
-	},
-	{
-		"name": "Nike Air",
-		"pageUrl": "https://anywaywell.com/beat/nike-air-buy-1-get-3-free-1880171",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=1880171&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 130
-	},
-	{
-		"name": "Snazzy",
-		"pageUrl": "https://anywaywell.com/beat/snazzy-buy-1-get-3-free-2605600",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2605600&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Gangsta"
-		],
-		"bpm": 80
-	},
-	{
-		"name": "Coffee Shop (Trap Version)",
-		"pageUrl": "https://anywaywell.com/beat/coffee-shop-trap-version-2871630",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2871630&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 93
-	},
-	{
-		"name": "Coffee Shop (Old School Version)",
-		"pageUrl": "https://anywaywell.com/beat/coffee-shop-old-school-version-2864310",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2864310&return=audio",
+		"name": "Stradivari",
+		"pageUrl": "https://anywaywell.com/beat/stradivari-buy-1-get-3-free-612618",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=612618&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -342,7 +387,7 @@
 			"Hip Hop",
 			"Orchestral"
 		],
-		"bpm": 93
+		"bpm": 81.5
 	},
 	{
 		"name": "Damn",
@@ -360,9 +405,9 @@
 		"bpm": 105
 	},
 	{
-		"name": "Feel Good",
-		"pageUrl": "https://anywaywell.com/beat/feel-good-buy-1-get-3-free-1927669",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=1927669&return=audio",
+		"name": "Good Day",
+		"pageUrl": "https://anywaywell.com/beat/good-day-buy-1-get-3-free-2293307",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2293307&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -372,7 +417,307 @@
 			"Hip Hop",
 			"Trap"
 		],
-		"bpm": 127
+		"bpm": 139
+	},
+	{
+		"name": "California",
+		"pageUrl": "https://anywaywell.com/beat/california-buy-1-get-3-free-2965188",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2965188&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 99
+	},
+	{
+		"name": "Deja Vu",
+		"pageUrl": "https://anywaywell.com/beat/deja-vu-buy-1-get-3-free-504283",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=504283&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 82
+	},
+	{
+		"name": "Hot Season",
+		"pageUrl": "https://anywaywell.com/beat/hot-season-buy-1-get-3-free-2485979",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2485979&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 70
+	},
+	{
+		"name": "Clint Eastwood",
+		"pageUrl": "https://anywaywell.com/beat/clint-eastwood-buy-1-get-3-free-2425654",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2425654&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 125
+	},
+	{
+		"name": "4 My People",
+		"pageUrl": "https://anywaywell.com/beat/4-my-people-buy-1-get-3-free-3414750",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3414750&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 92
+	},
+	{
+		"name": "Cheat Code",
+		"pageUrl": "https://anywaywell.com/beat/cheat-code-buy-1-get-3-free-3124301",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3124301&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 124
+	},
+	{
+		"name": "RAF Camora",
+		"pageUrl": "https://anywaywell.com/beat/raf-camora-buy-1-get-3-free-3414846",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3414846&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 93
+	},
+	{
+		"name": "One More",
+		"pageUrl": "https://anywaywell.com/beat/one-more-buy-1-get-3-free-3329977",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3329977&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 96
+	},
+	{
+		"name": "La La Land",
+		"pageUrl": "https://anywaywell.com/beat/la-la-land-buy-1-get-3-free-3187284",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3187284&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 82
+	},
+	{
+		"name": "Snazzy",
+		"pageUrl": "https://anywaywell.com/beat/snazzy-buy-1-get-3-free-2605600",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2605600&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Gangsta"
+		],
+		"bpm": 80
+	},
+	{
+		"name": "Emotions",
+		"pageUrl": "https://anywaywell.com/beat/emotions-buy-1-get-3-free-3133121",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3133121&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 69
+	},
+	{
+		"name": "Real",
+		"pageUrl": "https://anywaywell.com/beat/real-buy-1-get-3-free-2988001",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2988001&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 71
+	},
+	{
+		"name": "Antidote   (Collab w/ Destinybeats)",
+		"pageUrl": "https://anywaywell.com/beat/antidote-buy-1-get-3-free-collab-w-destinybeats-2547589",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2547589&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 115
+	},
+	{
+		"name": "In My Tempo",
+		"pageUrl": "https://anywaywell.com/beat/in-my-tempo-buy-1-get-3-free-942101",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=942101&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 70
+	},
+	{
+		"name": "Leader",
+		"pageUrl": "https://anywaywell.com/beat/leader-buy-1-get-3-free-631011",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=631011&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 70
+	},
+	{
+		"name": "Blackout",
+		"pageUrl": "https://anywaywell.com/beat/blackout-buy-1-get-3-free-3029985",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3029985&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 78.5
+	},
+	{
+		"name": "KING",
+		"pageUrl": "https://anywaywell.com/beat/king-buy-1-get-3-free-2537520",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2537520&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 83.5
+	},
+	{
+		"name": "Savage",
+		"pageUrl": "https://anywaywell.com/beat/savage-buy-1-get-3-free-2895738",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2895738&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 73
+	},
+	{
+		"name": "Coffee Shop  (Trap Version)",
+		"pageUrl": "https://anywaywell.com/beat/coffee-shop-buy-1-get-3-free-trap-version-2871630",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2871630&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 93
+	},
+	{
+		"name": "Coffee Shop  (Old School Version)",
+		"pageUrl": "https://anywaywell.com/beat/coffee-shop-buy-1-get-3-free-old-school-version-2864310",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=2864310&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Orchestral"
+		],
+		"bpm": 93
 	},
 	{
 		"name": "Off White",
@@ -405,21 +750,6 @@
 		"bpm": 65
 	},
 	{
-		"name": "Clint Eastwood",
-		"pageUrl": "https://anywaywell.com/beat/clint-eastwood-buy-1-get-3-free-2425654",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2425654&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 125
-	},
-	{
 		"name": "Moments",
 		"pageUrl": "https://anywaywell.com/beat/moments-buy-1-get-3-free-2541875",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2541875&return=audio",
@@ -433,21 +763,6 @@
 			"Trap"
 		],
 		"bpm": 80
-	},
-	{
-		"name": "Deja Vu",
-		"pageUrl": "https://anywaywell.com/beat/deja-vu-buy-1-get-3-free-504283",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=504283&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 82
 	},
 	{
 		"name": "Sorry",
@@ -540,21 +855,6 @@
 		"bpm": 80.3
 	},
 	{
-		"name": "Antidote (Collab w/ Destinybeats)",
-		"pageUrl": "https://anywaywell.com/beat/antidote-collab-w-destinybeats-2547589",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2547589&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 115
-	},
-	{
 		"name": "Leila",
 		"pageUrl": "https://anywaywell.com/beat/leila-buy-1-get-3-free-2425683",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2425683&return=audio",
@@ -585,21 +885,6 @@
 		"bpm": 63
 	},
 	{
-		"name": "Hot Season",
-		"pageUrl": "https://anywaywell.com/beat/hot-season-buy-1-get-3-free-2485979",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2485979&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 70
-	},
-	{
 		"name": "99 Problems",
 		"pageUrl": "https://anywaywell.com/beat/99-problems-buy-1-get-3-free-2539652",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2539652&return=audio",
@@ -613,21 +898,6 @@
 			"West Coast"
 		],
 		"bpm": 76
-	},
-	{
-		"name": "KING",
-		"pageUrl": "https://anywaywell.com/beat/king-buy-1-get-3-free-2537520",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2537520&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 83.5
 	},
 	{
 		"name": "Illmind",
@@ -855,8 +1125,8 @@
 		"bpm": 80
 	},
 	{
-		"name": "Buy 1 Get 3 Free | “Oreos”",
-		"pageUrl": "https://anywaywell.com/beat/buy-1-get-3-free-oreos-2100802",
+		"name": "Oreos",
+		"pageUrl": "https://anywaywell.com/beat/oreos-buy-1-get-3-free-2100802",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2100802&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -915,38 +1185,8 @@
 		"bpm": 98.5
 	},
 	{
-		"name": "In My Tempo",
-		"pageUrl": "https://anywaywell.com/beat/in-my-tempo-942101",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=942101&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 70
-	},
-	{
-		"name": "Stradivari",
-		"pageUrl": "https://anywaywell.com/beat/stradivari-buy-1-get-3-free-612618",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=612618&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Orchestral"
-		],
-		"bpm": 81.5
-	},
-	{
-		"name": "Havoc (70 bpm)",
-		"pageUrl": "https://anywaywell.com/beat/havoc-70-bpm-570204",
+		"name": "Havoc",
+		"pageUrl": "https://anywaywell.com/beat/havoc-buy-1-get-3-free-570204",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=570204&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1006,7 +1246,7 @@
 	},
 	{
 		"name": "Stacks",
-		"pageUrl": "https://anywaywell.com/beat/stacks-2031570",
+		"pageUrl": "https://anywaywell.com/beat/stacks-buy-1-get-3-free-2031570",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2031570&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1021,7 +1261,7 @@
 	},
 	{
 		"name": "Redemption",
-		"pageUrl": "https://anywaywell.com/beat/redemption-1964754",
+		"pageUrl": "https://anywaywell.com/beat/redemption-buy-1-get-3-free-1964754",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1964754&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1050,8 +1290,8 @@
 		"bpm": 128
 	},
 	{
-		"name": "High Art",
-		"pageUrl": "https://anywaywell.com/beat/high-art-1018426",
+		"name": "The Beginning",
+		"pageUrl": "https://anywaywell.com/beat/the-beginning-buy-1-get-3-free-1018426",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1018426&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1125,8 +1365,23 @@
 		"bpm": 80
 	},
 	{
-		"name": "Smile (93 bpm)",
-		"pageUrl": "https://anywaywell.com/beat/smile-93-bpm-540067",
+		"name": "Dream",
+		"pageUrl": "https://anywaywell.com/beat/dream-buy-1-get-3-free-1324446",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=1324446&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 94
+	},
+	{
+		"name": "Smile",
+		"pageUrl": "https://anywaywell.com/beat/smile-buy-1-get-3-free-540067",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=540067&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1321,7 +1576,7 @@
 	},
 	{
 		"name": "Hustle For More",
-		"pageUrl": "https://anywaywell.com/beat/hustle-for-more-1898289",
+		"pageUrl": "https://anywaywell.com/beat/hustle-for-more-buy-1-get-3-free-1898289",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1898289&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1336,7 +1591,7 @@
 	},
 	{
 		"name": "City Lights",
-		"pageUrl": "https://anywaywell.com/beat/city-lights-1898300",
+		"pageUrl": "https://anywaywell.com/beat/city-lights-buy-1-get-3-free-1898300",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1898300&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1365,8 +1620,8 @@
 		"bpm": 80
 	},
 	{
-		"name": "No Lies (Buy 1 Get 1 Free)",
-		"pageUrl": "https://anywaywell.com/beat/no-lies-buy-1-get-1-free-1446325",
+		"name": "No Lies",
+		"pageUrl": "https://anywaywell.com/beat/no-lies-buy-1-get-3-free-1446325",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1446325&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1635,6 +1890,21 @@
 		"bpm": 98
 	},
 	{
+		"name": "Incognito",
+		"pageUrl": "https://anywaywell.com/beat/incognito-659263",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=659263&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 60
+	},
+	{
 		"name": "Horror",
 		"pageUrl": "https://anywaywell.com/beat/horror-buy-1-get-3-free-1063378",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1063378&return=audio",
@@ -1666,7 +1936,7 @@
 	},
 	{
 		"name": "Razors Out",
-		"pageUrl": "https://anywaywell.com/beat/razors-out--752881",
+		"pageUrl": "https://anywaywell.com/beat/razors-out-752881",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=752881&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1678,21 +1948,6 @@
 			"Grime"
 		],
 		"bpm": 92
-	},
-	{
-		"name": "Unstoppable",
-		"pageUrl": "https://anywaywell.com/beat/unstoppable--522211",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=522211&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Orchestral"
-		],
-		"bpm": 75
 	},
 	{
 		"name": "Deathblow",
@@ -1771,7 +2026,7 @@
 	},
 	{
 		"name": "Get Away",
-		"pageUrl": "https://anywaywell.com/beat/get-away-1389577",
+		"pageUrl": "https://anywaywell.com/beat/get-away-buy-1-get-3-free-1389577",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1389577&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1786,7 +2041,7 @@
 	},
 	{
 		"name": "On My Way",
-		"pageUrl": "https://anywaywell.com/beat/on-my-way-1254644",
+		"pageUrl": "https://anywaywell.com/beat/on-my-way-buy-1-get-3-free-1254644",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1254644&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1801,7 +2056,7 @@
 	},
 	{
 		"name": "Revenge",
-		"pageUrl": "https://anywaywell.com/beat/revenge--601375",
+		"pageUrl": "https://anywaywell.com/beat/revenge-601375",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=601375&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1816,7 +2071,7 @@
 	},
 	{
 		"name": "Remember The Name",
-		"pageUrl": "https://anywaywell.com/beat/remember-the-name--759592",
+		"pageUrl": "https://anywaywell.com/beat/remember-the-name-759592",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=759592&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -1905,21 +2160,6 @@
 		"bpm": 62
 	},
 	{
-		"name": "Livin' Right (SOLD)",
-		"pageUrl": "https://anywaywell.com/beat/livin-right-sold-1125194",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=1125194&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 85
-	},
-	{
 		"name": "Player",
 		"pageUrl": "https://anywaywell.com/beat/player-783003",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=783003&return=audio",
@@ -1951,7 +2191,7 @@
 	},
 	{
 		"name": "Look At Me",
-		"pageUrl": "https://anywaywell.com/beat/look-at-me--579917",
+		"pageUrl": "https://anywaywell.com/beat/look-at-me-579917",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=579917&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -2025,21 +2265,6 @@
 		"bpm": 75
 	},
 	{
-		"name": "Galvanize",
-		"pageUrl": "https://anywaywell.com/beat/galvanize-994751",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=994751&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 110
-	},
-	{
 		"name": "Legendary",
 		"pageUrl": "https://anywaywell.com/beat/legendary-693993",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=693993&return=audio",
@@ -2053,21 +2278,6 @@
 			"Trap"
 		],
 		"bpm": 70
-	},
-	{
-		"name": "Timelapse",
-		"pageUrl": "https://anywaywell.com/beat/timelapse-sold-423605",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=423605&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": false,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Orchestral"
-		],
-		"bpm": 82
 	},
 	{
 		"name": "MAYDAY",
@@ -2101,7 +2311,7 @@
 	},
 	{
 		"name": "Rampage",
-		"pageUrl": "https://anywaywell.com/beat/rampage--550491",
+		"pageUrl": "https://anywaywell.com/beat/rampage-550491",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=550491&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -2206,7 +2416,7 @@
 	},
 	{
 		"name": "On My Own",
-		"pageUrl": "https://anywaywell.com/beat/on-my-own--794978",
+		"pageUrl": "https://anywaywell.com/beat/on-my-own-794978",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=794978&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -2355,21 +2565,6 @@
 		"bpm": 75
 	},
 	{
-		"name": "Incognito",
-		"pageUrl": "https://anywaywell.com/beat/incognito-659263",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=659263&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 60
-	},
-	{
 		"name": "Breath Of Wind",
 		"pageUrl": "https://anywaywell.com/beat/breath-of-wind--468204",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=468204&return=audio",
@@ -2386,12 +2581,12 @@
 	},
 	{
 		"name": "Chillout",
-		"pageUrl": "https://anywaywell.com/beat/chillout-544103",
+		"pageUrl": "https://anywaywell.com/beat/sold-chillout-544103",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=544103&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
-		"availableForPurchase": true,
+		"availableForPurchase": false,
 		"hasHook": false,
 		"genres": [
 			"Hip Hop",
@@ -2416,7 +2611,7 @@
 	},
 	{
 		"name": "Chance",
-		"pageUrl": "https://anywaywell.com/beat/chance--490655",
+		"pageUrl": "https://anywaywell.com/beat/chance-490655",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=490655&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -2431,7 +2626,7 @@
 	},
 	{
 		"name": "In The Air",
-		"pageUrl": "https://anywaywell.com/beat/in-the-air--736681",
+		"pageUrl": "https://anywaywell.com/beat/in-the-air-736681",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=736681&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -2443,21 +2638,6 @@
 			"Club"
 		],
 		"bpm": 119
-	},
-	{
-		"name": "Enemies",
-		"pageUrl": "https://anywaywell.com/beat/enemies-sold-638711",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=638711&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": false,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Gangsta"
-		],
-		"bpm": 56
 	},
 	{
 		"name": "Atlanta",
@@ -2685,6 +2865,36 @@
 		"bpm": 63
 	},
 	{
+		"name": "Unstoppable",
+		"pageUrl": "https://anywaywell.com/beat/sold-unstoppable-522211",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=522211&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": false,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Orchestral"
+		],
+		"bpm": 75
+	},
+	{
+		"name": "Enemies",
+		"pageUrl": "https://anywaywell.com/beat/enemies-sold-638711",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=638711&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": false,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Gangsta"
+		],
+		"bpm": 56
+	},
+	{
 		"name": "God Complex",
 		"pageUrl": "https://anywaywell.com/beat/sold-god-complex-954571",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=954571&return=audio",
@@ -2698,6 +2908,21 @@
 			"Orchestral"
 		],
 		"bpm": 65
+	},
+	{
+		"name": "Galvanize",
+		"pageUrl": "https://anywaywell.com/beat/sold-galvanize-994751",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=994751&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": false,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 110
 	},
 	{
 		"name": "Ambitions",
@@ -2730,6 +2955,36 @@
 		"bpm": 64.3
 	},
 	{
+		"name": "Timelapse",
+		"pageUrl": "https://anywaywell.com/beat/timelapse-sold-423605",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=423605&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": false,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Orchestral"
+		],
+		"bpm": 82
+	},
+	{
+		"name": "Livin' Right (SOLD)",
+		"pageUrl": "https://anywaywell.com/beat/livin-right-sold-1125194",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=1125194&return=audio",
+		"producers": [
+			"Anywaywell"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 85
+	},
+	{
 		"name": "BATTLE SYMPHONY",
 		"pageUrl": "https://anywaywell.com/beat/sold-battle-symphony-805430",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=805430&return=audio",
@@ -2745,9 +3000,9 @@
 		"bpm": 87
 	},
 	{
-		"name": "Dream",
-		"pageUrl": "https://anywaywell.com/beat/dream-buy-1-get-3-free-1324446",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=1324446&return=audio",
+		"name": "Day By Day",
+		"pageUrl": "https://anywaywell.com/beat/day-by-day-517931",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=517931&return=audio",
 		"producers": [
 			"Anywaywell"
 		],
@@ -2757,7 +3012,7 @@
 			"Hip Hop",
 			"Trap"
 		],
-		"bpm": 94
+		"bpm": 55
 	},
 	{
 		"name": "Manifesto",
@@ -2806,7 +3061,7 @@
 	},
 	{
 		"name": "Rockstar",
-		"pageUrl": "https://anywaywell.com/beat/rockstar-1254703",
+		"pageUrl": "https://anywaywell.com/beat/rockstar-buy-1-get-3-free-1254703",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1254703&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -2848,21 +3103,6 @@
 			"Trap"
 		],
 		"bpm": 96
-	},
-	{
-		"name": "Day By Day",
-		"pageUrl": "https://anywaywell.com/beat/day-by-day--517931",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=517931&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 55
 	},
 	{
 		"name": "Tokyo",
@@ -2911,7 +3151,7 @@
 	},
 	{
 		"name": "Tempest",
-		"pageUrl": "https://anywaywell.com/beat/tempest--727277",
+		"pageUrl": "https://anywaywell.com/beat/tempest-727277",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=727277&return=audio",
 		"producers": [
 			"Anywaywell"
@@ -2923,21 +3163,6 @@
 			"Trap"
 		],
 		"bpm": 58.5
-	},
-	{
-		"name": "Leader",
-		"pageUrl": "https://anywaywell.com/beat/leader-631011",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=631011&return=audio",
-		"producers": [
-			"Anywaywell"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 70
 	},
 	{
 		"name": "Alter Ego",
