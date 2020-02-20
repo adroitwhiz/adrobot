@@ -50,20 +50,33 @@ const loadCommands = () => {
 const performActionOnMessage = (message, commands, configFetcher) => { //naming things is hard ok :'(
 	if (message.author === client.user) return; //could probably be implemented more elegantly, if another nested "if" expression is "elegant"
 
-	configFetcher.fetchGuildConfig(message.guild).then(guildConfig => {
+	return configFetcher.fetchGuildConfig(message.guild).then(guildConfig => {
 		if (message.content.startsWith(guildConfig.prefix)) {
 			const commandName = message.content.slice(guildConfig.prefix.length).split(' ')[0];
 
 			if (commands.has(commandName)) {
-				let command = commands.get(commandName);
-				configFetcher.fetchCommandConfig(message.guild, commandName).then(cmdConfig => {
-					// Prevent hidden commands from showing up in e.g. the help results
+				const command = commands.get(commandName);
+				const specials = {prefix: guildConfig.prefix};
+				let cmdConfig;
+
+				const promises = [configFetcher.fetchCommandConfig(message.guild, commandName).then(config => {cmdConfig = config;})];
+
+				if (command.specials.has('commands')) {
 					const visibleCommands = new Map();
 					for (const [commandName, command] of commands) {
 						if (!command.hidden) visibleCommands.set(commandName, command);
 					}
+					specials.commands = visibleCommands;
+				}
 
-					command.run(message, message.channel, cmdConfig, {commands: visibleCommands, prefix: guildConfig.prefix});
+				if (command.specials.has('previousMessage')) {
+					promises.push(message.channel.fetchMessages({limit: 1, before: message.id}).then(messages => {
+						specials.previousMessage = messages.last();
+					}));
+				}
+
+				return Promise.all(promises).then(() => {
+					return command.run(message, message.channel, cmdConfig, specials);
 				});
 			}
 		}
