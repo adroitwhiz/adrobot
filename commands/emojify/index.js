@@ -2,8 +2,6 @@ const fs = require('fs').promises;
 const path = require('path');
 const deburr = require('lodash.deburr');
 
-const appUtils = require('../../common/app-utils.js');
-
 const replacementsFile = 'data/replacements.json';
 
 module.exports = {
@@ -17,8 +15,8 @@ module.exports = {
 
 	command: data => {
 		return {
-			commandFunction: (inputMessage, outputChannel, config, specialResults) => {
-				let inputText = appUtils.parseCommand(inputMessage.content, {splitSpaces: false});
+			commandFunction: (outputChannel, config, specialResults) => {
+				let inputText = specialResults.args;
 
 				if (!inputText.length > 0) {
 					inputText = specialResults.previousMessage.content;
@@ -33,7 +31,7 @@ module.exports = {
 
 			name: 'emojify',
 			helpString: 'Converts the previous message, or a message you provide, into emojis',
-			specials: ['previousMessage']
+			specials: ['args', 'previousMessage']
 		};
 	}
 };

@@ -2,8 +2,6 @@ const fs = require('fs').promises;
 const path = require('path');
 const Fuse = require('fuse.js');
 
-const appUtils = require('../../common/app-utils.js');
-
 const beatsFolder = path.join(__dirname, 'beats');
 
 // Shamelessly yanked from StackOverflow
@@ -130,9 +128,9 @@ module.exports = {
 		});
 
 		return {
-			commandFunction: (inputMessage, outputChannel, config) => {
+			commandFunction: (outputChannel, config, specials) => {
 				const argv = parseArgs(
-					appUtils.parseCommand(inputMessage.content, {splitSpaces: false}),
+					specials.args,
 					argAliases
 				);
 
@@ -282,7 +280,8 @@ module.exports = {
 
 			name: 'beat',
 			helpString: 'Serves up a funky fresh beat',
-			advancedHelpString: argHelpString
+			advancedHelpString: argHelpString,
+			specials: ['args']
 		};
 	}
 };

@@ -10,7 +10,7 @@ module.exports = {
 
 	command: data => {
 		return {
-			commandFunction: (inputMessage, outputChannel) => {
+			commandFunction: outputChannel => {
 				outputChannel.send(data.beeList[Math.floor(Math.random() * data.beeList.length)]);
 			},
 

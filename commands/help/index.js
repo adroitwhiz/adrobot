@@ -1,10 +1,8 @@
-const appUtils = require('../../common/app-utils.js');
-
 module.exports = {
 	command: () => {
 		return {
-			commandFunction: (inputMessage, outputChannel, config, specialResults) => {
-				let helpCommand = appUtils.parseCommand(inputMessage.content, {splitSpaces: false});
+			commandFunction: (outputChannel, config, specialResults) => {
+				let helpCommand = specialResults.args;
 				if (helpCommand) {
 					// support both '-help -command' and '-help command'
 					if (helpCommand.startsWith(specialResults.prefix)) {
@@ -32,7 +30,7 @@ module.exports = {
 
 			name: 'help',
 			helpString: 'Learn what the commands do',
-			specials: ['commands', 'prefix']
+			specials: ['args', 'commands', 'prefix']
 		};
 	}
 };

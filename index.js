@@ -75,8 +75,12 @@ const performActionOnMessage = (message, commands, configFetcher) => { //naming 
 					}));
 				}
 
+				if (command.specials.has('args')) {
+					specials.args = message.content.split(' ').slice(1).join(' ');
+				}
+
 				return Promise.all(promises).then(() => {
-					return command.run(message, message.channel, cmdConfig, specials);
+					return command.run(message.channel, cmdConfig, specials);
 				});
 			}
 		}

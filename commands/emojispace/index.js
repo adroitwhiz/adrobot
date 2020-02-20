@@ -2,8 +2,6 @@ const fs = require('fs').promises;
 const path = require('path');
 const emojiKeywords = require('emojis-keywords');
 
-const appUtils = require('../../common/app-utils.js');
-
 const emojiFile = 'data/emojis.json';
 
 const isEmoji = (str) => {
@@ -42,8 +40,8 @@ module.exports = {
 
 	command: data => {
 		return {
-			commandFunction: (inputMessage, outputChannel, config, specialResults) => {
-				const emojiToUse = appUtils.parseCommand(inputMessage.content, {splitSpaces: false});
+			commandFunction: (outputChannel, config, specialResults) => {
+				const emojiToUse = specialResults.args;
 				const textToEmojify = escapeEmojiString(specialResults.previousMessage.content);
 
 				let emojifiedText;
@@ -66,7 +64,7 @@ module.exports = {
 
 			name: 'emojispace',
 			helpString: 'Replaces spaces in the previous message with emoji, possibly of your choice',
-			specials: ['previousMessage']
+			specials: ['args', 'previousMessage']
 		};
 	}
 };

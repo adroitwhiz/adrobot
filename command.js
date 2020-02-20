@@ -8,8 +8,8 @@ class Command {
 		this.specials = new Set(options.specials);
 	}
 
-	run(inputMessage, outputChannel, config, specialInputs) {
-		return this.commandFunction(inputMessage, outputChannel, config, specialInputs);
+	run(outputChannel, config, specialInputs) {
+		return this.commandFunction(outputChannel, config, specialInputs);
 	}
 }
 

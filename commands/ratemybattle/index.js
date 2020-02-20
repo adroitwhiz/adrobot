@@ -2,8 +2,6 @@ const fs = require('fs').promises;
 const path = require('path');
 const seedrandom = require('seedrandom');
 
-const appUtils = require('../../common/app-utils.js');
-
 const ratingStringsPath = 'data/rating-strings.json';
 
 const floatToMinMaxInclusive = (min, max, float) => {
@@ -24,8 +22,8 @@ module.exports = {
 
 	command: data => {
 		return {
-			commandFunction: (inputMessage, outputChannel) => {
-				const battleString = appUtils.parseCommand(inputMessage.content, {splitSpaces: false}).toLowerCase();
+			commandFunction: (outputChannel, config, specials) => {
+				const battleString = specials.args.toLowerCase();
 
 				if (battleString) {
 					if (battleString.match(new RegExp(' vs? ')) || battleString.match(new RegExp('https?://'))) {
@@ -53,7 +51,8 @@ module.exports = {
 				}
 			},
 			name: 'ratemybattle',
-			helpString: 'Rates your rap battle'
+			helpString: 'Rates your rap battle',
+			specials: ['args']
 		};
 	}
 };

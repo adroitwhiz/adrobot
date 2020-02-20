@@ -87,7 +87,7 @@ module.exports = {
 
 	command: data => {
 		return {
-			commandFunction: (inputMessage, outputChannel) => {
+			commandFunction: outputChannel => {
 				const matchup = generateMatchupObject(data.characters, data.series);
 				outputChannel.send('', {embed: renderMatchupEmbed(matchup)});
 			},
