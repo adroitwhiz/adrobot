@@ -86,7 +86,8 @@ const argHelp = {
 	'purchasable': 'Filter out beats that have *definitely* been sold. Does not guarantee that returned beats can be bought.',
 	'every': 'Return every beat (up to a limit) matching your filter(s), instead of just one.',
 	'num': 'Return this many matching beats.',
-	'url': 'Filter beats whose audio file links contain this text. Useful for finding the name of a beat given an audio file.'
+	'url': 'Filter beats whose audio file links contain this text. Useful for finding the name of a beat given an audio file.',
+	'more': 'Overrides all other options. Use the same set of options as the last -beat command in this channel.'
 };
 
 const argHelpString = (() => {
@@ -115,7 +116,10 @@ module.exports = {
 	initializeData: () => {
 		return fs.readdir(beatsFolder).then(contents =>
 			Promise.all(contents.map(filename => fs.readFile(path.join(beatsFolder, filename), {encoding: 'utf-8'}).then(JSON.parse)))
-		).then(beatLists => { return {beats: beatLists.flat()}; });
+		).then(beatLists => { return {
+			beats: beatLists.flat(),
+			lastCommandInChannel: new Map()
+		}; });
 	},
 
 	command: data => {
@@ -129,10 +133,20 @@ module.exports = {
 
 		return {
 			commandFunction: (outputChannel, config, specials) => {
-				const argv = parseArgs(
+				let argv = parseArgs(
 					specials.args,
 					argAliases
 				);
+
+				if (argv.has('more')) {
+					if (data.lastCommandInChannel.has(outputChannel.id)) {
+						argv = data.lastCommandInChannel.get(outputChannel.id);
+					} else {
+						return outputChannel.send('Cannot remember last -beat command');
+					}
+				} else {
+					data.lastCommandInChannel.set(outputChannel.id, argv);
+				}
 
 				let matchingBeats;
 				let shouldRandomize = true;
