@@ -70,7 +70,7 @@ const performActionOnMessage = (message, commands, configFetcher) => { //naming 
 				}
 
 				if (command.specials.has('previousMessage')) {
-					promises.push(message.channel.fetchMessages({limit: 1, before: message.id}).then(messages => {
+					promises.push(message.channel.messages.fetch({limit: 1, before: message.id}).then(messages => {
 						specials.previousMessage = messages.last();
 					}));
 				}
@@ -81,6 +81,13 @@ const performActionOnMessage = (message, commands, configFetcher) => { //naming 
 
 				return Promise.all(promises).then(() => {
 					return command.run(message.channel, cmdConfig, specials);
+				}).catch(err => {
+					// report errors to meeeeeee
+					client.users.fetch('323268429769342978')
+						.then(user => user.createDM())
+						.then(dm => {
+							dm.send(`AdroBot encountered an error: \`\`\`${err.stack}\`\`\`\nCommand was \`\`\`${message}\`\`\``);
+						});
 				});
 			}
 		}

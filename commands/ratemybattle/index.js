@@ -25,29 +25,27 @@ module.exports = {
 			commandFunction: (outputChannel, config, specials) => {
 				const battleString = specials.args.toLowerCase();
 
-				if (battleString) {
-					if (battleString.match(new RegExp(' vs? ')) || battleString.match(new RegExp('https?://'))) {
-						const battleRandom = seedrandom(battleString);
-						const battleRandomScore = battleRandom();
-						const battleScores = {
-							badScore: floatToMinMaxInclusive(0, 3, battleRandomScore),
-							mediocreScore: floatToMinMaxInclusive(2, 5, battleRandomScore),
-							averageScore: floatToMinMaxInclusive(3, 6, battleRandomScore),
-							goodScore: floatToMinMaxInclusive(7, 10, battleRandomScore),
-							greatScore: floatToMinMaxInclusive(8, 10, battleRandomScore),
-							anyScore: floatToMinMaxInclusive(0, 10, battleRandomScore)
-						};
+				if (!battleString) return outputChannel.send('Which battle am I supposed to review?');
 
-						for (const scoreKey of Object.keys(battleScores)) {
-							battleScores[scoreKey] = `${battleScores[scoreKey]}/10`;
-						}
+				if (battleString.match(new RegExp(' vs? ')) || battleString.match(new RegExp('https?://'))) {
+					const battleRandom = seedrandom(battleString);
+					const battleRandomScore = battleRandom();
+					const battleScores = {
+						badScore: floatToMinMaxInclusive(0, 3, battleRandomScore),
+						mediocreScore: floatToMinMaxInclusive(2, 5, battleRandomScore),
+						averageScore: floatToMinMaxInclusive(3, 6, battleRandomScore),
+						goodScore: floatToMinMaxInclusive(7, 10, battleRandomScore),
+						greatScore: floatToMinMaxInclusive(8, 10, battleRandomScore),
+						anyScore: floatToMinMaxInclusive(0, 10, battleRandomScore)
+					};
 
-						outputChannel.send(templateString(data.ratingStrings[floatToMinMaxInclusive(0, data.ratingStrings.length - 1, battleRandom())], battleScores));
-					} else {
-						outputChannel.send('That doesn\'t look like a rap battle.');
+					for (const scoreKey of Object.keys(battleScores)) {
+						battleScores[scoreKey] = `${battleScores[scoreKey]}/10`;
 					}
+
+					return outputChannel.send(templateString(data.ratingStrings[floatToMinMaxInclusive(0, data.ratingStrings.length - 1, battleRandom())], battleScores));
 				} else {
-					outputChannel.send('Which battle am I supposed to review?');
+					return outputChannel.send('That doesn\'t look like a rap battle.');
 				}
 			},
 			name: 'ratemybattle',

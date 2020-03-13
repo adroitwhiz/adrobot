@@ -22,7 +22,7 @@ module.exports = {
 					inputText = specialResults.previousMessage.content;
 				}
 
-				outputChannel.send(
+				return outputChannel.send(
 					deburr(inputText.toLowerCase())
 					.split('')
 					.map(char => data.replacements.hasOwnProperty(char) ? data.replacements[char] : char)
