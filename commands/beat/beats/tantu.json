@@ -1,5 +1,395 @@
 [
 	{
+		"name": "Laundromat",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/laundromat-5139047",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5139047&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 95
+	},
+	{
+		"name": "Tweety",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/tweety-5119818",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5119818&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 87
+	},
+	{
+		"name": "Maniac",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/maniac-5074297",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5074297&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"R&B"
+		],
+		"bpm": 140
+	},
+	{
+		"name": "Emotion",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/emotion-5001739",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5001739&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / R&B"
+		],
+		"bpm": 142
+	},
+	{
+		"name": "Dial Tone",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/dial-tone-4968931",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4968931&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 100
+	},
+	{
+		"name": "NASA",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/nasa-4928306",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4928306&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 150
+	},
+	{
+		"name": "Ex",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/ex-4848634",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4848634&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"R&B"
+		],
+		"bpm": 107
+	},
+	{
+		"name": "H2O",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/h2o-4768987",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4768987&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 175
+	},
+	{
+		"name": "Pink",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/pink-4675652",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4675652&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 126
+	},
+	{
+		"name": "Play",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/play-4568760",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4568760&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 90
+	},
+	{
+		"name": "Soft Drink",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/soft-drink-4549024",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4549024&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / R&B"
+		],
+		"bpm": 102
+	},
+	{
+		"name": "Bong!",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/bong-4497882",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4497882&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 87
+	},
+	{
+		"name": "Green",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/green-4477443",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4477443&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"West Coast"
+		],
+		"bpm": 93
+	},
+	{
+		"name": "The Crow",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/the-crow-4423438",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4423438&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 150
+	},
+	{
+		"name": "Morning (Tantu x GC)",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/morning-tantu-x-gc-4349765",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4349765&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 86
+	},
+	{
+		"name": "Bicycle",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/bicycle-4305321",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4305321&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 92
+	},
+	{
+		"name": "Earth",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/earth-4236554",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4236554&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 158
+	},
+	{
+		"name": "Waterfall",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/waterfall-4202600",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4202600&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 92
+	},
+	{
+		"name": "Virus",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/virus-4165002",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4165002&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 90
+	},
+	{
+		"name": "Eternal",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/eternal-4077754",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=4077754&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 95
+	},
+	{
+		"name": "Milk!",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/milk-3972952",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3972952&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 96
+	},
+	{
+		"name": "Vibe",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/vibe-3918490",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3918490&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 80
+	},
+	{
+		"name": "Korea",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/korea-3872331",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3872331&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 146
+	},
+	{
+		"name": "Training",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/training-3842699",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3842699&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 150
+	},
+	{
+		"name": "Full Circle",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/full-circle-3815938",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3815938&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 148
+	},
+	{
+		"name": "Lost",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/lost-3766202",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3766202&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 82
+	},
+	{
+		"name": "Money",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/money-3730572",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=3730572&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 160
+	},
+	{
 		"name": "Soul Gang",
 		"pageUrl": "https://tantubeats.beatstars.com/beat/soul-gang-3686162",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3686162&return=audio",
@@ -42,20 +432,6 @@
 			"Trap"
 		],
 		"bpm": 160
-	},
-	{
-		"name": "On Tape",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/on-tape-3620542",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=3620542&return=audio",
-		"producers": [
-			"Tantu Beats"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop"
-		],
-		"bpm": 93
 	},
 	{
 		"name": "Clouts",
@@ -745,8 +1121,8 @@
 		"bpm": 78
 	},
 	{
-		"name": "We On",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/we-on-2074374",
+		"name": "We On [SOLD]",
+		"pageUrl": "https://tantubeats.beatstars.com/beat/we-on-sold-2074374",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2074374&return=audio",
 		"producers": [
 			"Tantu Beats"

@@ -3,6 +3,840 @@
 		"producers": [
 			"Kustom"
 		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3122046",
+		"name": "Hellobello",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Hellobello.mp3",
+		"genres": [
+			"Tropical"
+		],
+		"availableForPurchase": true,
+		"bpm": 100,
+		"moods": [
+			"Vibey"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2484079",
+		"name": "Grapebear",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Grapebear.mp3",
+		"genres": [
+			"Rap",
+			"Trap"
+		],
+		"availableForPurchase": true,
+		"bpm": 140
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-6351226",
+		"name": "WhistleOn",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-WhistleOn.mp3",
+		"genres": [
+			"Pop"
+		],
+		"availableForPurchase": true,
+		"bpm": 122
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3040127",
+		"name": "BrakeYou",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-BrakeYou.mp3",
+		"genres": [
+			"R&B"
+		],
+		"availableForPurchase": true,
+		"bpm": 122
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3423750",
+		"name": "DigitalHeart",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-DigitalHeart.mp3",
+		"genres": [
+			"Trap",
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 133
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-317336",
+		"name": "Infinite",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Infinite.mp3",
+		"genres": [
+			"Mid Tempo",
+			"Future Dub"
+		],
+		"availableForPurchase": true,
+		"bpm": 146,
+		"moods": [
+			"Creative"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-1655086",
+		"name": "ThinkItOver",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-ThinkItOver.mp3",
+		"genres": [
+			"Reggae"
+		],
+		"availableForPurchase": true,
+		"bpm": 120
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-447441",
+		"name": "Positions",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Positions.mp3",
+		"genres": [
+			"Afrobeat",
+			"Dancehall"
+		],
+		"availableForPurchase": true,
+		"bpm": 95
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-7213543",
+		"name": "Calmdown",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Calmdown.mp3",
+		"genres": [
+			"Reggae"
+		],
+		"availableForPurchase": true,
+		"bpm": 142
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-7318299",
+		"name": "Realsix",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Realsix.mp3",
+		"genres": [
+			"Rap",
+			"Trap"
+		],
+		"availableForPurchase": true,
+		"bpm": 85
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3699305",
+		"name": "ThumbCoffee",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-ThumbCoffee.mp3",
+		"genres": [
+			"Mid Tempo"
+		],
+		"availableForPurchase": true,
+		"bpm": 143,
+		"moods": [
+			"Creative"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2679992",
+		"name": "Wavecade",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Wavecade.mp3",
+		"genres": [
+			"Rap"
+		],
+		"availableForPurchase": true,
+		"bpm": 97,
+		"moods": [
+			"Creative"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2920770",
+		"name": "Summerside",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Summerside.mp3",
+		"genres": [
+			"Dancehall"
+		],
+		"availableForPurchase": true,
+		"bpm": 96,
+		"moods": [
+			"Chill"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-9167369",
+		"name": "Goals",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Goals.mp3",
+		"genres": [
+			"Pop"
+		],
+		"availableForPurchase": true,
+		"bpm": 144,
+		"moods": [
+			"Uplifting"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5256431",
+		"name": "LMLT20",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-LMLT20.mp3",
+		"genres": [
+			"Dance",
+			"House"
+		],
+		"availableForPurchase": true,
+		"bpm": 122
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-918110",
+		"name": "Halven",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Halven.mp3",
+		"genres": [
+			"Tropical",
+			"Moombahton"
+		],
+		"availableForPurchase": true,
+		"bpm": 100
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-4943329",
+		"name": "Placentime",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Placentime.mp3",
+		"genres": [
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 150
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3925925",
+		"name": "Fontra",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Fontra.mp3",
+		"genres": [
+			"Afrobeat",
+			"Dancehall"
+		],
+		"availableForPurchase": true,
+		"bpm": 100
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5102601",
+		"name": "Unpainted",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Unpainted.mp3",
+		"genres": [
+			"R&B"
+		],
+		"availableForPurchase": true,
+		"bpm": 114,
+		"moods": [
+			"Chill"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2102777",
+		"name": "MassageParlor",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-MassageParlor.mp3",
+		"genres": [
+			"Hip-Hop",
+			"R&B"
+		],
+		"availableForPurchase": true,
+		"bpm": 80,
+		"moods": [
+			"Chill"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-754980",
+		"name": "Unify",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Unify.mp3",
+		"genres": [
+			"Pop"
+		],
+		"availableForPurchase": true,
+		"bpm": 100,
+		"moods": [
+			"Uplifting"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2810258",
+		"name": "Dyad",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Dyad.mp3",
+		"genres": [
+			"Hip-Hop"
+		],
+		"availableForPurchase": true,
+		"bpm": 133,
+		"moods": [
+			"Vibey"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2659483",
+		"name": "Tupperware",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Tupperware.mp3",
+		"genres": [
+			"Trap"
+		],
+		"availableForPurchase": true,
+		"bpm": 110
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-4898373",
+		"name": "Xnack",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Xnack.mp3",
+		"genres": [
+			"Afrobeat"
+		],
+		"availableForPurchase": true,
+		"bpm": 99
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5386364",
+		"name": "Checkmate",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Checkmate.mp3",
+		"genres": [
+			"Dance",
+			"EDM 120-128BPM"
+		],
+		"availableForPurchase": true,
+		"bpm": 128,
+		"moods": [
+			"Intense"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-1111460",
+		"name": "Zero2one",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Zero2one.mp3",
+		"genres": [
+			"Pop",
+			"Mid Tempo"
+		],
+		"availableForPurchase": true,
+		"bpm": 160
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5779365",
+		"name": "Ysosmall",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Ysosmall.mp3",
+		"genres": [
+			"Hip-Hop"
+		],
+		"availableForPurchase": true,
+		"bpm": 89,
+		"moods": [
+			"Intense"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5585287",
+		"name": "Quetha",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Quetha.mp3",
+		"genres": [
+			"Hip-Hop"
+		],
+		"availableForPurchase": true,
+		"bpm": 80
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3813496",
+		"name": "Dressup",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Dressup.mp3",
+		"genres": [
+			"Pop"
+		],
+		"availableForPurchase": true,
+		"bpm": 145,
+		"moods": [
+			"Uplifting"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-6931761",
+		"name": "Katch",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Katch.mp3",
+		"genres": [
+			"Mid Tempo"
+		],
+		"availableForPurchase": true,
+		"bpm": 150,
+		"moods": [
+			"Creative"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-930051",
+		"name": "Virus",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Virus.mp3",
+		"genres": [
+			"Tropical",
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 100
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-6196103",
+		"name": "Notachance",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Notachance.mp3",
+		"genres": [
+			"Hip-Hop"
+		],
+		"availableForPurchase": true,
+		"bpm": 85,
+		"moods": [
+			"Minimal"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-4310541",
+		"name": "Starman",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Starman.mp3",
+		"genres": [
+			"Mid Tempo",
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 145,
+		"moods": [
+			"Creative"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-4381994",
+		"name": "Interesting",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Interesting.mp3",
+		"genres": [
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 105,
+		"moods": [
+			"Hyped up"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-4435043",
+		"name": "Foulmouth",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Foulmouth.mp3",
+		"genres": [
+			"Rap",
+			"Trap"
+		],
+		"availableForPurchase": true,
+		"bpm": 140,
+		"moods": [
+			"Festival"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-911697",
+		"name": "Elefants",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Elefants.mp3",
+		"genres": [
+			"Afrobeat"
+		],
+		"availableForPurchase": true,
+		"bpm": 95,
+		"moods": [
+			"Creative"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-7581603",
+		"name": "Mauiwowi",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Mauiwowi.mp3",
+		"genres": [
+			"Pop",
+			"Moombahton"
+		],
+		"availableForPurchase": true,
+		"bpm": 150,
+		"moods": [
+			"Creative"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-9183174",
+		"name": "Troganoff",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Troganoff.mp3",
+		"genres": [
+			"Afrobeat"
+		],
+		"availableForPurchase": true,
+		"bpm": 99
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2777675",
+		"name": "Rushit",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Rushit.mp3",
+		"genres": [
+			"Hip-Hop",
+			"Trap",
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 140
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-6175469",
+		"name": "Only1",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Only1.mp3",
+		"genres": [
+			"R&B"
+		],
+		"availableForPurchase": true,
+		"bpm": 120,
+		"moods": [
+			"Chill"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-4447921",
+		"name": "Giveit",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Giveit.mp3",
+		"genres": [
+			"Pop"
+		],
+		"availableForPurchase": true,
+		"bpm": 136
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-1049125",
+		"name": "Face",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Face.mp3",
+		"genres": [
+			"Reggae"
+		],
+		"availableForPurchase": true,
+		"bpm": 126
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-7900871",
+		"name": "Elmadon",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Elmadon.mp3",
+		"genres": [
+			"EDM 120-128BPM"
+		],
+		"availableForPurchase": true,
+		"bpm": 128,
+		"moods": [
+			"Uplifting"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3869452",
+		"name": "DonewithU",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-DonewithU.mp3",
+		"genres": [
+			"Rap",
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 96
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3110911",
+		"name": "Aliencookie",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Aliencookie.mp3",
+		"genres": [
+			"Reggae"
+		],
+		"availableForPurchase": true,
+		"bpm": 133,
+		"moods": [
+			"Festival"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3938549",
+		"name": "Reddy",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Reddy.mp3",
+		"genres": [
+			"Mid Tempo"
+		],
+		"availableForPurchase": true,
+		"bpm": 149
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2558177",
+		"name": "Bowli",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Bowli.mp3",
+		"genres": [
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 100
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-9696577",
+		"name": "Castillo",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Castillo.mp3",
+		"genres": [
+			"Moombahton",
+			"Club"
+		],
+		"availableForPurchase": true,
+		"bpm": 128,
+		"moods": [
+			"Festival"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-8134229",
+		"name": "Plazoo",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Plazoo.mp3",
+		"genres": [
+			"Tropical"
+		],
+		"availableForPurchase": true,
+		"bpm": 100,
+		"moods": [
+			"Vibey"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5621384",
+		"name": "HeyMr",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-HeyMr.mp3",
+		"genres": [
+			"Pop"
+		],
+		"availableForPurchase": true,
+		"bpm": 140,
+		"moods": [
+			"Uplifting"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5647516",
+		"name": "Bermuda",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Bermuda.mp3",
+		"genres": [
+			"Mid Tempo",
+			"Tropical"
+		],
+		"availableForPurchase": true,
+		"bpm": 112,
+		"moods": [
+			"Chill",
+			"Minimal"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-6774067",
+		"name": "Mod2",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Mod2.mp3",
+		"genres": [
+			"Rap"
+		],
+		"availableForPurchase": true,
+		"bpm": 133
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2956336",
+		"name": "Amber",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Amber.mp3",
+		"genres": [
+			"Pop"
+		],
+		"availableForPurchase": true,
+		"bpm": 120
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-305973",
+		"name": "Vancci",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Vancci.mp3",
+		"genres": [
+			"Pop",
+			"Dance"
+		],
+		"availableForPurchase": true,
+		"bpm": 120,
+		"moods": [
+			"Uplifting"
+		]
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-7447225",
+		"name": "Sepia",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Sepia.mp3",
+		"genres": [
+			"R&B"
+		],
+		"availableForPurchase": true,
+		"bpm": 111
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
+		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3995076",
+		"name": "Goran",
+		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Goran.mp3",
+		"genres": [
+			"Hip-Hop"
+		],
+		"availableForPurchase": true,
+		"bpm": 123
+	},
+	{
+		"producers": [
+			"Kustom"
+		],
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3736605",
 		"name": "Lithera",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Lithera.mp3",
@@ -505,24 +1339,6 @@
 		"producers": [
 			"Kustom"
 		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-626996",
-		"name": "Yardsale",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Yardsale.mp3",
-		"genres": [
-			"Rap",
-			"Mid Tempo",
-			"Club"
-		],
-		"availableForPurchase": true,
-		"bpm": 88,
-		"moods": [
-			"Festival"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-1057275",
 		"name": "Lowerfi",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Lowerfi.mp3",
@@ -872,25 +1688,6 @@
 		"moods": [
 			"Creative",
 			"Chill"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-9305675",
-		"name": "Droller",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Droller.mp3",
-		"genres": [
-			"EDM 120-128BPM",
-			"House",
-			"Cinematic"
-		],
-		"availableForPurchase": true,
-		"bpm": 115,
-		"moods": [
-			"Hyped up",
-			"Intense"
 		]
 	},
 	{
@@ -2043,20 +2840,6 @@
 		"producers": [
 			"Kustom"
 		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2473595",
-		"name": "Dagasca",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Dagasca%20(nochant).mp3",
-		"genres": [
-			"Afrobeat",
-			"Dancehall"
-		],
-		"availableForPurchase": true,
-		"bpm": 96
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-808174",
 		"name": "Pabst",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Pabst.mp3",
@@ -2699,23 +3482,6 @@
 		"producers": [
 			"Kustom"
 		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-8832633",
-		"name": "Always",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Always.mp3",
-		"genres": [
-			"Pop",
-			"Tropical"
-		],
-		"availableForPurchase": true,
-		"bpm": 95,
-		"moods": [
-			"Uplifting"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-8028410",
 		"name": "Innaroom",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Innaroom.mp3",
@@ -2824,23 +3590,6 @@
 		"bpm": 120,
 		"moods": [
 			"Chill"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-944332",
-		"name": "Lemons",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Lemons.mp3",
-		"genres": [
-			"Mid Tempo",
-			"Trap"
-		],
-		"availableForPurchase": true,
-		"bpm": 140,
-		"moods": [
-			"Festival"
 		]
 	},
 	{
@@ -4121,22 +4870,6 @@
 		"producers": [
 			"Kustom"
 		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-236859",
-		"name": "Habbits",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Habbits.mp3",
-		"genres": [
-			"Pop"
-		],
-		"availableForPurchase": true,
-		"bpm": 95,
-		"moods": [
-			"Uplifting"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-9779121",
 		"name": "Glimpse",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Glimpse.mp3",
@@ -4215,24 +4948,6 @@
 		"moods": [
 			"Hyped up",
 			"Intense"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5727622",
-		"name": "Villages",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Villages.mp3",
-		"genres": [
-			"Pop",
-			"Mid Tempo"
-		],
-		"availableForPurchase": true,
-		"bpm": 100,
-		"moods": [
-			"Creative",
-			"Chill"
 		]
 	},
 	{
@@ -4320,19 +5035,6 @@
 		],
 		"availableForPurchase": true,
 		"bpm": 155
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-177161",
-		"name": "Got You Here",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Got-You-Here.mp3",
-		"genres": [
-			"Dancehall"
-		],
-		"availableForPurchase": true,
-		"bpm": 94
 	},
 	{
 		"producers": [
@@ -4523,19 +5225,6 @@
 		"producers": [
 			"Kustom"
 		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-6624471",
-		"name": "Fossils",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Fossils.mp3",
-		"genres": [
-			"Pop"
-		],
-		"availableForPurchase": true,
-		"bpm": 100
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-9387574",
 		"name": "Retired",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Retired.mp3",
@@ -4589,9 +5278,6 @@
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2127859",
 		"name": "Referee",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Referee.mp3",
-		"genres": [
-			"KB-Referee.mp3"
-		],
 		"availableForPurchase": true
 	},
 	{
@@ -4625,9 +5311,6 @@
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3165708",
 		"name": "Beamers",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Beamers.mp3",
-		"genres": [
-			"KB-Beamers.mp3"
-		],
 		"availableForPurchase": true
 	},
 	{
@@ -4637,9 +5320,6 @@
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-4381449",
 		"name": "Shoosh",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Shoosh.mp3",
-		"genres": [
-			"KB-Shoosh.mp3"
-		],
 		"availableForPurchase": true
 	},
 	{
@@ -4719,23 +5399,6 @@
 		],
 		"availableForPurchase": true,
 		"bpm": 90,
-		"moods": [
-			"Uplifting",
-			"Creative"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-6722425",
-		"name": "Ubuntu",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Ubuntu.mp3",
-		"genres": [
-			"Moombahton"
-		],
-		"availableForPurchase": true,
-		"bpm": 100,
 		"moods": [
 			"Uplifting",
 			"Creative"
@@ -4860,22 +5523,6 @@
 		"moods": [
 			"Hyped up",
 			"Intense"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-3768182",
-		"name": "Classbar",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/KB-Classbar.mp3",
-		"genres": [
-			"Hip-Hop"
-		],
-		"availableForPurchase": true,
-		"bpm": 88,
-		"moods": [
-			"Creative"
 		]
 	},
 	{
@@ -5349,22 +5996,6 @@
 		"producers": [
 			"Kustom"
 		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2666505",
-		"name": "N3ree",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20N3ree.mp3",
-		"genres": [
-			"Hip-Hop"
-		],
-		"availableForPurchase": true,
-		"bpm": 90,
-		"moods": [
-			"Intense"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2906642",
 		"name": "Kiwila",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Kiwila.mp3",
@@ -5823,24 +6454,6 @@
 		"producers": [
 			"Kustom"
 		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-1978250",
-		"name": "Airswap",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Airswap.mp3",
-		"genres": [
-			"R&B",
-			"Afrobeat"
-		],
-		"availableForPurchase": true,
-		"bpm": 100,
-		"moods": [
-			"Chill",
-			"Vibey"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
 		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-2004912",
 		"name": "Grassin",
 		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Grassin.mp3",
@@ -5902,19 +6515,6 @@
 		"moods": [
 			"Vibey"
 		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-220747",
-		"name": "Duelling Drums",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Duelling-Drums.mp3",
-		"genres": [
-			"Cinematic"
-		],
-		"availableForPurchase": true,
-		"bpm": 95
 	},
 	{
 		"producers": [
@@ -6234,23 +6834,6 @@
 		"bpm": 100,
 		"moods": [
 			"Creative"
-		]
-	},
-	{
-		"producers": [
-			"Kustom"
-		],
-		"pageUrl": "https://soundgine.com/@kustommike/hydra?tr=beat-5779897",
-		"name": "Dirty Funk",
-		"fileUrl": "https://soundgine.com/@kustommike/euplayer/ap/mp3s/GT3%20-%20Dirty%20Funk.mp3",
-		"genres": [
-			"Pop",
-			"Mid Tempo"
-		],
-		"availableForPurchase": false,
-		"bpm": 95,
-		"moods": [
-			"Hyped up"
 		]
 	},
 	{
@@ -8772,7 +9355,7 @@
 			"Dance",
 			"EDM 120-128BPM"
 		],
-		"availableForPurchase": true
+		"availableForPurchase": false
 	},
 	{
 		"producers": [
