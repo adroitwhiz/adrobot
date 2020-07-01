@@ -4,26 +4,19 @@ const Fuse = require('fuse.js');
 
 const beatsFolder = path.join(__dirname, 'beats');
 
-// Shamelessly yanked from StackOverflow
-const shuffleArray = array => {
-	let currentIndex = array.length;
-	let temporaryValue;
-	let randomIndex;
-
-	// While there remain elements to shuffle...
-	while (0 !== currentIndex) {
-
-		// Pick a remaining element...
-		randomIndex = Math.floor(Math.random() * currentIndex);
-		currentIndex -= 1;
-
-		// And swap it with the current element.
-		temporaryValue = array[currentIndex];
-		array[currentIndex] = array[randomIndex];
-		array[randomIndex] = temporaryValue;
+// Shamelessly yanked from StackOverflow: https://stackoverflow.com/a/19270021
+const getRandom = (arr, n) => {
+	const result = new Array(n);
+	let len = arr.length;
+	const taken = new Array(len);
+	if (n > len)
+		throw new RangeError('getRandom: more elements taken than available');
+	while (n--) {
+		const x = Math.floor(Math.random() * len);
+		result[n] = arr[x in taken ? taken[x] : x];
+		taken[x] = --len in taken ? taken[len] : len;
 	}
-
-	return array;
+	return result;
 };
 
 const escapeMarkdown = text => {
@@ -160,13 +153,11 @@ module.exports = {
 				} else if (argv.has('name')) {
 					matchingBeats = fuse.search(argv.get('name'));
 					shouldRandomize = false;
-				} else {
-					matchingBeats  = Array.from(data.beats);
-				}
-
-				if (argv.has('url')) {
+				} else if (argv.has('url')) {
 					const urlFragment = argv.get('url').toLowerCase();
 					matchingBeats = data.beats.filter(beat => beat.fileUrl.toLowerCase().includes(urlFragment));
+				} else {
+					matchingBeats = Array.from(data.beats);
 				}
 
 				if (argv.has('bpm')) {
@@ -212,25 +203,21 @@ module.exports = {
 					return outputChannel.send('No matching beats found.');
 				}
 
-				// If only one beat is being returned, just get it from the array; don't waste cycles shuffling
-				const returningMultipleBeats = !(argv.has('every') || argv.has('num'));
-
-				if (shouldRandomize && !returningMultipleBeats) {
-					shuffleArray(matchingBeats);
-				}
-
 				let beatsToReturn;
 
 				if (argv.has('every')) {
 					beatsToReturn = matchingBeats;
 				} else if (argv.has('num')) {
-					beatsToReturn = matchingBeats.slice(0, Number(argv.get('num')));
+					const numBeats = Number(argv.get('num'));
+					beatsToReturn = shouldRandomize ?
+						getRandom(matchingBeats, Math.min(numBeats, matchingBeats.length)) :
+						matchingBeats.slice(0, numBeats);
 				} else {
-					if (shouldRandomize) {
-						beatsToReturn = [matchingBeats[Math.floor(Math.random() * matchingBeats.length)]];
-					} else {
-						beatsToReturn = [matchingBeats[0]];
-					}
+					beatsToReturn = [
+						shouldRandomize ?
+							matchingBeats[Math.floor(Math.random() * matchingBeats.length)] :
+							matchingBeats[0]
+					];
 				}
 
 				if (!config.maxBeats || beatsToReturn.length > config.maxBeats) {
