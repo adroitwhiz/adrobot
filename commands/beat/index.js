@@ -35,25 +35,26 @@ const escapeUrlForMarkdown = url => {
 // Spaces do not separate arguments.
 // Example valid argument string: "--producers=hollywood legend -bpm 50-60 -mood=snoozy -g hip hop"
 const parseArgs = (args, aliases) => {
-	// Separate arguments by minus sign, first splitting then trimming zero-width characters (from e.g. two sequential minuses)
+	// Separate arguments by minus sign, first splitting then trimming zero-width characters
+	// (from e.g. two sequential minuses)
 	return new Map(args.split(/(\s|^)+--?/g).filter(item => item.length !== 0)
-	.map(item => {
-		// The first word after the minus sign(s) is the name of the argument.
-		// This is true whether there's an equals sign there or just a space,
-		// so replace the first equals sign with a space (String.replace won't replace more than the first).
-		const trimmed = item.trim().replace('=', ' ');
-		const argv = trimmed.split(' ');
-		// The first word is the argument name, the rest are the argument value.
-		let argName = argv.shift();
-		const argValue = argv.join(' ');
+		.map(item => {
+			// The first word after the minus sign(s) is the name of the argument.
+			// This is true whether there's an equals sign there or just a space,
+			// so replace the first equals sign with a space (String.replace won't replace more than the first).
+			const trimmed = item.trim().replace('=', ' ');
+			const argv = trimmed.split(' ');
+			// The first word is the argument name, the rest are the argument value.
+			let argName = argv.shift();
+			const argValue = argv.join(' ');
 
-		// If the argument name is an alias for another argument name, switch it out for that one.
-		if (aliases.hasOwnProperty(argName)) {
-			argName = aliases[argName];
-		}
+			// If the argument name is an alias for another argument name, switch it out for that one.
+			if (aliases.hasOwnProperty(argName)) {
+				argName = aliases[argName];
+			}
 
-		return [argName, argValue];
-	}));
+			return [argName, argValue];
+		}));
 };
 
 const argAliases = {
@@ -175,7 +176,8 @@ module.exports = {
 						const bpmMin = Math.min(bpmRange[0], bpmRange[1]);
 						const bpmMax = Math.max(bpmRange[0], bpmRange[1]);
 						// a little room for error
-						matchingBeats = matchingBeats.filter(beat => beat.bpm > bpmMin - 0.01 && beat.bpm < bpmMax + 0.01);
+						matchingBeats = matchingBeats.filter(beat =>
+							beat.bpm > bpmMin - 0.01 && beat.bpm < bpmMax + 0.01);
 					}
 				}
 

@@ -14,41 +14,41 @@ const client = new Discord.Client();
 
 const loadCommands = () => {
 	return fs.readdir(COMMAND_DIRECTORY)
-	.then(files => {
-		console.log(`Loading ${files.length} command(s)...`);
+		.then(files => {
+			console.log(`Loading ${files.length} command(s)...`);
 
-		const commandPromises = [];
+			const commandPromises = [];
 
-		files.forEach(file => {
-			let currentCommandDirectory = path.join(__dirname, COMMAND_DIRECTORY, file);
+			files.forEach(file => {
+				let currentCommandDirectory = path.join(__dirname, COMMAND_DIRECTORY, file);
 
-			let currentCommand = require(currentCommandDirectory);
+				let currentCommand = require(currentCommandDirectory);
 
-			console.log(`Loading ${file}`);
+				console.log(`Loading ${file}`);
 
-			const commandPromise = currentCommand.initializeData ?
-				currentCommand.initializeData().then(currentCommand.command) :
-				currentCommand.command();
+				const commandPromise = currentCommand.initializeData ?
+					currentCommand.initializeData().then(currentCommand.command) :
+					currentCommand.command();
 
-			commandPromises.push(commandPromise);
+				commandPromises.push(commandPromise);
+			});
+
+			return Promise.all(commandPromises);
+		}).then(initializedCommands => {
+			let commands = new Map();
+
+			initializedCommands.forEach(currentCommand => {
+				commands.set(currentCommand.name, new Command(currentCommand));
+
+				console.log(`Loaded ${currentCommand.name} (${currentCommand.helpString || ''})`);
+			});
+
+			return commands;
 		});
-
-		return Promise.all(commandPromises);
-	}).then(initializedCommands => {
-		let commands = new Map();
-
-		initializedCommands.forEach(currentCommand => {
-			commands.set(currentCommand.name, new Command(currentCommand));
-
-			console.log(`Loaded ${currentCommand.name} (${currentCommand.helpString || ''})`);
-		});
-
-		return commands;
-	});
 };
 
 const performActionOnMessage = (message, commands, configFetcher) => { //naming things is hard ok :'(
-	if (message.author === client.user) return; //could probably be implemented more elegantly, if another nested "if" expression is "elegant"
+	if (message.author === client.user) return;
 
 	return configFetcher.fetchGuildConfig(message.guild).then(guildConfig => {
 		if (message.content.startsWith(guildConfig.prefix)) {
@@ -59,7 +59,12 @@ const performActionOnMessage = (message, commands, configFetcher) => { //naming 
 				const specials = {prefix: guildConfig.prefix};
 				let cmdConfig;
 
-				const promises = [configFetcher.fetchCommandConfig(message.guild, commandName).then(config => {cmdConfig = config;})];
+				const promises = [
+					configFetcher.fetchCommandConfig(message.guild, commandName)
+						.then(config => {
+							cmdConfig = config;
+						})
+				];
 
 				if (command.specials.has('commands')) {
 					const visibleCommands = new Map();
@@ -102,17 +107,17 @@ const performActionOnMessage = (message, commands, configFetcher) => { //naming 
 			commands = loadedCommands;
 		})
 	])
-	.then(() => {
-		console.log('Logged in');
+		.then(() => {
+			console.log('Logged in');
 
-		const configFetcher = new ConfigFetcher({});
+			const configFetcher = new ConfigFetcher({});
 
-		client.on('error', err => {
-			console.log(err);
+			client.on('error', err => {
+				console.log(err);
+			});
+
+			client.on('message', message => {
+				performActionOnMessage(message, commands, configFetcher);
+			});
 		});
-
-		client.on('message', message => {
-			performActionOnMessage(message, commands, configFetcher);
-		});
-	});
 })();

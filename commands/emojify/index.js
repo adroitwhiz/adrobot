@@ -24,9 +24,9 @@ module.exports = {
 
 				return outputChannel.send(
 					deburr(inputText.toLowerCase())
-					.split('')
-					.map(char => data.replacements.hasOwnProperty(char) ? data.replacements[char] : char)
-					.join(''));
+						.split('')
+						.map(char => data.replacements.hasOwnProperty(char) ? data.replacements[char] : char)
+						.join(''));
 			},
 
 			name: 'emojify',

@@ -22,7 +22,10 @@ const escapeEmojiString = (str) => { //my proudest creation
 	const strArr = str.split('');
 
 	for (let i = 0, end = strColonIndices.length; i < end; i++) {
-		if (!isEmoji(str.substring(strColonIndices[i], strColonIndices[i+1]+1)) && !isEmoji(str.substring(strColonIndices[i-1], strColonIndices[i]+1))) {
+		if (
+			!isEmoji(str.substring(strColonIndices[i], strColonIndices[i+1]+1)) &&
+			!isEmoji(str.substring(strColonIndices[i-1], strColonIndices[i]+1))
+		) {
 			strArr[strColonIndices[i]] = '\\:';
 		}
 	}
@@ -52,7 +55,7 @@ module.exports = {
 					let splitText = textToEmojify.split(' ');
 
 					for (let i = 0; i < splitText.length - 1; i++) {
-					let chosenEmoji = data.emojis[Math.floor(Math.random() * data.emojis.length)];
+						let chosenEmoji = data.emojis[Math.floor(Math.random() * data.emojis.length)];
 						splitText[i] += chosenEmoji;
 					}
 

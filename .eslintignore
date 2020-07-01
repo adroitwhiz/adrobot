@@ -1,1 +1,2 @@
-commands_old/*
+/commands_old/*
+/commands/*/node_modules

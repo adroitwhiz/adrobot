@@ -17,7 +17,8 @@ const templateString = (string, templates) => {
 
 module.exports = {
 	initializeData: () => {
-		return fs.readFile(path.join(__dirname, ratingStringsPath)).then(contents => { return {ratingStrings: JSON.parse(contents)}; });
+		return fs.readFile(path.join(__dirname, ratingStringsPath))
+			.then(contents => { return {ratingStrings: JSON.parse(contents)}; });
 	},
 
 	command: data => {
@@ -43,7 +44,11 @@ module.exports = {
 						battleScores[scoreKey] = `${battleScores[scoreKey]}/10`;
 					}
 
-					return outputChannel.send(templateString(data.ratingStrings[floatToMinMaxInclusive(0, data.ratingStrings.length - 1, battleRandom())], battleScores));
+					return outputChannel.send(
+						templateString(data.ratingStrings[
+							floatToMinMaxInclusive(0, data.ratingStrings.length - 1, battleRandom())
+						], battleScores)
+					);
 				} else {
 					return outputChannel.send('That doesn\'t look like a rap battle.');
 				}
