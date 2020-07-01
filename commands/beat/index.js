@@ -131,6 +131,7 @@ module.exports = {
 					argAliases
 				);
 
+				// the -more argument overrides argv with those of the last -beat command
 				if (argv.has('more')) {
 					if (data.lastCommandInChannel.has(outputChannel.id)) {
 						argv = data.lastCommandInChannel.get(outputChannel.id);
@@ -144,6 +145,8 @@ module.exports = {
 				let matchingBeats;
 				let shouldRandomize = true;
 
+				// Mutually exclusive filtering functions.
+				// TODO: error if you try to use more than one at a time.
 				if (argv.has('exact-name')) {
 					const exactName = argv.get('exact-name').toLowerCase();
 					matchingBeats = data.beats.filter(beat => beat.name.toLowerCase() === exactName);
