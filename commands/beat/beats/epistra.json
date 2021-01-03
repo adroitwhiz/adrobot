@@ -1,5 +1,95 @@
 [
 	{
+		"name": "Fighter *NEW*",
+		"pageUrl": "https://epistra.com/beat/fighter-new-6669110",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6669110&return=audio",
+		"producers": [
+			"Epistra"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 70
+	},
+	{
+		"name": "Kim Jong Un *NEW*",
+		"pageUrl": "https://epistra.com/beat/kim-jong-un-new-6605966",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6605966&return=audio",
+		"producers": [
+			"Epistra"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 146
+	},
+	{
+		"name": "Defiant",
+		"pageUrl": "https://epistra.com/beat/defiant-6441290",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6441290&return=audio",
+		"producers": [
+			"Epistra"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 138
+	},
+	{
+		"name": "Homesick (Kana Bossa Collab)",
+		"pageUrl": "https://epistra.com/beat/homesick-kana-bossa-collab-5596736",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5596736&return=audio",
+		"producers": [
+			"Epistra"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / Hip Hop"
+		],
+		"bpm": 120
+	},
+	{
+		"name": "Hush",
+		"pageUrl": "https://epistra.com/beat/hush-5285657",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5285657&return=audio",
+		"producers": [
+			"Epistra"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 80
+	},
+	{
+		"name": "Funeral",
+		"pageUrl": "https://epistra.com/beat/funeral-5189432",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5189432&return=audio",
+		"producers": [
+			"Epistra"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 140
+	},
+	{
 		"name": "Obsession",
 		"pageUrl": "https://epistra.com/beat/obsession-sold-4471055",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4471055&return=audio",
@@ -15,8 +105,8 @@
 		"bpm": 92
 	},
 	{
-		"name": "Rise *NEW*",
-		"pageUrl": "https://epistra.com/beat/rise-new-4354192",
+		"name": "Rise",
+		"pageUrl": "https://epistra.com/beat/rise-4354192",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4354192&return=audio",
 		"producers": [
 			"Epistra"
@@ -999,6 +1089,21 @@
 			"Orchestral"
 		],
 		"bpm": 80
+	},
+	{
+		"name": "Above the Sky",
+		"pageUrl": "https://epistra.com/beat/above-the-sky-87480",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=87480&return=audio",
+		"producers": [
+			"Epistra"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Rock",
+			"Alternative"
+		],
+		"bpm": 84
 	},
 	{
 		"name": "Fake Friends",

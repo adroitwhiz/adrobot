@@ -17,6 +17,40 @@
 		]
 	},
 	{
+		"name": "Like That",
+		"bpm": 77,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125802-8045-like-that-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Cool",
+			"Rebellious",
+			"Rowdy"
+		]
+	},
+	{
+		"name": "Never Home",
+		"bpm": 92,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125890-96965-never-home-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Dreamy",
+			"Happy",
+			"Passionate"
+		]
+	},
+	{
 		"name": "Roots",
 		"bpm": 92,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -34,6 +68,40 @@
 		]
 	},
 	{
+		"name": "Sick Boy",
+		"bpm": 140,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600126001-74355-sick-boy-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Experimental"
+		],
+		"moods": [
+			"Bouncy",
+			"Industrial",
+			"Strange"
+		]
+	},
+	{
+		"name": "Snakes",
+		"bpm": 130,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600126029-78156-snakes-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Complex",
+			"Energetic",
+			"Enthusiastic"
+		]
+	},
+	{
 		"name": "Epic Damager",
 		"bpm": 83,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -48,6 +116,754 @@
 			"Aggressive",
 			"Angry",
 			"Epic"
+		]
+	},
+	{
+		"name": "Devil Inside",
+		"bpm": 152,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125607-1633-devil-inside-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Horrorcore"
+		],
+		"moods": [
+			"Aggressive",
+			"Angry",
+			"Dark"
+		]
+	},
+	{
+		"name": "Deep Water",
+		"bpm": 115,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125606-71149-deep-water-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Sad",
+			"Sentimental",
+			"Sweet"
+		]
+	},
+	{
+		"name": "The Chronic",
+		"bpm": 87,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1564061340-8341-the-chronic-87-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Laid-back",
+			"Passionate",
+			"Smooth"
+		]
+	},
+	{
+		"name": "All About Us",
+		"bpm": 87,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125541-92508-all-about-us-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Smooth",
+			"Sweet",
+			"Warm"
+		]
+	},
+	{
+		"name": "True Story",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1581421886-14906-true-story-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Calming",
+			"Dreamy",
+			"Peaceful"
+		]
+	},
+	{
+		"name": "Lot Of Enemies",
+		"bpm": 86,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1603120446-54699-lot-of-enemies-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
+			"Aggressive",
+			"Bouncy",
+			"Dark"
+		]
+	},
+	{
+		"name": "Thief",
+		"bpm": 67,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600126131-75006-thief-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Cool",
+			"Enthusiastic",
+			"Warm"
+		]
+	},
+	{
+		"name": "Run It Up",
+		"bpm": 99,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125921-92763-run-it-up-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Cool",
+			"Elegant",
+			"Energetic"
+		]
+	},
+	{
+		"name": "Two-Face",
+		"bpm": 130,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1586358610-66679-two-face-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Horrorcore"
+		],
+		"moods": [
+			"Aggressive",
+			"Angry",
+			"Dark"
+		]
+	},
+	{
+		"name": "Boom Boom Bap",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1574076842-98640-boom-boom-bap-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Aggressive",
+			"Bouncy",
+			"Energetic"
+		]
+	},
+	{
+		"name": "Till I Die",
+		"bpm": 73,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1557315233-66160-till-i-die-73-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rock"
+		],
+		"moods": [
+			"Calming",
+			"Dreamy",
+			"Sad"
+		]
+	},
+	{
+		"name": "Choppers",
+		"bpm": 142,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125597-42471-choppers-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Angry",
+			"Industrial",
+			"Intense"
+		]
+	},
+	{
+		"name": "District",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1603120455-8236-district-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
+			"Aggressive",
+			"Bouncy",
+			"Epic"
+		]
+	},
+	{
+		"name": "Broken",
+		"bpm": 77,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125576-90926-broken-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Dramatic",
+			"Passionate",
+			"Peaceful"
+		]
+	},
+	{
+		"name": "I'm Waiting wHook by Stevie Rain",
+		"bpm": 131,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1556278886-80125-im-waiting-whook-by-stevie-rain-131-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Beats w/ Hooks"
+		],
+		"moods": [
+			"Calming",
+			"Dreamy",
+			"Elegant"
+		]
+	},
+	{
+		"name": "I'm Waiting",
+		"bpm": 131,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1556278889-29954-im-waiting-131-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Romantic",
+			"Sad",
+			"Sentimental"
+		]
+	},
+	{
+		"name": "My Religion",
+		"bpm": 89,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522196770-6119-my-religion-89-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rock"
+		],
+		"moods": [
+			"Carefree",
+			"Gleeful",
+			"Pastoral"
+		]
+	},
+	{
+		"name": "Promise",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1585563612-78448-promise-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Sad",
+			"Sentimental",
+			"Warm"
+		]
+	},
+	{
+		"name": "Narcos",
+		"bpm": 130,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125853-93345-narcos-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Pastoral",
+			"Rebellious",
+			"Rowdy"
+		]
+	},
+	{
+		"name": "Motion",
+		"bpm": 116,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125823-59330-motion-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Calming",
+			"Cold",
+			"Passionate"
+		]
+	},
+	{
+		"name": "Lion's Cage",
+		"bpm": 92,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125816-30253-lions-cage-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hardcore"
+		],
+		"moods": [
+			"Aggressive",
+			"Angry",
+			"Dark"
+		]
+	},
+	{
+		"name": "Last Chance",
+		"bpm": 73,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125790-4910-last-chance-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"R&B"
+		],
+		"moods": [
+			"Calming",
+			"Carefree",
+			"Lively"
+		]
+	},
+	{
+		"name": "Killin' The Mic",
+		"bpm": 88,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125743-92358-killin-the-mic-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Industrial",
+			"Intense",
+			"Rowdy"
+		]
+	},
+	{
+		"name": "Games",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1601659827-58508-games-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Elegant",
+			"Sad",
+			"Smooth"
+		]
+	},
+	{
+		"name": "Psychopath",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1583928261-92767-psychopath-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Horrorcore"
+		],
+		"moods": [
+			"Aggressive",
+			"Angry",
+			"Dark"
+		]
+	},
+	{
+		"name": "Corona",
+		"bpm": 153,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1585067753-16731-corona-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Calming",
+			"Sad",
+			"Sentimental"
+		]
+	},
+	{
+		"name": "Deep Visions",
+		"bpm": 92,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522196814-97560-deep-visions-92-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Smooth",
+			"Sweet",
+			"Warm"
+		]
+	},
+	{
+		"name": "Crazy",
+		"bpm": 100,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1582647440-59953-crazy-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Club"
+		],
+		"moods": [
+			"Aggressive",
+			"Complex",
+			"Epic"
+		]
+	},
+	{
+		"name": "Jungle Fever",
+		"bpm": 110,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125640-80132-jungle-fever-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Experimental"
+		],
+		"moods": [
+			"Mystical",
+			"Strange",
+			"Trippy"
+		]
+	},
+	{
+		"name": "Rap Monster",
+		"bpm": 84,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522196790-68924-rap-monster-84-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Aggressive",
+			"Bouncy",
+			"Disturbing"
+		]
+	},
+	{
+		"name": "In Heaven",
+		"bpm": 95,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125638-43920-in-heaven-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Calming",
+			"Light",
+			"Passionate"
+		]
+	},
+	{
+		"name": "I Want It All",
+		"bpm": 81,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125634-33479-i-want-it-all-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
+			"Angry",
+			"Cool",
+			"Laid-back"
+		]
+	},
+	{
+		"name": "Swag",
+		"bpm": 75,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1556884770-15274-swag-75-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Bouncy",
+			"Laid-back",
+			"Warm"
+		]
+	},
+	{
+		"name": "Highs & Lows",
+		"bpm": 120,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125625-35056-highs-lows-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Pop"
+		],
+		"moods": [
+			"Dreamy",
+			"Elegant",
+			"Epic"
+		]
+	},
+	{
+		"name": "Gang Shit",
+		"bpm": 81,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125621-68204-gang-shit-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
+			"Bouncy",
+			"Energetic",
+			"Industrial"
+		]
+	},
+	{
+		"name": "Fiesta",
+		"bpm": 105,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125622-12339-fiesta-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Latin"
+		],
+		"moods": [
+			"Happy",
+			"Light",
+			"Peaceful"
+		]
+	},
+	{
+		"name": "Toxicity",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1564347812-76116-toxicity-85-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
+			"Aggressive",
+			"Energetic",
+			"Epic"
+		]
+	},
+	{
+		"name": "Bonsai",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125531-1041-bonsai-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Ethnic"
+		],
+		"moods": [
+			"Cool",
+			"Dreamy",
+			"Laid-back"
+		]
+	},
+	{
+		"name": "Bury Me wHook by Stevie Rain",
+		"bpm": 149,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125589-49440-bury-me-whook-by-stevie-rain-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Beats w/ Hooks"
+		],
+		"moods": [
+			"Dreamy",
+			"Sad",
+			"Sentimental"
+		]
+	},
+	{
+		"name": "Bury Me",
+		"bpm": 149,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125585-5780-bury-me-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Dreamy",
+			"Sad",
+			"Sentimental"
+		]
+	},
+	{
+		"name": "Big Sky",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125548-66906-big-sky-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Dreamy",
+			"Hypnotic",
+			"Mystical"
+		]
+	},
+	{
+		"name": "Wish I Could",
+		"bpm": 75,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568126909-66199-wish-i-could-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Reflective",
+			"Sad",
+			"Sentimental"
+		]
+	},
+	{
+		"name": "1992",
+		"bpm": 92,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125536-80638-1992-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Angry",
+			"Cold",
+			"Cool"
+		]
+	},
+	{
+		"name": "My Squad",
+		"bpm": 79,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600686029-11330-my-squad-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
+			"Cool",
+			"Epic",
+			"Laid-back"
 		]
 	},
 	{
@@ -102,37 +918,20 @@
 		]
 	},
 	{
-		"name": "Two-Face",
-		"bpm": 130,
+		"name": "My Way",
+		"bpm": 86,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1586358610-66679-two-face-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1520532578-48684-new-my-way-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Horrorcore"
+			"Old School"
 		],
 		"moods": [
-			"Aggressive",
-			"Angry",
-			"Dark"
-		]
-	},
-	{
-		"name": "Vamos",
-		"bpm": 93,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1585836331-10583-vamos-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Dancehall"
-		],
-		"moods": [
-			"Fun",
-			"Happy",
-			"Light"
+			"Laid-back",
+			"Playful",
+			"Smooth"
 		]
 	},
 	{
@@ -153,23 +952,6 @@
 		]
 	},
 	{
-		"name": "Promise",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1585563612-78448-promise-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Sad",
-			"Sentimental",
-			"Warm"
-		]
-	},
-	{
 		"name": "Karma",
 		"bpm": 90,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -187,20 +969,54 @@
 		]
 	},
 	{
-		"name": "Corona",
-		"bpm": 153,
+		"name": "My Dream wHook by. JC of The Finest",
+		"bpm": 83,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1585067753-16731-corona-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522196813-44002-my-dream-whook-by-jc-of-the-finest-83-bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Smooth"
+			"Beats w/ Hooks"
 		],
 		"moods": [
 			"Calming",
+			"Dreamy",
+			"Warm"
+		]
+	},
+	{
+		"name": "My Dream",
+		"bpm": 83,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1557315217-67341-my-dream-83-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rock"
+		],
+		"moods": [
 			"Sad",
-			"Sentimental"
+			"Sentimental",
+			"Smooth"
+		]
+	},
+	{
+		"name": "Can't Forget",
+		"bpm": 87,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522197022-42192-cant-forget-87-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Classical"
+		],
+		"moods": [
+			"Calming",
+			"Peaceful",
+			"Sad"
 		]
 	},
 	{
@@ -255,23 +1071,6 @@
 		]
 	},
 	{
-		"name": "Psychopath",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1583928261-92767-psychopath-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Horrorcore"
-		],
-		"moods": [
-			"Aggressive",
-			"Angry",
-			"Dark"
-		]
-	},
-	{
 		"name": "Legacy",
 		"bpm": 153,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -289,37 +1088,37 @@
 		]
 	},
 	{
-		"name": "Crazy",
-		"bpm": 100,
+		"name": "Memories (with Scratches)",
+		"bpm": 83,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1582647440-59953-crazy-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522197000-94701-memories-with-scratches-83-bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Club"
-		],
-		"moods": [
-			"Aggressive",
-			"Complex",
-			"Epic"
-		]
-	},
-	{
-		"name": "True Story",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1581421886-14906-true-story-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Rap"
+			"Hip Hop"
 		],
 		"moods": [
 			"Calming",
 			"Dreamy",
-			"Peaceful"
+			"Smooth"
+		]
+	},
+	{
+		"name": "Memories (without Scratches)",
+		"bpm": 83,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522196982-78916-memories-without-scratches-83-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Peaceful",
+			"Smooth",
+			"Warm"
 		]
 	},
 	{
@@ -357,54 +1156,20 @@
 		]
 	},
 	{
-		"name": "Boom Boom Bap",
-		"bpm": 90,
+		"name": "On The Edge",
+		"bpm": 85,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1574076842-98640-boom-boom-bap-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1507817716-23547-new-on-the-edge-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Old School"
+			"Ethnic"
 		],
 		"moods": [
-			"Aggressive",
 			"Bouncy",
-			"Energetic"
-		]
-	},
-	{
-		"name": "Stay With Me",
-		"bpm": 110,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1574076852-61271-stay-with-me-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Dancehall"
-		],
-		"moods": [
-			"Calming",
-			"Carefree",
-			"Dreamy"
-		]
-	},
-	{
-		"name": "The Chronic",
-		"bpm": 87,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1564061340-8341-the-chronic-87-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Laid-back",
-			"Passionate",
-			"Smooth"
+			"Cool",
+			"Strange"
 		]
 	},
 	{
@@ -422,525 +1187,6 @@
 			"Calming",
 			"Peaceful",
 			"Sad"
-		]
-	},
-	{
-		"name": "Sunrise",
-		"bpm": 76,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1569230513-47054-sunrise-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Dreamy",
-			"Happy",
-			"Peaceful"
-		]
-	},
-	{
-		"name": "Backstreet",
-		"bpm": 83,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1561115137-94233-backstreet-83-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Bouncy",
-			"Cool",
-			"Industrial"
-		]
-	},
-	{
-		"name": "War Music",
-		"bpm": 100,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522196910-66945-war-music-100-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Ethnic"
-		],
-		"moods": [
-			"Bouncy",
-			"Complex",
-			"Mystical"
-		]
-	},
-	{
-		"name": "Blinded",
-		"bpm": 140,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1569230517-36517-blinded-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Bouncy",
-			"Cool",
-			"Warm"
-		]
-	},
-	{
-		"name": "Worth It",
-		"bpm": 88,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1569230521-97600-worth-it-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Calming",
-			"Carefree",
-			"Dreamy"
-		]
-	},
-	{
-		"name": "Lessons",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568736646-45713-lessons-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": []
-	},
-	{
-		"name": "Jamaica",
-		"bpm": 83,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1534865722-23883-jamaica-83-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Reggae"
-		],
-		"moods": [
-			"Calming",
-			"Groovy",
-			"Happy"
-		]
-	},
-	{
-		"name": "Swag",
-		"bpm": 75,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1556884770-15274-swag-75-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Bouncy",
-			"Laid-back",
-			"Warm"
-		]
-	},
-	{
-		"name": "48hrs",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1558616977-33463-48hrs-80-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"New School"
-		],
-		"moods": [
-			"Smooth",
-			"Spacey",
-			"Warm"
-		]
-	},
-	{
-		"name": "Back In The Days (with Scratches)",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568392788-6857-back-in-the-days-with-scratches-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Calming",
-			"Dreamy",
-			"Reflective"
-		]
-	},
-	{
-		"name": "Back In The Days",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568392785-15117-back-in-the-days-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Calming",
-			"Dreamy",
-			"Reflective"
-		]
-	},
-	{
-		"name": "Midnight",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568392789-71459-midnight-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Cool",
-			"Laid-back",
-			"Mystical"
-		]
-	},
-	{
-		"name": "Good Old Days",
-		"bpm": 86,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568392786-62643-good-old-days-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Dreamy",
-			"Peaceful",
-			"Reflective"
-		]
-	},
-	{
-		"name": "Wish I Could",
-		"bpm": 75,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568126909-66199-wish-i-could-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Reflective",
-			"Sad",
-			"Sentimental"
-		]
-	},
-	{
-		"name": "Block Party",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568126897-90360-block-party-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Cheerful",
-			"Cool",
-			"Enthusiastic"
-		]
-	},
-	{
-		"name": "Blessings",
-		"bpm": 88,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568126894-88802-blessings-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Calming",
-			"Carefree",
-			"Dreamy"
-		]
-	},
-	{
-		"name": "Push Me Baby",
-		"bpm": 100,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1566561954-57332-push-me-baby-100-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Dancehall"
-		],
-		"moods": [
-			"Bouncy",
-			"Carefree",
-			"Happy"
-		]
-	},
-	{
-		"name": "Ocean",
-		"bpm": 79,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1549907466-39567-ocean-79-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Sad",
-			"Smooth",
-			"Warm"
-		]
-	},
-	{
-		"name": "Mumbai",
-		"bpm": 87,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1548673685-2299-mumbai-87-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Rap"
-		],
-		"moods": [
-			"Bouncy",
-			"Spiritual",
-			"Strange"
-		]
-	},
-	{
-		"name": "Street Gang",
-		"bpm": 88,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1565563342-10785-street-gang-88bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Angry",
-			"Bouncy",
-			"Energetic"
-		]
-	},
-	{
-		"name": "Toxicity",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1564347812-76116-toxicity-85-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Gangsta Rap"
-		],
-		"moods": [
-			"Aggressive",
-			"Energetic",
-			"Epic"
-		]
-	},
-	{
-		"name": "Eternal Lif3",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1563187579-28595-eternal-lif3-80-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Calming",
-			"Dreamy",
-			"Passionate"
-		]
-	},
-	{
-		"name": "Summer Vibes",
-		"bpm": 103,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1524674776-46529-new-summer-vibes-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Dancehall"
-		],
-		"moods": [
-			"Happy",
-			"Peaceful",
-			"Sweet"
-		]
-	},
-	{
-		"name": "Gravity",
-		"bpm": 98,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1532951471-11574-gravity-98-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Classical"
-		],
-		"moods": [
-			"Sad",
-			"Sentimental",
-			"Warm"
-		]
-	},
-	{
-		"name": "Outta Space",
-		"bpm": 120,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1561476682-64910-outta-space-120-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Bouncy",
-			"Cool",
-			"Spacey"
-		]
-	},
-	{
-		"name": "Aladdin",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1560424015-54263-aladdin-80-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Bouncy",
-			"Hypnotic",
-			"Mystical"
-		]
-	},
-	{
-		"name": "I'm Waiting wHook by Stevie Rain",
-		"bpm": 131,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1556278886-80125-im-waiting-whook-by-stevie-rain-131-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Beats w/ Hooks"
-		],
-		"moods": [
-			"Calming",
-			"Dreamy",
-			"Elegant"
-		]
-	},
-	{
-		"name": "I'm Waiting",
-		"bpm": 131,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1556278889-29954-im-waiting-131-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Romantic",
-			"Sad",
-			"Sentimental"
-		]
-	},
-	{
-		"name": "For The City",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1553965687-58785-for-the-city-90-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"New School"
-		],
-		"moods": [
-			"Industrial",
-			"Rebellious",
-			"Warm"
-		]
-	},
-	{
-		"name": "Pablo",
-		"bpm": 130,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1558615619-72924-pablo-130-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": []
-	},
-	{
-		"name": "Through My Eyes Vol. 2",
-		"bpm": 75,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1558620610-33317-through-my-eyes-vol-2-75-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Sentimental",
-			"Smooth",
-			"Warm"
 		]
 	},
 	{
@@ -978,10 +1224,176 @@
 		]
 	},
 	{
-		"name": "Toxic",
-		"bpm": 70,
+		"name": "Sunrise",
+		"bpm": 76,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1556884763-6917-toxic-70-bpm-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1569230513-47054-sunrise-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Dreamy",
+			"Happy",
+			"Peaceful"
+		]
+	},
+	{
+		"name": "War Music",
+		"bpm": 100,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522196910-66945-war-music-100-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Ethnic"
+		],
+		"moods": [
+			"Bouncy",
+			"Complex",
+			"Mystical"
+		]
+	},
+	{
+		"name": "Lessons",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568736646-45713-lessons-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Jamaica",
+		"bpm": 83,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1534865722-23883-jamaica-83-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Reggae"
+		],
+		"moods": [
+			"Calming",
+			"Groovy",
+			"Happy"
+		]
+	},
+	{
+		"name": "Rollin With Da Best",
+		"bpm": 91,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1457611769-87100-rollin-with-da-best-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Experimental"
+		],
+		"moods": [
+			"Futuristic",
+			"Industrial",
+			"Intense"
+		]
+	},
+	{
+		"name": "8 Bit",
+		"bpm": 81,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1519483295-21581-new-8-bit-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Experimental"
+		],
+		"moods": [
+			"Bouncy",
+			"Strange",
+			"Trippy"
+		]
+	},
+	{
+		"name": "Fancy",
+		"bpm": 94,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522197102-74238-fancy-94-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Pop"
+		],
+		"moods": [
+			"Bouncy",
+			"Dreamy",
+			"Elegant"
+		]
+	},
+	{
+		"name": "I'm Gonna Make It",
+		"bpm": 102,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1535727449-43599-im-gonna-make-it-102-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Funk"
+		],
+		"moods": [
+			"Funky",
+			"Groovy",
+			"Happy"
+		]
+	},
+	{
+		"name": "Back In The Days (with Scratches)",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568392788-6857-back-in-the-days-with-scratches-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Calming",
+			"Dreamy",
+			"Reflective"
+		]
+	},
+	{
+		"name": "Back In The Days",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568392785-15117-back-in-the-days-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Calming",
+			"Dreamy",
+			"Reflective"
+		]
+	},
+	{
+		"name": "Scream",
+		"bpm": 140,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1516644628-11605-new-scream-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
@@ -990,8 +1402,314 @@
 		],
 		"moods": [
 			"Aggressive",
+			"Complex",
+			"Strange"
+		]
+	},
+	{
+		"name": "Midnight",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568392789-71459-midnight-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Cool",
+			"Laid-back",
+			"Mystical"
+		]
+	},
+	{
+		"name": "Questions (3/4 Time)",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1530028939-67352-new-questions-3-4-time-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Experimental"
+		],
+		"moods": [
+			"Sad",
+			"Smooth",
+			"Warm"
+		]
+	},
+	{
+		"name": "Life is Short",
+		"bpm": 103,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1516642967-37489-new-life-is-short-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rock"
+		],
+		"moods": [
+			"Sad",
+			"Smooth",
+			"Warm"
+		]
+	},
+	{
+		"name": "Good Old Days",
+		"bpm": 86,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568392786-62643-good-old-days-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Dreamy",
+			"Peaceful",
+			"Reflective"
+		]
+	},
+	{
+		"name": "Royal",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522196972-52166-royal-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"New School"
+		],
+		"moods": [
+			"Bouncy",
+			"Complex",
+			"Epic"
+		]
+	},
+	{
+		"name": "Ocean",
+		"bpm": 79,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549907466-39567-ocean-79-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Sad",
+			"Smooth",
+			"Warm"
+		]
+	},
+	{
+		"name": "Moonlight",
+		"bpm": 88,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1509732584-62621-new-moonlight-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Underground"
+		],
+		"moods": [
+			"Bouncy",
+			"Calming",
+			"Spacey"
+		]
+	},
+	{
+		"name": "The Empire",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1508255952-80155-new-the-empire-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
 			"Angry",
+			"Cool",
 			"Dark"
+		]
+	},
+	{
+		"name": "Mumbai",
+		"bpm": 87,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1548673685-2299-mumbai-87-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Bouncy",
+			"Spiritual",
+			"Strange"
+		]
+	},
+	{
+		"name": "Eternal Lif3",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1563187579-28595-eternal-lif3-80-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Calming",
+			"Dreamy",
+			"Passionate"
+		]
+	},
+	{
+		"name": "Epic Battle",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1506940994-21178-epic-battle-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Aggressive",
+			"Dark",
+			"Dramatic"
+		]
+	},
+	{
+		"name": "Horizon",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1539106262-46256-horizon-90-25-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Pop"
+		],
+		"moods": [
+			"Happy",
+			"Peaceful",
+			"Smooth"
+		]
+	},
+	{
+		"name": "Daydreamer",
+		"bpm": 88,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1510331576-70986-daydreamer-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Carefree",
+			"Complex",
+			"Dreamy"
+		]
+	},
+	{
+		"name": "Summer Vibes",
+		"bpm": 103,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1524674776-46529-new-summer-vibes-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Dancehall"
+		],
+		"moods": [
+			"Happy",
+			"Peaceful",
+			"Sweet"
+		]
+	},
+	{
+		"name": "Murda",
+		"bpm": 87,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522172373-67627-new-murda-87-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Aggressive",
+			"Angry",
+			"Bouncy"
+		]
+	},
+	{
+		"name": "Gravity",
+		"bpm": 98,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1532951471-11574-gravity-98-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Classical"
+		],
+		"moods": [
+			"Sad",
+			"Sentimental",
+			"Warm"
+		]
+	},
+	{
+		"name": "Outlaw",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1535727460-83015-outlaw-85-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
+			"Cool",
+			"Energetic",
+			"Enthusiastic"
+		]
+	},
+	{
+		"name": "Outta Space",
+		"bpm": 120,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1561476682-64910-outta-space-120-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Bouncy",
+			"Cool",
+			"Spacey"
 		]
 	},
 	{
@@ -1029,74 +1747,6 @@
 		]
 	},
 	{
-		"name": "Fight For Your Dreams",
-		"bpm": 73,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1555338801-63196-fight-for-your-dreams-73-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Sad",
-			"Sentimental",
-			"Spacey"
-		]
-	},
-	{
-		"name": "Unexpected",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1555003602-20360-unexpected-85-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"New School"
-		],
-		"moods": [
-			"Cool",
-			"Dark",
-			"Laid-back"
-		]
-	},
-	{
-		"name": "Unstoppable",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1553965712-7977-unstoppable-90-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Rap"
-		],
-		"moods": [
-			"Epic",
-			"Mystical",
-			"Rebellious"
-		]
-	},
-	{
-		"name": "Universe",
-		"bpm": 140,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1553965706-38404-universe-140-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Complex",
-			"Elegant",
-			"Futuristic"
-		]
-	},
-	{
 		"name": "Sunset",
 		"bpm": 92,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -1110,91 +1760,6 @@
 		"moods": [
 			"Ambient",
 			"Calming",
-			"Warm"
-		]
-	},
-	{
-		"name": "One Night",
-		"bpm": 120,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1553965696-55843-one-night-120-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Epic",
-			"Rebellious",
-			"Warm"
-		]
-	},
-	{
-		"name": "If I Die",
-		"bpm": 75,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1553965692-33706-if-i-die-75-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Underground"
-		],
-		"moods": [
-			"Ambient",
-			"Carefree",
-			"Warm"
-		]
-	},
-	{
-		"name": "Feelings",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1553965683-96288-feelings-80-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Experimental"
-		],
-		"moods": [
-			"Carefree",
-			"Complex",
-			"Dreamy"
-		]
-	},
-	{
-		"name": "Dolce Vita",
-		"bpm": 75,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1553965678-37894-dolce-vita-75-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Bouncy",
-			"Carefree",
-			"Dreamy"
-		]
-	},
-	{
-		"name": "Chasing Dreams",
-		"bpm": 87,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1553965672-35040-chasing-dreams-87-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"R&B"
-		],
-		"moods": [
-			"Sentimental",
-			"Smooth",
 			"Warm"
 		]
 	},
@@ -1216,6 +1781,40 @@
 		]
 	},
 	{
+		"name": "Grandmaster",
+		"bpm": 86,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522197121-2619-grandmaster-86-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Funky",
+			"Groovy",
+			"Peaceful"
+		]
+	},
+	{
+		"name": "All The Good Things",
+		"bpm": 95,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1514476218-43390-new-all-the-good-things-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Ambient",
+			"Carefree",
+			"Smooth"
+		]
+	},
+	{
 		"name": "Without You",
 		"bpm": 80,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -1230,40 +1829,6 @@
 			"Sad",
 			"Sentimental",
 			"Warm"
-		]
-	},
-	{
-		"name": "Goin Down wHook by. JC of The Finest",
-		"bpm": 75,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1552944904-80852-goin-down-whook-by-jc-of-the-finest-75-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Beats w/ Hooks"
-		],
-		"moods": [
-			"Calming",
-			"Futuristic",
-			"Reflective"
-		]
-	},
-	{
-		"name": "Goin Down",
-		"bpm": 75,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1552944899-12434-goin-down-75-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Industrial",
-			"Passionate",
-			"Spacey"
 		]
 	},
 	{
@@ -1284,6 +1849,273 @@
 		]
 	},
 	{
+		"name": "Outro",
+		"bpm": 91,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549990977-30339-15-outro-91-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Uzi Interlude",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991051-25635-14-uzi-interlude-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Bed Of Roses",
+		"bpm": 87,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991047-35540-13-bed-of-roses-87-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Dragon's Soul",
+		"bpm": 92,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991043-83996-12-dragons-soul-92-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "No Mercy",
+		"bpm": 86,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991043-18022-11-no-mercy-86-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Game Over",
+		"bpm": 97,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991037-87821-10-game-over-97-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Saloon",
+		"bpm": 95,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991035-47442-9-saloon-95-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Apocalypse",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991030-63120-8-apocalypse-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Legacy",
+		"bpm": 95,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991022-53862-6-legacy-95-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Theory and Practise",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549991007-7119-5-theory-and-practise-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Underdog",
+		"bpm": 93,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549990992-6266-3-underdog-93-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Back To The Roots",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549990988-31192-2-back-to-the-roots-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Intro",
+		"bpm": 95,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549990984-29643-1-intro-95-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Oblivion",
+		"bpm": 87,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1549990999-63363-4-oblivion-87-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": []
+	},
+	{
+		"name": "Coming Home",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1603106317-77686-coming-home-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Peaceful",
+			"Smooth",
+			"Warm"
+		]
+	},
+	{
+		"name": "Weekend",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1529447193-92679-new-weekend-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Cool",
+			"Rebellious",
+			"Rowdy"
+		]
+	},
+	{
+		"name": "Alpha",
+		"bpm": 70,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522334363-36633-new-alpha-70-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Gangsta Rap"
+		],
+		"moods": [
+			"Bouncy",
+			"Industrial",
+			"Spiritual"
+		]
+	},
+	{
+		"name": "Grateful",
+		"bpm": 88,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1507817705-4919-new-grateful-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Ambient",
+			"Funky",
+			"Groovy"
+		]
+	},
+	{
+		"name": "Let The Cops Come",
+		"bpm": 92,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1519756486-77143-new-let-the-cops-come-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Bouncy",
+			"Complex",
+			"Futuristic"
+		]
+	},
+	{
 		"name": "The Stars",
 		"bpm": 140,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -1298,6 +2130,40 @@
 			"Passionate",
 			"Reflective",
 			"Spacey"
+		]
+	},
+	{
+		"name": "Falling Skys wHook by. JC of The Finest",
+		"bpm": 72,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1457610115-89217-falling-skys-whook-by-jc-of-the-finest-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Beats w/ Hooks"
+		],
+		"moods": [
+			"Calming",
+			"Dramatic",
+			"Dreamy"
+		]
+	},
+	{
+		"name": "Falling Skys",
+		"bpm": 72,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1557315224-83401-falling-skys-72-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Romantic",
+			"Sad",
+			"Smooth"
 		]
 	},
 	{
@@ -1318,20 +2184,20 @@
 		]
 	},
 	{
-		"name": "Ice Cold",
-		"bpm": 126,
+		"name": "Keep It Real",
+		"bpm": 95,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1544636738-45936-ice-cold-126-bpm-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522197042-54993-keep-it-real-95-bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Smooth"
+			"Old School"
 		],
 		"moods": [
-			"Sad",
-			"Smooth",
-			"Spacey"
+			"Cool",
+			"Rebellious",
+			"Warm"
 		]
 	},
 	{
@@ -1352,37 +2218,20 @@
 		]
 	},
 	{
-		"name": "Matador",
-		"bpm": 92,
+		"name": "Brooklyn Bridge",
+		"bpm": 90,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1541779298-93518-matador-92-bpm-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1576753299-73195-brooklyn-bridge-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Rap"
+			"Underground"
 		],
 		"moods": [
-			"Aggressive",
-			"Angry",
-			"Industrial"
-		]
-	},
-	{
-		"name": "My Bae",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1541779379-81155-my-bae-85-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Dreamy",
-			"Smooth",
-			"Spacey"
+			"Ambient",
+			"Happy",
+			"Laid-back"
 		]
 	},
 	{
@@ -1398,23 +2247,6 @@
 		],
 		"moods": [
 			"Peaceful",
-			"Sentimental",
-			"Warm"
-		]
-	},
-	{
-		"name": "Black Roses",
-		"bpm": 120,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1541095829-88031-black-roses-120-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Sad",
 			"Sentimental",
 			"Warm"
 		]
@@ -1437,23 +2269,6 @@
 		]
 	},
 	{
-		"name": "Horizon",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1539106262-46256-horizon-90-25-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Pop"
-		],
-		"moods": [
-			"Happy",
-			"Peaceful",
-			"Smooth"
-		]
-	},
-	{
 		"name": "Story To Tell",
 		"bpm": 86,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -1468,6 +2283,23 @@
 			"Bouncy",
 			"Cool",
 			"Laid-back"
+		]
+	},
+	{
+		"name": "Burn The Roof",
+		"bpm": 100,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522196811-93823-burn-the-roof-100-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Club"
+		],
+		"moods": [
+			"Bouncy",
+			"Complex",
+			"Intense"
 		]
 	},
 	{
@@ -1573,40 +2405,6 @@
 		]
 	},
 	{
-		"name": "I'm Gonna Make It",
-		"bpm": 102,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1535727449-43599-im-gonna-make-it-102-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Funk"
-		],
-		"moods": [
-			"Funky",
-			"Groovy",
-			"Happy"
-		]
-	},
-	{
-		"name": "Outlaw",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1535727460-83015-outlaw-85-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Gangsta Rap"
-		],
-		"moods": [
-			"Cool",
-			"Energetic",
-			"Enthusiastic"
-		]
-	},
-	{
 		"name": "West Coast Chroniclez -  5",
 		"bpm": 85,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -1692,6 +2490,23 @@
 		]
 	},
 	{
+		"name": "End Of The Year",
+		"bpm": 95,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1511886373-70683-new-end-of-the-year-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Cold",
+			"Dreamy",
+			"Light"
+		]
+	},
+	{
 		"name": "Big Dreams",
 		"bpm": 126,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -1709,10 +2524,10 @@
 		]
 	},
 	{
-		"name": "On And On",
-		"bpm": 80,
+		"name": "Forgotten",
+		"bpm": 130,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1534260774-72380-on-and-on-80-bpm-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1506181489-35451-new-forgotten-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
@@ -1720,9 +2535,9 @@
 			"Smooth"
 		],
 		"moods": [
-			"Ambient",
+			"Bouncy",
 			"Calming",
-			"Warm"
+			"Dreamy"
 		]
 	},
 	{
@@ -1740,6 +2555,23 @@
 			"Sentimental",
 			"Smooth",
 			"Warm"
+		]
+	},
+	{
+		"name": "Blessings",
+		"bpm": 88,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568126894-88802-blessings-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Calming",
+			"Carefree",
+			"Dreamy"
 		]
 	},
 	{
@@ -1913,23 +2745,6 @@
 		]
 	},
 	{
-		"name": "Questions (3/4 Time)",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1530028939-67352-new-questions-3-4-time-90-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Experimental"
-		],
-		"moods": [
-			"Sad",
-			"Smooth",
-			"Warm"
-		]
-	},
-	{
 		"name": "Galaxy",
 		"bpm": 124,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -1944,23 +2759,6 @@
 			"Futuristic",
 			"Spacey",
 			"Warm"
-		]
-	},
-	{
-		"name": "Weekend",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1529447193-92679-new-weekend-90-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Cool",
-			"Rebellious",
-			"Rowdy"
 		]
 	},
 	{
@@ -2015,54 +2813,20 @@
 		]
 	},
 	{
-		"name": "Alpha",
-		"bpm": 70,
+		"name": "Sea Of Tears",
+		"bpm": 94,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522334363-36633-new-alpha-70-bpm-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1600125965-10202-sea-of-tears-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Gangsta Rap"
+			"Hip Hop"
 		],
 		"moods": [
-			"Bouncy",
-			"Industrial",
-			"Spiritual"
-		]
-	},
-	{
-		"name": "Time to Time",
-		"bpm": 140,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1521565220-32268-time-to-time-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Peaceful",
 			"Sad",
-			"Smooth"
-		]
-	},
-	{
-		"name": "Murda",
-		"bpm": 87,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522172373-67627-new-murda-87-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Rap"
-		],
-		"moods": [
-			"Aggressive",
-			"Angry",
-			"Bouncy"
+			"Sentimental",
+			"Warm"
 		]
 	},
 	{
@@ -2083,23 +2847,6 @@
 		]
 	},
 	{
-		"name": "My Way",
-		"bpm": 86,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1520532578-48684-new-my-way-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Laid-back",
-			"Playful",
-			"Smooth"
-		]
-	},
-	{
 		"name": "Final Song",
 		"bpm": 100,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -2114,23 +2861,6 @@
 			"Reflective",
 			"Smooth",
 			"Warm"
-		]
-	},
-	{
-		"name": "Let The Cops Come",
-		"bpm": 92,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1519756486-77143-new-let-the-cops-come-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Trap"
-		],
-		"moods": [
-			"Bouncy",
-			"Complex",
-			"Futuristic"
 		]
 	},
 	{
@@ -2151,23 +2881,6 @@
 		]
 	},
 	{
-		"name": "8 Bit",
-		"bpm": 81,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1519483295-21581-new-8-bit-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Experimental"
-		],
-		"moods": [
-			"Bouncy",
-			"Strange",
-			"Trippy"
-		]
-	},
-	{
 		"name": "Out Of Time",
 		"bpm": 90,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -2182,23 +2895,6 @@
 			"Cool",
 			"Futuristic",
 			"Spiritual"
-		]
-	},
-	{
-		"name": "Coffee Shop",
-		"bpm": 70,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1518271695-81012-new-coffee-shop-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Ambient",
-			"Calming",
-			"Warm"
 		]
 	},
 	{
@@ -2219,27 +2915,10 @@
 		]
 	},
 	{
-		"name": "Quiet",
-		"bpm": 82,
+		"name": "Backstreet",
+		"bpm": 83,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1517249239-709-new-quiet-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Ambient",
-			"Smooth",
-			"Warm"
-		]
-	},
-	{
-		"name": "Scream",
-		"bpm": 140,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1516644628-11605-new-scream-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1561115137-94233-backstreet-83-bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
@@ -2247,26 +2926,43 @@
 			"Trap"
 		],
 		"moods": [
-			"Aggressive",
-			"Complex",
-			"Strange"
+			"Bouncy",
+			"Cool",
+			"Industrial"
 		]
 	},
 	{
-		"name": "Life is Short",
-		"bpm": 103,
+		"name": "Aladdin",
+		"bpm": 80,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1516642967-37489-new-life-is-short-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1560424015-54263-aladdin-80-bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Rock"
+			"Trap"
 		],
 		"moods": [
-			"Sad",
-			"Smooth",
-			"Warm"
+			"Bouncy",
+			"Hypnotic",
+			"Mystical"
+		]
+	},
+	{
+		"name": "Worth It",
+		"bpm": 88,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1569230521-97600-worth-it-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Calming",
+			"Carefree",
+			"Dreamy"
 		]
 	},
 	{
@@ -2304,20 +3000,20 @@
 		]
 	},
 	{
-		"name": "Desert",
-		"bpm": 85,
+		"name": "Street Gang",
+		"bpm": 88,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1515158978-58414-new-desert-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1565563342-10785-street-gang-88bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Hip Hop"
+			"Trap"
 		],
 		"moods": [
-			"Rebellious",
-			"Spiritual",
-			"Strange"
+			"Angry",
+			"Bouncy",
+			"Energetic"
 		]
 	},
 	{
@@ -2355,20 +3051,20 @@
 		]
 	},
 	{
-		"name": "All The Good Things",
-		"bpm": 95,
+		"name": "Mafia Music",
+		"bpm": 90,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1514476218-43390-new-all-the-good-things-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1457611167-89801-mafia-music-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Old School"
+			"Ethnic"
 		],
 		"moods": [
-			"Ambient",
-			"Carefree",
-			"Smooth"
+			"Aggressive",
+			"Angry",
+			"Spiritual"
 		]
 	},
 	{
@@ -2389,57 +3085,6 @@
 		]
 	},
 	{
-		"name": "Around The World",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1513346659-27654-new-around-the-world-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Experimental"
-		],
-		"moods": [
-			"Bouncy",
-			"Dreamy",
-			"Hypnotic"
-		]
-	},
-	{
-		"name": "Gore",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1512761009-48448-new-gore-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Horrorcore"
-		],
-		"moods": [
-			"Aggressive",
-			"Bouncy",
-			"Strange"
-		]
-	},
-	{
-		"name": "I Still Remember",
-		"bpm": 89,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1511977643-23610-i-still-remember-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Classical"
-		],
-		"moods": [
-			"Sad",
-			"Sentimental",
-			"Smooth"
-		]
-	},
-	{
 		"name": "Hit Maka",
 		"bpm": 120,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -2454,23 +3099,6 @@
 			"Bouncy",
 			"Dreamy",
 			"Enthusiastic"
-		]
-	},
-	{
-		"name": "End Of The Year",
-		"bpm": 95,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1511886373-70683-new-end-of-the-year-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Cold",
-			"Dreamy",
-			"Light"
 		]
 	},
 	{
@@ -2525,54 +3153,37 @@
 		]
 	},
 	{
-		"name": "Keep It Real",
-		"bpm": 95,
+		"name": "Vamos",
+		"bpm": 93,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522197042-54993-keep-it-real-95-bpm-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1585836331-10583-vamos-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Old School"
+			"Dancehall"
 		],
 		"moods": [
-			"Cool",
-			"Rebellious",
-			"Warm"
+			"Fun",
+			"Happy",
+			"Light"
 		]
 	},
 	{
-		"name": "Daydreamer",
-		"bpm": 88,
+		"name": "Unstoppable",
+		"bpm": 90,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1510331576-70986-daydreamer-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1553965712-7977-unstoppable-90-bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Hip Hop"
+			"Rap"
 		],
 		"moods": [
-			"Carefree",
-			"Complex",
-			"Dreamy"
-		]
-	},
-	{
-		"name": "Moonlight",
-		"bpm": 88,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1509732584-62621-new-moonlight-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Underground"
-		],
-		"moods": [
-			"Bouncy",
-			"Calming",
-			"Spacey"
+			"Epic",
+			"Mystical",
+			"Rebellious"
 		]
 	},
 	{
@@ -2593,88 +3204,20 @@
 		]
 	},
 	{
-		"name": "The Empire",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1508255952-80155-new-the-empire-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Gangsta Rap"
-		],
-		"moods": [
-			"Angry",
-			"Cool",
-			"Dark"
-		]
-	},
-	{
-		"name": "Epic Battle",
+		"name": "Unexpected",
 		"bpm": 85,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1506940994-21178-epic-battle-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1555003602-20360-unexpected-85-bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Rap"
+			"New School"
 		],
 		"moods": [
-			"Aggressive",
+			"Cool",
 			"Dark",
-			"Dramatic"
-		]
-	},
-	{
-		"name": "Grateful",
-		"bpm": 88,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1507817705-4919-new-grateful-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Old School"
-		],
-		"moods": [
-			"Ambient",
-			"Funky",
-			"Groovy"
-		]
-	},
-	{
-		"name": "Forgotten",
-		"bpm": 130,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1506181489-35451-new-forgotten-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Bouncy",
-			"Calming",
-			"Dreamy"
-		]
-	},
-	{
-		"name": "On The Edge",
-		"bpm": 85,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1507817716-23547-new-on-the-edge-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Ethnic"
-		],
-		"moods": [
-			"Bouncy",
-			"Cool",
-			"Strange"
+			"Laid-back"
 		]
 	},
 	{
@@ -2729,37 +3272,20 @@
 		]
 	},
 	{
-		"name": "Grandmaster",
-		"bpm": 86,
+		"name": "Stay With Me",
+		"bpm": 110,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522197121-2619-grandmaster-86-bpm-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1574076852-61271-stay-with-me-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Old School"
+			"Dancehall"
 		],
 		"moods": [
-			"Funky",
-			"Groovy",
-			"Peaceful"
-		]
-	},
-	{
-		"name": "Living Dead",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522197055-87331-living-dead-90-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Horrorcore"
-		],
-		"moods": [
-			"Aggressive",
-			"Dark",
-			"Ominous"
+			"Calming",
+			"Carefree",
+			"Dreamy"
 		]
 	},
 	{
@@ -2831,23 +3357,6 @@
 		]
 	},
 	{
-		"name": "Miami",
-		"bpm": 100,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522197085-77588-miami-100-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Pop"
-		],
-		"moods": [
-			"Bouncy",
-			"Complex",
-			"Futuristic"
-		]
-	},
-	{
 		"name": "Welcome To Hell",
 		"bpm": 83,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -2899,40 +3408,6 @@
 		]
 	},
 	{
-		"name": "My Dream",
-		"bpm": 83,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1557315217-67341-my-dream-83-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Rock"
-		],
-		"moods": [
-			"Sad",
-			"Sentimental",
-			"Smooth"
-		]
-	},
-	{
-		"name": "My Dream wHook by. JC of The Finest",
-		"bpm": 83,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522196813-44002-my-dream-whook-by-jc-of-the-finest-83-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Beats w/ Hooks"
-		],
-		"moods": [
-			"Calming",
-			"Dreamy",
-			"Warm"
-		]
-	},
-	{
 		"name": "No Apologies",
 		"bpm": 74,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -2964,23 +3439,6 @@
 			"Bouncy",
 			"Complex",
 			"Strange"
-		]
-	},
-	{
-		"name": "Fancy",
-		"bpm": 94,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522197102-74238-fancy-94-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Pop"
-		],
-		"moods": [
-			"Bouncy",
-			"Dreamy",
-			"Elegant"
 		]
 	},
 	{
@@ -3052,40 +3510,6 @@
 		]
 	},
 	{
-		"name": "Falling Skys",
-		"bpm": 72,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1557315224-83401-falling-skys-72-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Romantic",
-			"Sad",
-			"Smooth"
-		]
-	},
-	{
-		"name": "Falling Skys wHook by. JC of The Finest",
-		"bpm": 72,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1457610115-89217-falling-skys-whook-by-jc-of-the-finest-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Beats w/ Hooks"
-		],
-		"moods": [
-			"Calming",
-			"Dramatic",
-			"Dreamy"
-		]
-	},
-	{
 		"name": "Nothing Left To Lose",
 		"bpm": 95,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -3137,40 +3561,6 @@
 		]
 	},
 	{
-		"name": "Royal",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522196972-52166-royal-90-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"New School"
-		],
-		"moods": [
-			"Bouncy",
-			"Complex",
-			"Epic"
-		]
-	},
-	{
-		"name": "Till I Die",
-		"bpm": 73,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1557315233-66160-till-i-die-73-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Rock"
-		],
-		"moods": [
-			"Calming",
-			"Dreamy",
-			"Sad"
-		]
-	},
-	{
 		"name": "On My Own",
 		"bpm": 85,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -3185,6 +3575,23 @@
 			"Bouncy",
 			"Calming",
 			"Smooth"
+		]
+	},
+	{
+		"name": "Quiet",
+		"bpm": 82,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1517249239-709-new-quiet-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Ambient",
+			"Smooth",
+			"Warm"
 		]
 	},
 	{
@@ -3205,57 +3612,6 @@
 		]
 	},
 	{
-		"name": "Can't Forget",
-		"bpm": 87,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522197022-42192-cant-forget-87-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Classical"
-		],
-		"moods": [
-			"Calming",
-			"Peaceful",
-			"Sad"
-		]
-	},
-	{
-		"name": "Memories (with Scratches)",
-		"bpm": 83,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522197000-94701-memories-with-scratches-83-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Calming",
-			"Dreamy",
-			"Smooth"
-		]
-	},
-	{
-		"name": "Memories (without Scratches)",
-		"bpm": 83,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522196982-78916-memories-without-scratches-83-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Peaceful",
-			"Smooth",
-			"Warm"
-		]
-	},
-	{
 		"name": "Legendary",
 		"bpm": 91,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -3270,6 +3626,23 @@
 			"Aggressive",
 			"Angry",
 			"Rebellious"
+		]
+	},
+	{
+		"name": "For The City",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1553965687-58785-for-the-city-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"New School"
+		],
+		"moods": [
+			"Industrial",
+			"Rebellious",
+			"Warm"
 		]
 	},
 	{
@@ -3324,6 +3697,23 @@
 		]
 	},
 	{
+		"name": "Feelings",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1553965683-96288-feelings-80-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Experimental"
+		],
+		"moods": [
+			"Carefree",
+			"Complex",
+			"Dreamy"
+		]
+	},
+	{
 		"name": "Keep It G",
 		"bpm": 93,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -3339,6 +3729,19 @@
 			"Smooth",
 			"Warm"
 		]
+	},
+	{
+		"name": "Pablo",
+		"bpm": 130,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1558615619-72924-pablo-130-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": []
 	},
 	{
 		"name": "One Day",
@@ -3477,23 +3880,6 @@
 		]
 	},
 	{
-		"name": "Brooklyn Bridge",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1576753299-73195-brooklyn-bridge-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Underground"
-		],
-		"moods": [
-			"Ambient",
-			"Happy",
-			"Laid-back"
-		]
-	},
-	{
 		"name": "Eyes Closed",
 		"bpm": 120,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -3562,20 +3948,20 @@
 		]
 	},
 	{
-		"name": "Rap Monster",
-		"bpm": 84,
+		"name": "I Still Remember",
+		"bpm": 89,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522196790-68924-rap-monster-84-bpm-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1511977643-23610-i-still-remember-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Rap"
+			"Classical"
 		],
 		"moods": [
-			"Aggressive",
-			"Bouncy",
-			"Disturbing"
+			"Sad",
+			"Sentimental",
+			"Smooth"
 		]
 	},
 	{
@@ -3644,23 +4030,6 @@
 			"Complex",
 			"Enthusiastic",
 			"Epic"
-		]
-	},
-	{
-		"name": "My Religion",
-		"bpm": 89,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522196770-6119-my-religion-89-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Rock"
-		],
-		"moods": [
-			"Carefree",
-			"Gleeful",
-			"Pastoral"
 		]
 	},
 	{
@@ -3749,37 +4118,20 @@
 		]
 	},
 	{
-		"name": "Mafia Music",
-		"bpm": 90,
+		"name": "Dolce Vita",
+		"bpm": 75,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1457611167-89801-mafia-music-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1553965678-37894-dolce-vita-75-bpm-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Ethnic"
+			"Trap"
 		],
 		"moods": [
-			"Aggressive",
-			"Angry",
-			"Spiritual"
-		]
-	},
-	{
-		"name": "Rollin With Da Best",
-		"bpm": 91,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1457611769-87100-rollin-with-da-best-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Experimental"
-		],
-		"moods": [
-			"Futuristic",
-			"Industrial",
-			"Intense"
+			"Bouncy",
+			"Carefree",
+			"Dreamy"
 		]
 	},
 	{
@@ -3987,23 +4339,6 @@
 		]
 	},
 	{
-		"name": "Burn The Roof",
-		"bpm": 100,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522196811-93823-burn-the-roof-100-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Club"
-		],
-		"moods": [
-			"Bouncy",
-			"Complex",
-			"Intense"
-		]
-	},
-	{
 		"name": "Ready To Die",
 		"bpm": 147,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -4018,6 +4353,23 @@
 			"Aggressive",
 			"Angry",
 			"Bouncy"
+		]
+	},
+	{
+		"name": "Block Party",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568126897-90360-block-party-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Old School"
+		],
+		"moods": [
+			"Cheerful",
+			"Cool",
+			"Enthusiastic"
 		]
 	},
 	{
@@ -4069,23 +4421,6 @@
 			"Bouncy",
 			"Rebellious",
 			"Spiritual"
-		]
-	},
-	{
-		"name": "Deep Visions",
-		"bpm": 92,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1522196814-97560-deep-visions-92-bpm-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Smooth"
-		],
-		"moods": [
-			"Smooth",
-			"Sweet",
-			"Warm"
 		]
 	},
 	{
@@ -4186,40 +4521,6 @@
 			"Calming",
 			"Funky",
 			"Gleeful"
-		]
-	},
-	{
-		"name": "Ridin wHook by. JC of The Finest - Lazy Rida Beats Collab",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1457611769-69354-ridin-whook-by-jc-of-the-finest-feat-lazy-rida-beats-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Beats w/ Hooks"
-		],
-		"moods": [
-			"Light",
-			"Smooth",
-			"Warm"
-		]
-	},
-	{
-		"name": "Ridin - Lazy Rida Beats Collab",
-		"bpm": 90,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1457611768-34949-ridin-w-o-hook-feat-lazy-rida-beats-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Rock"
-		],
-		"moods": [
-			"Ambient",
-			"Laid-back",
-			"Smooth"
 		]
 	},
 	{
@@ -4376,6 +4677,40 @@
 		]
 	},
 	{
+		"name": "Chasing Dreams",
+		"bpm": 87,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1553965672-35040-chasing-dreams-87-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"R&B"
+		],
+		"moods": [
+			"Sentimental",
+			"Smooth",
+			"Warm"
+		]
+	},
+	{
+		"name": "Ice Cold",
+		"bpm": 126,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1544636738-45936-ice-cold-126-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Sad",
+			"Smooth",
+			"Spacey"
+		]
+	},
+	{
 		"name": "The Escape",
 		"bpm": 95,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -4390,6 +4725,23 @@
 			"Energetic",
 			"Enthusiastic",
 			"Strange"
+		]
+	},
+	{
+		"name": "Universe",
+		"bpm": 140,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1553965706-38404-universe-140-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Complex",
+			"Elegant",
+			"Futuristic"
 		]
 	},
 	{
@@ -4424,6 +4776,23 @@
 			"Ambient",
 			"Calming",
 			"Dreamy"
+		]
+	},
+	{
+		"name": "Time to Time",
+		"bpm": 140,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1521565220-32268-time-to-time-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Peaceful",
+			"Sad",
+			"Smooth"
 		]
 	},
 	{
@@ -4478,7 +4847,24 @@
 		]
 	},
 	{
-		"name": "Sometimes (85 BPM)",
+		"name": "Through My Eyes Vol. 2",
+		"bpm": 75,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1558620610-33317-through-my-eyes-vol-2-75-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Sentimental",
+			"Smooth",
+			"Warm"
+		]
+	},
+	{
+		"name": "Sometimes",
 		"bpm": 85,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
 		"fileUrl": "https://cdn.airbit.com/tagged/1522196843-11068-sometimes-85-bpm-by-insanebeatz-beat.mp3",
@@ -4508,6 +4894,40 @@
 		"moods": [
 			"Sad",
 			"Sentimental",
+			"Warm"
+		]
+	},
+	{
+		"name": "Black Roses",
+		"bpm": 120,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1541095829-88031-black-roses-120-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Sad",
+			"Sentimental",
+			"Warm"
+		]
+	},
+	{
+		"name": "One Night",
+		"bpm": 120,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1553965696-55843-one-night-120-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Epic",
+			"Rebellious",
 			"Warm"
 		]
 	},
@@ -4767,6 +5187,23 @@
 		]
 	},
 	{
+		"name": "On And On",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1534260774-72380-on-and-on-80-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Ambient",
+			"Calming",
+			"Warm"
+		]
+	},
+	{
 		"name": "On Your Knees",
 		"bpm": 88,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -4886,6 +5323,23 @@
 		]
 	},
 	{
+		"name": "Toxic",
+		"bpm": 70,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1556884763-6917-toxic-70-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Trap"
+		],
+		"moods": [
+			"Aggressive",
+			"Angry",
+			"Dark"
+		]
+	},
+	{
 		"name": "Nightmare",
 		"bpm": 100,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -4900,6 +5354,23 @@
 			"Angry",
 			"Gloomy",
 			"Strange"
+		]
+	},
+	{
+		"name": "If I Die",
+		"bpm": 75,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1553965692-33706-if-i-die-75-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Underground"
+		],
+		"moods": [
+			"Ambient",
+			"Carefree",
+			"Warm"
 		]
 	},
 	{
@@ -4951,6 +5422,57 @@
 			"Calming",
 			"Romantic",
 			"Sexy"
+		]
+	},
+	{
+		"name": "Desert",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1515158978-58414-new-desert-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": [
+			"Rebellious",
+			"Spiritual",
+			"Strange"
+		]
+	},
+	{
+		"name": "Fight For Your Dreams",
+		"bpm": 73,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1555338801-63196-fight-for-your-dreams-73-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Sad",
+			"Sentimental",
+			"Spacey"
+		]
+	},
+	{
+		"name": "Living Dead",
+		"bpm": 90,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1522197055-87331-living-dead-90-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Horrorcore"
+		],
+		"moods": [
+			"Aggressive",
+			"Dark",
+			"Ominous"
 		]
 	},
 	{
@@ -5039,6 +5561,23 @@
 		]
 	},
 	{
+		"name": "My Bae",
+		"bpm": 85,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1541779379-81155-my-bae-85-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Dreamy",
+			"Smooth",
+			"Spacey"
+		]
+	},
+	{
 		"name": "G-Town",
 		"bpm": 68,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -5053,6 +5592,23 @@
 			"Aggressive",
 			"Angry",
 			"Bouncy"
+		]
+	},
+	{
+		"name": "Around The World",
+		"bpm": 80,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1513346659-27654-new-around-the-world-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Experimental"
+		],
+		"moods": [
+			"Bouncy",
+			"Dreamy",
+			"Hypnotic"
 		]
 	},
 	{
@@ -5087,6 +5643,40 @@
 			"Cold",
 			"Cool",
 			"Spiritual"
+		]
+	},
+	{
+		"name": "Matador",
+		"bpm": 92,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1541779298-93518-matador-92-bpm-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Rap"
+		],
+		"moods": [
+			"Aggressive",
+			"Angry",
+			"Industrial"
+		]
+	},
+	{
+		"name": "Coffee Shop",
+		"bpm": 70,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1518271695-81012-new-coffee-shop-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Smooth"
+		],
+		"moods": [
+			"Ambient",
+			"Calming",
+			"Warm"
 		]
 	},
 	{
@@ -5277,23 +5867,6 @@
 		]
 	},
 	{
-		"name": "Orient Is Bangin (no trackouts available)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1457619374-20969-orient-is-bangin-no-trackouts-available-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Gangsta Rap"
-		],
-		"moods": [
-			"Industrial",
-			"Spiritual",
-			"Strange"
-		]
-	},
-	{
 		"name": "Hoodsession (no trackouts available)",
 		"bpm": 0,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
@@ -5311,7 +5884,7 @@
 		]
 	},
 	{
-		"name": "R&B Summertime (no trackouts available)",
+		"name": "R&amp;B Summertime (no trackouts available)",
 		"bpm": 0,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
 		"fileUrl": "https://cdn.airbit.com/tagged/1457619374-75424-r-b-summertime-no-trackouts-available-by-insanebeatz-beat.mp3",
@@ -5600,20 +6173,163 @@
 		]
 	},
 	{
-		"name": "*ON HOLD* Cloudy",
-		"bpm": 90,
+		"name": "Franchise (Exclusive Rights)",
+		"bpm": 0,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1568736657-10898-cloudy-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605217127-30428-franchise-exclusive-rights-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Old School"
+			"Hip Hop"
 		],
 		"moods": []
 	},
 	{
-		"name": "*ON HOLD* Missing You",
+		"name": "Body Snatchers (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605217237-91489-body-snatchers-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Turntables (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605217275-26546-turntables-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Signs (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605643854-96331-signs-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Reaper (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605210795-77082-reaper-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Kush (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605210719-20141-kush-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Burnout (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605210786-9140-burnout-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Destroyer (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605210753-38413-destroyer-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Tears (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605210730-20721-tears-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Streetfighter (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605210848-58439-streetfighter-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Hoodlife (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605210756-78716-hoodlife-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "Non Stop (Exclusive Rights)",
+		"bpm": 0,
+		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
+		"fileUrl": "https://cdn.airbit.com/tagged/1605217236-99137-non-stop-exclusive-rights-by-insanebeatz-beat.mp3",
+		"producers": [
+			"InsaneBeatz"
+		],
+		"genres": [
+			"Hip Hop"
+		],
+		"moods": []
+	},
+	{
+		"name": "*SOLD* Missing You",
 		"bpm": 89,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
 		"fileUrl": "https://cdn.airbit.com/tagged/1580905651-41983-missing-you-by-insanebeatz-beat.mp3",
@@ -5630,393 +6346,15 @@
 		]
 	},
 	{
-		"name": "Thief",
-		"bpm": 67,
+		"name": "*SOLD* Cloudy",
+		"bpm": 90,
 		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166487-77871-thief-by-insanebeatz-beat.mp3",
+		"fileUrl": "https://cdn.airbit.com/tagged/1568736657-10898-cloudy-by-insanebeatz-beat.mp3",
 		"producers": [
 			"InsaneBeatz"
 		],
 		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Dreamy",
-			"Elegant",
-			"Passionate"
-		]
-	},
-	{
-		"name": "Lion's Cage",
-		"bpm": 92,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166476-23423-lions-cage-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Aggressive",
-			"Angry",
-			"Dark"
-		]
-	},
-	{
-		"name": "Broken",
-		"bpm": 78,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166458-9116-broken-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Sad",
-			"Sentimental",
-			"Smooth"
-		]
-	},
-	{
-		"name": "Devil Inside",
-		"bpm": 152,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166465-62586-devil-inside-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Aggressive",
-			"Angry",
-			"Bouncy"
-		]
-	},
-	{
-		"name": "Thinking Back",
-		"bpm": 82,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166494-87608-thinking-back-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Calming",
-			"Carefree",
-			"Smooth"
-		]
-	},
-	{
-		"name": "Deep Water",
-		"bpm": 115,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166462-90702-deep-water-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Calming",
-			"Sad",
-			"Sentimental"
-		]
-	},
-	{
-		"name": "Fiesta",
-		"bpm": 105,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166471-30742-fiesta-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Carefree",
-			"Elegant",
-			"Happy"
-		]
-	},
-	{
-		"name": "Bonsai",
-		"bpm": 80,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166451-37950-bonsai-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Bouncy",
-			"Cool",
-			"Dreamy"
-		]
-	},
-	{
-		"name": "Pulse",
-		"bpm": 77,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166479-265-pulse-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Cool",
-			"Dark",
-			"Groovy"
-		]
-	},
-	{
-		"name": "Sea Of Tears",
-		"bpm": 94,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1590166483-67759-sea-of-tears-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": [
-			"Calming",
-			"Sentimental",
-			"Smooth"
-		]
-	},
-	{
-		"name": "Daze (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819425-10144-daze-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Fake Mirror (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819430-37290-fake-mirror-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Known Better (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819413-85365-known-better-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Grapes (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819418-85130-grapes-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Breakeven (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819424-78268-breakeven-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Final Round (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819414-2204-final-round-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "What I Love (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819419-88748-what-i-love-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Cold (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819420-58540-cold-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Space Age (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819420-43330-space-age-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Bottoms Up (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819412-74386-bottoms-up-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Why (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819429-34789-why-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Pain In My Heart (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819432-94326-pain-in-my-heart-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Poison (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819412-64730-poison-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Time Away (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819418-10462-time-away-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Berserker (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819433-77764-berserker-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Excuse Me (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819415-23746-excuse-me-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
-		],
-		"moods": []
-	},
-	{
-		"name": "Insecure (Exclusive Rights)",
-		"bpm": 0,
-		"pageUrl": "https://airbit.com/widgets/html5?uid=21599&config=181869",
-		"fileUrl": "https://cdn.airbit.com/tagged/1592819438-38055-insecure-exclusive-rights-by-insanebeatz-beat.mp3",
-		"producers": [
-			"InsaneBeatz"
-		],
-		"genres": [
-			"Hip Hop"
+			"Old School"
 		],
 		"moods": []
 	}

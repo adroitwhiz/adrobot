@@ -1,7 +1,354 @@
 [
 	{
+		"name": "Meditate",
+		"pageUrl": "https://tantubeats.com/beat/meditate-6763484",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6763484&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 89
+	},
+	{
+		"name": "Candy",
+		"pageUrl": "https://tantubeats.com/beat/candy-6690723",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6690723&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 150
+	},
+	{
+		"name": "Real Me",
+		"pageUrl": "https://tantubeats.com/beat/real-me-6627539",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6627539&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 75
+	},
+	{
+		"name": "Sincerely Yours",
+		"pageUrl": "https://tantubeats.com/beat/sincerely-yours-6572785",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6572785&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 95
+	},
+	{
+		"name": "Earth [+ Hook]",
+		"pageUrl": "https://tantubeats.com/beat/earth-hook-6267134",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6267134&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": true,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 158
+	},
+	{
+		"name": "Ex (Down) [+ Hook]",
+		"pageUrl": "https://tantubeats.com/beat/ex-down-hook-6267045",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6267045&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": true,
+		"genres": [
+			"Pop",
+			"Pop / R&B"
+		],
+		"bpm": 107
+	},
+	{
+		"name": "Sol Y Mar (Deeper) [+ Hook]",
+		"pageUrl": "https://tantubeats.com/beat/sol-y-mar-deeper-hook-6266956",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6266956&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": true,
+		"genres": [
+			"Pop",
+			"Pop / Hip Hop"
+		],
+		"bpm": 100
+	},
+	{
+		"name": "Spooky",
+		"pageUrl": "https://tantubeats.com/beat/spooky-6240706",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6240706&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 85
+	},
+	{
+		"name": "Medieval",
+		"pageUrl": "https://tantubeats.com/beat/medieval-6209261",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6209261&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 104
+	},
+	{
+		"name": "Bob Ross",
+		"pageUrl": "https://tantubeats.com/beat/bob-ross-6122071",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6122071&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 87
+	},
+	{
+		"name": "Move On",
+		"pageUrl": "https://tantubeats.com/beat/move-on-6081613",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6081613&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / R&B"
+		],
+		"bpm": 158
+	},
+	{
+		"name": "Peter Pan",
+		"pageUrl": "https://tantubeats.com/beat/peter-pan-6009825",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=6009825&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / Hip Hop"
+		],
+		"bpm": 128
+	},
+	{
+		"name": "Finale",
+		"pageUrl": "https://tantubeats.com/beat/finale-5949348",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5949348&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 120
+	},
+	{
+		"name": "Athletic",
+		"pageUrl": "https://tantubeats.com/beat/athletic-5898122",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5898122&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 130
+	},
+	{
+		"name": "Super Star",
+		"pageUrl": "https://tantubeats.com/beat/super-star-5859528",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5859528&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"R&B",
+			"New Soul"
+		],
+		"bpm": 120
+	},
+	{
+		"name": "Arcade",
+		"pageUrl": "https://tantubeats.com/beat/arcade-5785999",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5785999&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 130
+	},
+	{
+		"name": "Sony",
+		"pageUrl": "https://tantubeats.com/beat/sony-5713541",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5713541&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 90
+	},
+	{
+		"name": "Lamento",
+		"pageUrl": "https://tantubeats.com/beat/lamento-5634865",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5634865&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 92
+	},
+	{
+		"name": "Roll Up",
+		"pageUrl": "https://tantubeats.com/beat/roll-up-5590428",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5590428&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop",
+			"Trap"
+		],
+		"bpm": 181
+	},
+	{
+		"name": "Airplane Mode",
+		"pageUrl": "https://tantubeats.com/beat/airplane-mode-5507832",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5507832&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / Hip Hop"
+		],
+		"bpm": 96
+	},
+	{
+		"name": "Starlight",
+		"pageUrl": "https://tantubeats.com/beat/starlight-5444280",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5444280&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / Hip Hop"
+		],
+		"bpm": 112
+	},
+	{
+		"name": "Last One",
+		"pageUrl": "https://tantubeats.com/beat/last-one-5378515",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5378515&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 84
+	},
+	{
+		"name": "Anime (Tantu x GC)",
+		"pageUrl": "https://tantubeats.com/beat/anime-tantu-x-gc-5313446",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5313446&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Hip Hop"
+		],
+		"bpm": 92
+	},
+	{
+		"name": "Lawd!",
+		"pageUrl": "https://tantubeats.com/beat/lawd-5204599",
+		"fileUrl": "https://main.v2.beatstars.com/stream?id=5204599&return=audio",
+		"producers": [
+			"Tantu Beats"
+		],
+		"availableForPurchase": true,
+		"hasHook": false,
+		"genres": [
+			"Pop",
+			"Pop / Hip Hop"
+		],
+		"bpm": 104
+	},
+	{
 		"name": "Laundromat",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/laundromat-5139047",
+		"pageUrl": "https://tantubeats.com/beat/laundromat-5139047",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=5139047&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -15,7 +362,7 @@
 	},
 	{
 		"name": "Tweety",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/tweety-5119818",
+		"pageUrl": "https://tantubeats.com/beat/tweety-5119818",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=5119818&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -30,7 +377,7 @@
 	},
 	{
 		"name": "Maniac",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/maniac-5074297",
+		"pageUrl": "https://tantubeats.com/beat/maniac-5074297",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=5074297&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -44,7 +391,7 @@
 	},
 	{
 		"name": "Emotion",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/emotion-5001739",
+		"pageUrl": "https://tantubeats.com/beat/emotion-5001739",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=5001739&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -59,7 +406,7 @@
 	},
 	{
 		"name": "Dial Tone",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dial-tone-4968931",
+		"pageUrl": "https://tantubeats.com/beat/dial-tone-4968931",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4968931&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -73,7 +420,7 @@
 	},
 	{
 		"name": "NASA",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/nasa-4928306",
+		"pageUrl": "https://tantubeats.com/beat/nasa-4928306",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4928306&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -88,7 +435,7 @@
 	},
 	{
 		"name": "Ex",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/ex-4848634",
+		"pageUrl": "https://tantubeats.com/beat/ex-4848634",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4848634&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -102,7 +449,7 @@
 	},
 	{
 		"name": "H2O",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/h2o-4768987",
+		"pageUrl": "https://tantubeats.com/beat/h2o-4768987",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4768987&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -117,7 +464,7 @@
 	},
 	{
 		"name": "Pink",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/pink-4675652",
+		"pageUrl": "https://tantubeats.com/beat/pink-4675652",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4675652&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -131,22 +478,8 @@
 		"bpm": 126
 	},
 	{
-		"name": "Play",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/play-4568760",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=4568760&return=audio",
-		"producers": [
-			"Tantu Beats"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop"
-		],
-		"bpm": 90
-	},
-	{
 		"name": "Soft Drink",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/soft-drink-4549024",
+		"pageUrl": "https://tantubeats.com/beat/soft-drink-4549024",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4549024&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -161,7 +494,7 @@
 	},
 	{
 		"name": "Bong!",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/bong-4497882",
+		"pageUrl": "https://tantubeats.com/beat/bong-4497882",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4497882&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -175,7 +508,7 @@
 	},
 	{
 		"name": "Green",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/green-4477443",
+		"pageUrl": "https://tantubeats.com/beat/green-4477443",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4477443&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -190,7 +523,7 @@
 	},
 	{
 		"name": "The Crow",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/the-crow-4423438",
+		"pageUrl": "https://tantubeats.com/beat/the-crow-4423438",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4423438&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -204,7 +537,7 @@
 	},
 	{
 		"name": "Morning (Tantu x GC)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/morning-tantu-x-gc-4349765",
+		"pageUrl": "https://tantubeats.com/beat/morning-tantu-x-gc-4349765",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4349765&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -218,7 +551,7 @@
 	},
 	{
 		"name": "Bicycle",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/bicycle-4305321",
+		"pageUrl": "https://tantubeats.com/beat/bicycle-4305321",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4305321&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -232,7 +565,7 @@
 	},
 	{
 		"name": "Earth",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/earth-4236554",
+		"pageUrl": "https://tantubeats.com/beat/earth-4236554",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4236554&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -246,7 +579,7 @@
 	},
 	{
 		"name": "Waterfall",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/waterfall-4202600",
+		"pageUrl": "https://tantubeats.com/beat/waterfall-4202600",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4202600&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -260,7 +593,7 @@
 	},
 	{
 		"name": "Virus",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/virus-4165002",
+		"pageUrl": "https://tantubeats.com/beat/virus-4165002",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4165002&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -275,7 +608,7 @@
 	},
 	{
 		"name": "Eternal",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/eternal-4077754",
+		"pageUrl": "https://tantubeats.com/beat/eternal-4077754",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=4077754&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -289,7 +622,7 @@
 	},
 	{
 		"name": "Milk!",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/milk-3972952",
+		"pageUrl": "https://tantubeats.com/beat/milk-3972952",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3972952&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -303,7 +636,7 @@
 	},
 	{
 		"name": "Vibe",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/vibe-3918490",
+		"pageUrl": "https://tantubeats.com/beat/vibe-3918490",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3918490&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -318,7 +651,7 @@
 	},
 	{
 		"name": "Korea",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/korea-3872331",
+		"pageUrl": "https://tantubeats.com/beat/korea-3872331",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3872331&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -333,7 +666,7 @@
 	},
 	{
 		"name": "Training",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/training-3842699",
+		"pageUrl": "https://tantubeats.com/beat/training-3842699",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3842699&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -348,7 +681,7 @@
 	},
 	{
 		"name": "Full Circle",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/full-circle-3815938",
+		"pageUrl": "https://tantubeats.com/beat/full-circle-3815938",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3815938&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -362,7 +695,7 @@
 	},
 	{
 		"name": "Lost",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/lost-3766202",
+		"pageUrl": "https://tantubeats.com/beat/lost-3766202",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3766202&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -376,7 +709,7 @@
 	},
 	{
 		"name": "Money",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/money-3730572",
+		"pageUrl": "https://tantubeats.com/beat/money-3730572",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3730572&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -391,7 +724,7 @@
 	},
 	{
 		"name": "Soul Gang",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/soul-gang-3686162",
+		"pageUrl": "https://tantubeats.com/beat/soul-gang-3686162",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3686162&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -406,7 +739,7 @@
 	},
 	{
 		"name": "Family",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/family-3658293",
+		"pageUrl": "https://tantubeats.com/beat/family-3658293",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3658293&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -420,7 +753,7 @@
 	},
 	{
 		"name": "Trippy",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/trippy-3648672",
+		"pageUrl": "https://tantubeats.com/beat/trippy-3648672",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3648672&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -435,7 +768,7 @@
 	},
 	{
 		"name": "Clouts",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/clouts-3581418",
+		"pageUrl": "https://tantubeats.com/beat/clouts-3581418",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3581418&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -450,7 +783,7 @@
 	},
 	{
 		"name": "Bounce House",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/bounce-house-3562380",
+		"pageUrl": "https://tantubeats.com/beat/bounce-house-3562380",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3562380&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -465,7 +798,7 @@
 	},
 	{
 		"name": "Sunflower",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sunflower-3520763",
+		"pageUrl": "https://tantubeats.com/beat/sunflower-3520763",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3520763&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -480,7 +813,7 @@
 	},
 	{
 		"name": "Simon Says",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/simon-says-3486129",
+		"pageUrl": "https://tantubeats.com/beat/simon-says-3486129",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3486129&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -494,7 +827,7 @@
 	},
 	{
 		"name": "Dancing",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dancing-3458102",
+		"pageUrl": "https://tantubeats.com/beat/dancing-3458102",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3458102&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -509,7 +842,7 @@
 	},
 	{
 		"name": "Good Day",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/good-day-3423741",
+		"pageUrl": "https://tantubeats.com/beat/good-day-3423741",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3423741&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -523,7 +856,7 @@
 	},
 	{
 		"name": "Jukebox",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/jukebox-3391918",
+		"pageUrl": "https://tantubeats.com/beat/jukebox-3391918",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3391918&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -537,7 +870,7 @@
 	},
 	{
 		"name": "Dedication",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dedication-3361655",
+		"pageUrl": "https://tantubeats.com/beat/dedication-3361655",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3361655&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -551,7 +884,7 @@
 	},
 	{
 		"name": "Cool Kidz",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/cool-kidz-3322459",
+		"pageUrl": "https://tantubeats.com/beat/cool-kidz-3322459",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3322459&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -565,7 +898,7 @@
 	},
 	{
 		"name": "Next To U",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/next-to-u-3285930",
+		"pageUrl": "https://tantubeats.com/beat/next-to-u-3285930",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3285930&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -580,7 +913,7 @@
 	},
 	{
 		"name": "Vocal",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/vocal-3249914",
+		"pageUrl": "https://tantubeats.com/beat/vocal-3249914",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3249914&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -595,7 +928,7 @@
 	},
 	{
 		"name": "Nineties",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/nineties-3215219",
+		"pageUrl": "https://tantubeats.com/beat/nineties-3215219",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3215219&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -610,7 +943,7 @@
 	},
 	{
 		"name": "Carnival (Tantu x Dansonn)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/carnival-tantu-x-dansonn-3181558",
+		"pageUrl": "https://tantubeats.com/beat/carnival-tantu-x-dansonn-3181558",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3181558&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -625,7 +958,7 @@
 	},
 	{
 		"name": "Friends",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/friends-3146655",
+		"pageUrl": "https://tantubeats.com/beat/friends-3146655",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3146655&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -639,7 +972,7 @@
 	},
 	{
 		"name": "One More Time",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/one-more-time-3115581",
+		"pageUrl": "https://tantubeats.com/beat/one-more-time-3115581",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3115581&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -653,7 +986,7 @@
 	},
 	{
 		"name": "Kalimba",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/kalimba-3079202",
+		"pageUrl": "https://tantubeats.com/beat/kalimba-3079202",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3079202&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -668,7 +1001,7 @@
 	},
 	{
 		"name": "Squidward",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/squidward-3052550",
+		"pageUrl": "https://tantubeats.com/beat/squidward-3052550",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3052550&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -683,7 +1016,7 @@
 	},
 	{
 		"name": "Unstoppable (Tantu x Danny E.B.)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/unstoppable-tantu-x-danny-eb-3047258",
+		"pageUrl": "https://tantubeats.com/beat/unstoppable-tantu-x-danny-eb-3047258",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3047258&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -698,7 +1031,7 @@
 	},
 	{
 		"name": "Roadtrip",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/roadtrip-2992778",
+		"pageUrl": "https://tantubeats.com/beat/roadtrip-2992778",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2992778&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -712,7 +1045,7 @@
 	},
 	{
 		"name": "Yamaha",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/yamaha-3020677",
+		"pageUrl": "https://tantubeats.com/beat/yamaha-3020677",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=3020677&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -726,7 +1059,7 @@
 	},
 	{
 		"name": "Midnight",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/midnight-2882322",
+		"pageUrl": "https://tantubeats.com/beat/midnight-2882322",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2882322&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -741,7 +1074,7 @@
 	},
 	{
 		"name": "Stranger Things",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/stranger-things-2882301",
+		"pageUrl": "https://tantubeats.com/beat/stranger-things-2882301",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2882301&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -755,7 +1088,7 @@
 	},
 	{
 		"name": "Droptop",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/droptop-2881421",
+		"pageUrl": "https://tantubeats.com/beat/droptop-2881421",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2881421&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -770,7 +1103,7 @@
 	},
 	{
 		"name": "Dreamers",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dreamers-2852765",
+		"pageUrl": "https://tantubeats.com/beat/dreamers-2852765",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2852765&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -785,7 +1118,7 @@
 	},
 	{
 		"name": "Faithful",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/faithful-2786328",
+		"pageUrl": "https://tantubeats.com/beat/faithful-2786328",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2786328&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -799,7 +1132,7 @@
 	},
 	{
 		"name": "Endgame",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/endgame-2746124",
+		"pageUrl": "https://tantubeats.com/beat/endgame-2746124",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2746124&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -814,7 +1147,7 @@
 	},
 	{
 		"name": "Timeless",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/timeless-2686286",
+		"pageUrl": "https://tantubeats.com/beat/timeless-2686286",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2686286&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -828,7 +1161,7 @@
 	},
 	{
 		"name": "Issa Vibe",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/issa-vibe-2650795",
+		"pageUrl": "https://tantubeats.com/beat/issa-vibe-2650795",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2650795&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -842,7 +1175,7 @@
 	},
 	{
 		"name": "Get Through",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/get-through-2625254",
+		"pageUrl": "https://tantubeats.com/beat/get-through-2625254",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2625254&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -857,7 +1190,7 @@
 	},
 	{
 		"name": "Dance (Tantu x Danny E.B.)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dance-tantu-x-danny-eb-2591081",
+		"pageUrl": "https://tantubeats.com/beat/dance-tantu-x-danny-eb-2591081",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2591081&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -872,7 +1205,7 @@
 	},
 	{
 		"name": "Alley",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/alley-2561775",
+		"pageUrl": "https://tantubeats.com/beat/alley-2561775",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2561775&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -887,7 +1220,7 @@
 	},
 	{
 		"name": "Skies",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/skies-2506677",
+		"pageUrl": "https://tantubeats.com/beat/skies-2506677",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2506677&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -902,7 +1235,7 @@
 	},
 	{
 		"name": "Wonder",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/wonder-2497247",
+		"pageUrl": "https://tantubeats.com/beat/wonder-2497247",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2497247&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -917,7 +1250,7 @@
 	},
 	{
 		"name": "Wonder (+ Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/wonder-hook-2599549",
+		"pageUrl": "https://tantubeats.com/beat/wonder-hook-2599549",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2599549&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -932,7 +1265,7 @@
 	},
 	{
 		"name": "Route 66",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/route-66-2473114",
+		"pageUrl": "https://tantubeats.com/beat/route-66-2473114",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2473114&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -947,7 +1280,7 @@
 	},
 	{
 		"name": "Damn pt. II",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/damn-pt-ii-2453838",
+		"pageUrl": "https://tantubeats.com/beat/damn-pt-ii-2453838",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2453838&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -961,7 +1294,7 @@
 	},
 	{
 		"name": "All Good",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/all-good-2393383",
+		"pageUrl": "https://tantubeats.com/beat/all-good-2393383",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2393383&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -976,7 +1309,7 @@
 	},
 	{
 		"name": "Kidz",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/kidz-2363729",
+		"pageUrl": "https://tantubeats.com/beat/kidz-2363729",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2363729&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -990,22 +1323,8 @@
 		"bpm": 98
 	},
 	{
-		"name": "Sad Boys (Tantu  x Danny E.B.)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sad-boys-tantu-x-danny-eb-2336857",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=2336857&return=audio",
-		"producers": [
-			"Tantu Beats"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop"
-		],
-		"bpm": 81.5
-	},
-	{
 		"name": "Photo$hot",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/photodollarshot-2307632",
+		"pageUrl": "https://tantubeats.com/beat/photodollarshot-2307632",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2307632&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1020,7 +1339,7 @@
 	},
 	{
 		"name": "Today",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/today-2287168",
+		"pageUrl": "https://tantubeats.com/beat/today-2287168",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2287168&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1034,7 +1353,7 @@
 	},
 	{
 		"name": "Floating (Tantu x Dansonn)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/floating-tantu-x-dansonn-2250401",
+		"pageUrl": "https://tantubeats.com/beat/floating-tantu-x-dansonn-2250401",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2250401&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1049,7 +1368,7 @@
 	},
 	{
 		"name": "Distorted",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/distorted-2224448",
+		"pageUrl": "https://tantubeats.com/beat/distorted-2224448",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2224448&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1063,7 +1382,7 @@
 	},
 	{
 		"name": "Friendly Fire",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/friendly-fire-2199477",
+		"pageUrl": "https://tantubeats.com/beat/friendly-fire-2199477",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2199477&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1078,7 +1397,7 @@
 	},
 	{
 		"name": "2010",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/2010-2163301",
+		"pageUrl": "https://tantubeats.com/beat/2010-2163301",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2163301&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1093,7 +1412,7 @@
 	},
 	{
 		"name": "Sorry",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sorry-2139398",
+		"pageUrl": "https://tantubeats.com/beat/sorry-2139398",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2139398&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1107,7 +1426,7 @@
 	},
 	{
 		"name": "Selfless",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/selfless-2106803",
+		"pageUrl": "https://tantubeats.com/beat/selfless-2106803",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2106803&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1122,7 +1441,7 @@
 	},
 	{
 		"name": "We On [SOLD]",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/we-on-sold-2074374",
+		"pageUrl": "https://tantubeats.com/beat/we-on-sold-2074374",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2074374&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1137,7 +1456,7 @@
 	},
 	{
 		"name": "Looking Back",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/looking-back-2041971",
+		"pageUrl": "https://tantubeats.com/beat/looking-back-2041971",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2041971&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1152,7 +1471,7 @@
 	},
 	{
 		"name": "No Features",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/no-features-2018359",
+		"pageUrl": "https://tantubeats.com/beat/no-features-2018359",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=2018359&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1167,7 +1486,7 @@
 	},
 	{
 		"name": "Kung Fu",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/kung-fu-1992826",
+		"pageUrl": "https://tantubeats.com/beat/kung-fu-1992826",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1992826&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1182,7 +1501,7 @@
 	},
 	{
 		"name": "Careless",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/careless-1966097",
+		"pageUrl": "https://tantubeats.com/beat/careless-1966097",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1966097&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1197,7 +1516,7 @@
 	},
 	{
 		"name": "Horizon",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/horizon-1944424",
+		"pageUrl": "https://tantubeats.com/beat/horizon-1944424",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1944424&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1211,7 +1530,7 @@
 	},
 	{
 		"name": "Fast Forward",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/fast-forward-1917644",
+		"pageUrl": "https://tantubeats.com/beat/fast-forward-1917644",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1917644&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1225,7 +1544,7 @@
 	},
 	{
 		"name": "Tonight",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/tonight-1894103",
+		"pageUrl": "https://tantubeats.com/beat/tonight-1894103",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1894103&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1239,7 +1558,7 @@
 	},
 	{
 		"name": "Neva Lost",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/neva-lost-1861492",
+		"pageUrl": "https://tantubeats.com/beat/neva-lost-1861492",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1861492&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1254,7 +1573,7 @@
 	},
 	{
 		"name": "Things You Do",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/things-you-do-1837760",
+		"pageUrl": "https://tantubeats.com/beat/things-you-do-1837760",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1837760&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1268,7 +1587,7 @@
 	},
 	{
 		"name": "Reminisce",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/reminisce-1808688",
+		"pageUrl": "https://tantubeats.com/beat/reminisce-1808688",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1808688&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1282,7 +1601,7 @@
 	},
 	{
 		"name": "Flowers (Tantu x Danny E.B.)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/flowers-tantu-x-danny-eb-1788566",
+		"pageUrl": "https://tantubeats.com/beat/flowers-tantu-x-danny-eb-1788566",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1788566&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1296,7 +1615,7 @@
 	},
 	{
 		"name": "Coco",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/coco-1764777",
+		"pageUrl": "https://tantubeats.com/beat/coco-1764777",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1764777&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1310,7 +1629,7 @@
 	},
 	{
 		"name": "onamission",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/onamission-1737713",
+		"pageUrl": "https://tantubeats.com/beat/onamission-1737713",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1737713&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1325,7 +1644,7 @@
 	},
 	{
 		"name": "Inverted",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/inverted-1715145",
+		"pageUrl": "https://tantubeats.com/beat/inverted-1715145",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1715145&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1340,7 +1659,7 @@
 	},
 	{
 		"name": "Sinking",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sinking-1686407",
+		"pageUrl": "https://tantubeats.com/beat/sinking-1686407",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1686407&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1355,7 +1674,7 @@
 	},
 	{
 		"name": "Sol Y Mar (Tantu x Danny E.B)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sol-y-mar-tantu-x-danny-eb-1663374",
+		"pageUrl": "https://tantubeats.com/beat/sol-y-mar-tantu-x-danny-eb-1663374",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1663374&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1369,7 +1688,7 @@
 	},
 	{
 		"name": "Machine",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/machine-1639467",
+		"pageUrl": "https://tantubeats.com/beat/machine-1639467",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1639467&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1384,7 +1703,7 @@
 	},
 	{
 		"name": "Shangri-La",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/shangri-la-1606003",
+		"pageUrl": "https://tantubeats.com/beat/shangri-la-1606003",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1606003&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1398,7 +1717,7 @@
 	},
 	{
 		"name": "Be Different",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/be-different-1585062",
+		"pageUrl": "https://tantubeats.com/beat/be-different-1585062",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1585062&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1413,7 +1732,7 @@
 	},
 	{
 		"name": "Chords",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/chords-1558215",
+		"pageUrl": "https://tantubeats.com/beat/chords-1558215",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1558215&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1428,7 +1747,7 @@
 	},
 	{
 		"name": "Damn",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/damn-1534972",
+		"pageUrl": "https://tantubeats.com/beat/damn-1534972",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1534972&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1442,7 +1761,7 @@
 	},
 	{
 		"name": "Fahrenheit",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/fahrenheit-1523289",
+		"pageUrl": "https://tantubeats.com/beat/fahrenheit-1523289",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1523289&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1457,7 +1776,7 @@
 	},
 	{
 		"name": "Canon",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/canon-1500358",
+		"pageUrl": "https://tantubeats.com/beat/canon-1500358",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1500358&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1471,7 +1790,7 @@
 	},
 	{
 		"name": "Good Morning",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/good-morning-1489585",
+		"pageUrl": "https://tantubeats.com/beat/good-morning-1489585",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1489585&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1485,7 +1804,7 @@
 	},
 	{
 		"name": "Clouds",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/clouds-1474263",
+		"pageUrl": "https://tantubeats.com/beat/clouds-1474263",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1474263&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1499,7 +1818,7 @@
 	},
 	{
 		"name": "Purge (Tantu x Dansonn)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/purge-tantu-x-dansonn-1444178",
+		"pageUrl": "https://tantubeats.com/beat/purge-tantu-x-dansonn-1444178",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1444178&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1514,7 +1833,7 @@
 	},
 	{
 		"name": "Venom (Tantu x Dansonn)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/venom-tantu-x-dansonn-1432307",
+		"pageUrl": "https://tantubeats.com/beat/venom-tantu-x-dansonn-1432307",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1432307&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1529,7 +1848,7 @@
 	},
 	{
 		"name": "So Cold - made from sounds from my bedroom",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/so-cold-made-from-sounds-from-my-bedroom-1414301",
+		"pageUrl": "https://tantubeats.com/beat/so-cold-made-from-sounds-from-my-bedroom-1414301",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1414301&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1544,7 +1863,7 @@
 	},
 	{
 		"name": "Tropic",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/tropic-1398881",
+		"pageUrl": "https://tantubeats.com/beat/tropic-1398881",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1398881&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1559,7 +1878,7 @@
 	},
 	{
 		"name": "Sweet Lies",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sweet-lies-1385199",
+		"pageUrl": "https://tantubeats.com/beat/sweet-lies-1385199",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1385199&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1573,7 +1892,7 @@
 	},
 	{
 		"name": "Champagne",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/champagne-1355571",
+		"pageUrl": "https://tantubeats.com/beat/champagne-1355571",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1355571&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1588,7 +1907,7 @@
 	},
 	{
 		"name": "Friend or Foe",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/friend-or-foe-1344951",
+		"pageUrl": "https://tantubeats.com/beat/friend-or-foe-1344951",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1344951&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1603,7 +1922,7 @@
 	},
 	{
 		"name": "Dusty",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dusty-1327929",
+		"pageUrl": "https://tantubeats.com/beat/dusty-1327929",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1327929&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1618,7 +1937,7 @@
 	},
 	{
 		"name": "Bounce",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/bounce-1314065",
+		"pageUrl": "https://tantubeats.com/beat/bounce-1314065",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1314065&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1633,7 +1952,7 @@
 	},
 	{
 		"name": "Wings (Tantu x DJ Pain 1)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/wings-tantu-x-dj-pain-1-1297501",
+		"pageUrl": "https://tantubeats.com/beat/wings-tantu-x-dj-pain-1-1297501",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1297501&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1648,7 +1967,7 @@
 	},
 	{
 		"name": "Let Yeezy Be Yeezy - made from a kanye west tweet",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/let-yeezy-be-yeezy-made-from-a-kanye-west-tweet-1285546",
+		"pageUrl": "https://tantubeats.com/beat/let-yeezy-be-yeezy-made-from-a-kanye-west-tweet-1285546",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1285546&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1663,7 +1982,7 @@
 	},
 	{
 		"name": "Tell Me (Tantu x Danny E.B)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/tell-me-tantu-x-danny-eb-1279609",
+		"pageUrl": "https://tantubeats.com/beat/tell-me-tantu-x-danny-eb-1279609",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1279609&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1678,7 +1997,7 @@
 	},
 	{
 		"name": "Questions",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/questions-1265816",
+		"pageUrl": "https://tantubeats.com/beat/questions-1265816",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1265816&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1693,7 +2012,7 @@
 	},
 	{
 		"name": "Toy Story",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/toy-story-1242692",
+		"pageUrl": "https://tantubeats.com/beat/toy-story-1242692",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1242692&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1708,7 +2027,7 @@
 	},
 	{
 		"name": "Demons",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/demons-1226930",
+		"pageUrl": "https://tantubeats.com/beat/demons-1226930",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1226930&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1723,7 +2042,7 @@
 	},
 	{
 		"name": "Waves (Tantu x Danny E.B)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/waves-tantu-x-danny-eb-1214078",
+		"pageUrl": "https://tantubeats.com/beat/waves-tantu-x-danny-eb-1214078",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1214078&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1738,7 +2057,7 @@
 	},
 	{
 		"name": "Whip",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/whip-1195230",
+		"pageUrl": "https://tantubeats.com/beat/whip-1195230",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1195230&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1753,7 +2072,7 @@
 	},
 	{
 		"name": "Duo",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/duo-1178920",
+		"pageUrl": "https://tantubeats.com/beat/duo-1178920",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1178920&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1768,7 +2087,7 @@
 	},
 	{
 		"name": "Loco",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/loco-1163637",
+		"pageUrl": "https://tantubeats.com/beat/loco-1163637",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1163637&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1783,7 +2102,7 @@
 	},
 	{
 		"name": "On A Cloud",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/on-a-cloud-1139760",
+		"pageUrl": "https://tantubeats.com/beat/on-a-cloud-1139760",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1139760&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1798,7 +2117,7 @@
 	},
 	{
 		"name": "Written",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/written-1129931",
+		"pageUrl": "https://tantubeats.com/beat/written-1129931",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1129931&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1812,7 +2131,7 @@
 	},
 	{
 		"name": "Body Bag",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/body-bag-1113605",
+		"pageUrl": "https://tantubeats.com/beat/body-bag-1113605",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1113605&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1826,7 +2145,7 @@
 	},
 	{
 		"name": "Shadow",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/shadow-1098040",
+		"pageUrl": "https://tantubeats.com/beat/shadow-1098040",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1098040&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1841,7 +2160,7 @@
 	},
 	{
 		"name": "Finesse",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/finesse-1082937",
+		"pageUrl": "https://tantubeats.com/beat/finesse-1082937",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1082937&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1856,7 +2175,7 @@
 	},
 	{
 		"name": "Inhale (Tantu x Jay for The Record)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/inhale-tantu-x-jay-for-the-record-1066682",
+		"pageUrl": "https://tantubeats.com/beat/inhale-tantu-x-jay-for-the-record-1066682",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1066682&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1871,7 +2190,7 @@
 	},
 	{
 		"name": "Mansion (Tantu x Artie Mays)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/mansion-tantu-x-artie-mays-1051993",
+		"pageUrl": "https://tantubeats.com/beat/mansion-tantu-x-artie-mays-1051993",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1051993&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1886,7 +2205,7 @@
 	},
 	{
 		"name": "Won't Go",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/wont-go-1035495",
+		"pageUrl": "https://tantubeats.com/beat/wont-go-1035495",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1035495&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1900,7 +2219,7 @@
 	},
 	{
 		"name": "My Story",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/my-story-1019302",
+		"pageUrl": "https://tantubeats.com/beat/my-story-1019302",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1019302&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1914,7 +2233,7 @@
 	},
 	{
 		"name": "Coyote",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/coyote-1012936",
+		"pageUrl": "https://tantubeats.com/beat/coyote-1012936",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1012936&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1929,7 +2248,7 @@
 	},
 	{
 		"name": "Mantra (Tantu x Tatao)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/mantra-tantu-x-tatao-1004451",
+		"pageUrl": "https://tantubeats.com/beat/mantra-tantu-x-tatao-1004451",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=1004451&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1943,7 +2262,7 @@
 	},
 	{
 		"name": "Heat (Tantu x Dansonn)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/heat-tantu-x-dansonn-987343",
+		"pageUrl": "https://tantubeats.com/beat/heat-tantu-x-dansonn-987343",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=987343&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1958,7 +2277,7 @@
 	},
 	{
 		"name": "Trance",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/trance-974309",
+		"pageUrl": "https://tantubeats.com/beat/trance-974309",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=974309&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1972,7 +2291,7 @@
 	},
 	{
 		"name": "Run Boy, Run!",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/run-boy-run-962134",
+		"pageUrl": "https://tantubeats.com/beat/run-boy-run-962134",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=962134&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -1987,7 +2306,7 @@
 	},
 	{
 		"name": "Ill Mind",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/ill-mind-953568",
+		"pageUrl": "https://tantubeats.com/beat/ill-mind-953568",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=953568&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2002,7 +2321,7 @@
 	},
 	{
 		"name": "Ocean (Tantu Beats x Danny E.B)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/ocean-tantu-beats-x-danny-eb-945705",
+		"pageUrl": "https://tantubeats.com/beat/ocean-tantu-beats-x-danny-eb-945705",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=945705&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2017,7 +2336,7 @@
 	},
 	{
 		"name": "Animal",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/animal-934915",
+		"pageUrl": "https://tantubeats.com/beat/animal-934915",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=934915&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2032,7 +2351,7 @@
 	},
 	{
 		"name": "Revival",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/revival-923791",
+		"pageUrl": "https://tantubeats.com/beat/revival-923791",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=923791&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2046,7 +2365,7 @@
 	},
 	{
 		"name": "Lucid Dream",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/lucid-dream-914360",
+		"pageUrl": "https://tantubeats.com/beat/lucid-dream-914360",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=914360&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2060,7 +2379,7 @@
 	},
 	{
 		"name": "Twitch (Tantu Beats x DJ Pain 1)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/twitch-tantu-beats-x-dj-pain-1-899961",
+		"pageUrl": "https://tantubeats.com/beat/twitch-tantu-beats-x-dj-pain-1-899961",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=899961&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2075,7 +2394,7 @@
 	},
 	{
 		"name": "Romance",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/romance-889547",
+		"pageUrl": "https://tantubeats.com/beat/romance-889547",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=889547&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2090,7 +2409,7 @@
 	},
 	{
 		"name": "Romance (No Hook Vocals)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/romance-no-hook-vocals-890174",
+		"pageUrl": "https://tantubeats.com/beat/romance-no-hook-vocals-890174",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=890174&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2105,7 +2424,7 @@
 	},
 	{
 		"name": "Shotgun",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/shotgun-874829",
+		"pageUrl": "https://tantubeats.com/beat/shotgun-874829",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=874829&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2120,7 +2439,7 @@
 	},
 	{
 		"name": "Tunnel Vision",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/tunnel-vision-865631",
+		"pageUrl": "https://tantubeats.com/beat/tunnel-vision-865631",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=865631&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2135,7 +2454,7 @@
 	},
 	{
 		"name": "Purple Birds",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/purple-birds-841984",
+		"pageUrl": "https://tantubeats.com/beat/purple-birds-841984",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=841984&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2150,7 +2469,7 @@
 	},
 	{
 		"name": "Gotta Blaze",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/gotta-blaze-852611",
+		"pageUrl": "https://tantubeats.com/beat/gotta-blaze-852611",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=852611&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2165,7 +2484,7 @@
 	},
 	{
 		"name": "Gotta Blaze w/ Hook",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/gotta-blaze-w-hook-852604",
+		"pageUrl": "https://tantubeats.com/beat/gotta-blaze-w-hook-852604",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=852604&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2180,7 +2499,7 @@
 	},
 	{
 		"name": "Guilty",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/guilty-835927",
+		"pageUrl": "https://tantubeats.com/beat/guilty-835927",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=835927&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2195,7 +2514,7 @@
 	},
 	{
 		"name": "Flute",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/flute-831430",
+		"pageUrl": "https://tantubeats.com/beat/flute-831430",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=831430&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2210,7 +2529,7 @@
 	},
 	{
 		"name": "Great Journey",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/great-journey-822457",
+		"pageUrl": "https://tantubeats.com/beat/great-journey-822457",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=822457&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2224,7 +2543,7 @@
 	},
 	{
 		"name": "Glory",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/glory-810388",
+		"pageUrl": "https://tantubeats.com/beat/glory-810388",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=810388&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2239,7 +2558,7 @@
 	},
 	{
 		"name": "Childhood",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/childhood-803940",
+		"pageUrl": "https://tantubeats.com/beat/childhood-803940",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=803940&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2253,7 +2572,7 @@
 	},
 	{
 		"name": "Compton pt. II",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/compton-pt-ii-796980",
+		"pageUrl": "https://tantubeats.com/beat/compton-pt-ii-796980",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=796980&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2268,7 +2587,7 @@
 	},
 	{
 		"name": "BLVCK",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/blvck-792269",
+		"pageUrl": "https://tantubeats.com/beat/blvck-792269",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=792269&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2283,7 +2602,7 @@
 	},
 	{
 		"name": "MOVE.",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/move-785635",
+		"pageUrl": "https://tantubeats.com/beat/move-785635",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=785635&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2297,7 +2616,7 @@
 	},
 	{
 		"name": "Weirdo",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/weirdo-779232",
+		"pageUrl": "https://tantubeats.com/beat/weirdo-779232",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=779232&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2312,7 +2631,7 @@
 	},
 	{
 		"name": "Fire",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/fire-774347",
+		"pageUrl": "https://tantubeats.com/beat/fire-774347",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=774347&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2327,7 +2646,7 @@
 	},
 	{
 		"name": "Levitate",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/levitate-741887",
+		"pageUrl": "https://tantubeats.com/beat/levitate-741887",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=741887&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2342,7 +2661,7 @@
 	},
 	{
 		"name": "Reflection",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/reflection-741879",
+		"pageUrl": "https://tantubeats.com/beat/reflection-741879",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=741879&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2356,7 +2675,7 @@
 	},
 	{
 		"name": "Gone",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/gone-739828",
+		"pageUrl": "https://tantubeats.com/beat/gone-739828",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=739828&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2370,7 +2689,7 @@
 	},
 	{
 		"name": "ODD.",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/odd-727982",
+		"pageUrl": "https://tantubeats.com/beat/odd-727982",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=727982&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2384,7 +2703,7 @@
 	},
 	{
 		"name": "44:4",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/444-717346",
+		"pageUrl": "https://tantubeats.com/beat/444-717346",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=717346&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2398,7 +2717,7 @@
 	},
 	{
 		"name": "Inglorious Basterds",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/inglorious-basterds-706194",
+		"pageUrl": "https://tantubeats.com/beat/inglorious-basterds-706194",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=706194&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2413,7 +2732,7 @@
 	},
 	{
 		"name": "RIP",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/rip-696091",
+		"pageUrl": "https://tantubeats.com/beat/rip-696091",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=696091&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2428,7 +2747,7 @@
 	},
 	{
 		"name": "Applause",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/applause-685154",
+		"pageUrl": "https://tantubeats.com/beat/applause-685154",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=685154&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2441,23 +2760,8 @@
 		"bpm": 117
 	},
 	{
-		"name": "Blurry",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/blurry-672445",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=672445&return=audio",
-		"producers": [
-			"Tantu Beats"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 101
-	},
-	{
 		"name": "Sticky",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sticky-647908",
+		"pageUrl": "https://tantubeats.com/beat/sticky-647908",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=647908&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2472,7 +2776,7 @@
 	},
 	{
 		"name": "Tinder (Tantu Beats x Young Forever)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/tinder-tantu-beats-x-young-forever-657541",
+		"pageUrl": "https://tantubeats.com/beat/tinder-tantu-beats-x-young-forever-657541",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=657541&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2487,7 +2791,7 @@
 	},
 	{
 		"name": "Father",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/father-600046",
+		"pageUrl": "https://tantubeats.com/beat/father-600046",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=600046&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2501,7 +2805,7 @@
 	},
 	{
 		"name": "Once More",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/once-more-600037",
+		"pageUrl": "https://tantubeats.com/beat/once-more-600037",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=600037&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2515,7 +2819,7 @@
 	},
 	{
 		"name": "Just Listen",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/just-listen-594158",
+		"pageUrl": "https://tantubeats.com/beat/just-listen-594158",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=594158&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2530,7 +2834,7 @@
 	},
 	{
 		"name": "Waiting",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/waiting-584119",
+		"pageUrl": "https://tantubeats.com/beat/waiting-584119",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=584119&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2544,7 +2848,7 @@
 	},
 	{
 		"name": "Not Sorry",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/not-sorry-572761",
+		"pageUrl": "https://tantubeats.com/beat/not-sorry-572761",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=572761&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2559,7 +2863,7 @@
 	},
 	{
 		"name": "Made It",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/made-it-562050",
+		"pageUrl": "https://tantubeats.com/beat/made-it-562050",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=562050&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2574,7 +2878,7 @@
 	},
 	{
 		"name": "Memories",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/memories-551434",
+		"pageUrl": "https://tantubeats.com/beat/memories-551434",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=551434&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2589,7 +2893,7 @@
 	},
 	{
 		"name": "Royal (Tantu Beats x Danny E.B)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/royal-tantu-beats-x-danny-eb-540480",
+		"pageUrl": "https://tantubeats.com/beat/royal-tantu-beats-x-danny-eb-540480",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=540480&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2604,7 +2908,7 @@
 	},
 	{
 		"name": "No Hype",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/no-hype-530153",
+		"pageUrl": "https://tantubeats.com/beat/no-hype-530153",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=530153&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2619,7 +2923,7 @@
 	},
 	{
 		"name": "Madness",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/madness-520459",
+		"pageUrl": "https://tantubeats.com/beat/madness-520459",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=520459&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2634,7 +2938,7 @@
 	},
 	{
 		"name": "Prayer",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/prayer-509818",
+		"pageUrl": "https://tantubeats.com/beat/prayer-509818",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=509818&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2649,7 +2953,7 @@
 	},
 	{
 		"name": "Cacao",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/cacao-499968",
+		"pageUrl": "https://tantubeats.com/beat/cacao-499968",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=499968&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2663,38 +2967,8 @@
 		"bpm": 124
 	},
 	{
-		"name": "Beast Mode",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/beast-mode-489806",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=489806&return=audio",
-		"producers": [
-			"Tantu Beats"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 81
-	},
-	{
-		"name": "To Be Honest",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/to-be-honest-480562",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=480562&return=audio",
-		"producers": [
-			"Tantu Beats"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop",
-			"Trap"
-		],
-		"bpm": 88
-	},
-	{
 		"name": "Statement",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/statement-467516",
+		"pageUrl": "https://tantubeats.com/beat/statement-467516",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=467516&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2709,7 +2983,7 @@
 	},
 	{
 		"name": "Bull",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/bull-453431",
+		"pageUrl": "https://tantubeats.com/beat/bull-453431",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=453431&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2724,7 +2998,7 @@
 	},
 	{
 		"name": "Codes (Tantu Beats x Young Forever)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/codes-tantu-beats-x-young-forever-434870",
+		"pageUrl": "https://tantubeats.com/beat/codes-tantu-beats-x-young-forever-434870",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=434870&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2739,7 +3013,7 @@
 	},
 	{
 		"name": "Holiday",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/holiday-429887",
+		"pageUrl": "https://tantubeats.com/beat/holiday-429887",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429887&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2754,7 +3028,7 @@
 	},
 	{
 		"name": "Patience",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/patience-429595",
+		"pageUrl": "https://tantubeats.com/beat/patience-429595",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429595&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2768,7 +3042,7 @@
 	},
 	{
 		"name": "Eyez",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/eyez-429343",
+		"pageUrl": "https://tantubeats.com/beat/eyez-429343",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429343&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2782,7 +3056,7 @@
 	},
 	{
 		"name": "Attitude (Tantu Beats x Danny E.B)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/attitude-tantu-beats-x-danny-eb-429251",
+		"pageUrl": "https://tantubeats.com/beat/attitude-tantu-beats-x-danny-eb-429251",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429251&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2797,7 +3071,7 @@
 	},
 	{
 		"name": "Savage",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/savage-429617",
+		"pageUrl": "https://tantubeats.com/beat/savage-429617",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429617&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2812,7 +3086,7 @@
 	},
 	{
 		"name": "Flames",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/flames-429352",
+		"pageUrl": "https://tantubeats.com/beat/flames-429352",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429352&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2826,7 +3100,7 @@
 	},
 	{
 		"name": "Chapters",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/chapters-429294",
+		"pageUrl": "https://tantubeats.com/beat/chapters-429294",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429294&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2840,22 +3114,8 @@
 		"bpm": 141
 	},
 	{
-		"name": "Way Up (Tantu Beats x Danny EB)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/way-up-tantu-beats-x-danny-eb-429527",
-		"fileUrl": "https://main.v2.beatstars.com/stream?id=429527&return=audio",
-		"producers": [
-			"Tantu Beats"
-		],
-		"availableForPurchase": true,
-		"hasHook": false,
-		"genres": [
-			"Hip Hop"
-		],
-		"bpm": 139
-	},
-	{
 		"name": "Gotta Flex",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/gotta-flex-429379",
+		"pageUrl": "https://tantubeats.com/beat/gotta-flex-429379",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429379&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2869,7 +3129,7 @@
 	},
 	{
 		"name": "Hoover",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/hoover-429402",
+		"pageUrl": "https://tantubeats.com/beat/hoover-429402",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429402&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2884,7 +3144,7 @@
 	},
 	{
 		"name": "BAR$",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/bardollars-429255",
+		"pageUrl": "https://tantubeats.com/beat/bardollars-429255",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429255&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2899,7 +3159,7 @@
 	},
 	{
 		"name": "Sunday",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sunday-429488",
+		"pageUrl": "https://tantubeats.com/beat/sunday-429488",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429488&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2914,7 +3174,7 @@
 	},
 	{
 		"name": "5AM",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/5am-429243",
+		"pageUrl": "https://tantubeats.com/beat/5am-429243",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429243&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2929,7 +3189,7 @@
 	},
 	{
 		"name": "Colors",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/colors-429298",
+		"pageUrl": "https://tantubeats.com/beat/colors-429298",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429298&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2944,7 +3204,7 @@
 	},
 	{
 		"name": "Wildlife",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/wildlife-429538",
+		"pageUrl": "https://tantubeats.com/beat/wildlife-429538",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429538&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2959,7 +3219,7 @@
 	},
 	{
 		"name": "Sirens",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sirens-429635",
+		"pageUrl": "https://tantubeats.com/beat/sirens-429635",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429635&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2974,7 +3234,7 @@
 	},
 	{
 		"name": "Blame Me",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/blame-me-429260",
+		"pageUrl": "https://tantubeats.com/beat/blame-me-429260",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429260&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -2988,7 +3248,7 @@
 	},
 	{
 		"name": "Faded",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/faded-429348",
+		"pageUrl": "https://tantubeats.com/beat/faded-429348",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429348&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3003,7 +3263,7 @@
 	},
 	{
 		"name": "We Hustle",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/we-hustle-429529",
+		"pageUrl": "https://tantubeats.com/beat/we-hustle-429529",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429529&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3018,7 +3278,7 @@
 	},
 	{
 		"name": "World Peace",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/world-peace-429543",
+		"pageUrl": "https://tantubeats.com/beat/world-peace-429543",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429543&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3033,7 +3293,7 @@
 	},
 	{
 		"name": "Purple Smoke",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/purple-smoke-429609",
+		"pageUrl": "https://tantubeats.com/beat/purple-smoke-429609",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429609&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3048,7 +3308,7 @@
 	},
 	{
 		"name": "Diamonds",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/diamonds-429324",
+		"pageUrl": "https://tantubeats.com/beat/diamonds-429324",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429324&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3063,7 +3323,7 @@
 	},
 	{
 		"name": "My Hood",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/my-hood-429579",
+		"pageUrl": "https://tantubeats.com/beat/my-hood-429579",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429579&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3078,7 +3338,7 @@
 	},
 	{
 		"name": "Matrix",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/matrix-429566",
+		"pageUrl": "https://tantubeats.com/beat/matrix-429566",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429566&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3093,7 +3353,7 @@
 	},
 	{
 		"name": "Street Dreams",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/street-dreams-429476",
+		"pageUrl": "https://tantubeats.com/beat/street-dreams-429476",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429476&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3108,7 +3368,7 @@
 	},
 	{
 		"name": "Get Up",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/get-up-429368",
+		"pageUrl": "https://tantubeats.com/beat/get-up-429368",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429368&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3123,7 +3383,7 @@
 	},
 	{
 		"name": "Frustration",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/frustration-429355",
+		"pageUrl": "https://tantubeats.com/beat/frustration-429355",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429355&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3137,7 +3397,7 @@
 	},
 	{
 		"name": "Goodlife",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/goodlife-429242",
+		"pageUrl": "https://tantubeats.com/beat/goodlife-429242",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429242&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3152,7 +3412,7 @@
 	},
 	{
 		"name": "Celebration",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/celebration-429278",
+		"pageUrl": "https://tantubeats.com/beat/celebration-429278",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429278&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3167,7 +3427,7 @@
 	},
 	{
 		"name": "Soulmate",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/soulmate-429642",
+		"pageUrl": "https://tantubeats.com/beat/soulmate-429642",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429642&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3182,7 +3442,7 @@
 	},
 	{
 		"name": "Freedom",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/freedom-429354",
+		"pageUrl": "https://tantubeats.com/beat/freedom-429354",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429354&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3196,7 +3456,7 @@
 	},
 	{
 		"name": "Crazy Love",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/crazy-love-429314",
+		"pageUrl": "https://tantubeats.com/beat/crazy-love-429314",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429314&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3211,7 +3471,7 @@
 	},
 	{
 		"name": "Summer Sunset",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/summer-sunset-429482",
+		"pageUrl": "https://tantubeats.com/beat/summer-sunset-429482",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429482&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3226,7 +3486,7 @@
 	},
 	{
 		"name": "Spring Breakbeat",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/spring-breakbeat-429462",
+		"pageUrl": "https://tantubeats.com/beat/spring-breakbeat-429462",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429462&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3241,7 +3501,7 @@
 	},
 	{
 		"name": "Winter Cold",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/winter-cold-429541",
+		"pageUrl": "https://tantubeats.com/beat/winter-cold-429541",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429541&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3256,7 +3516,7 @@
 	},
 	{
 		"name": "Autumn Rain",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/autumn-rain-429252",
+		"pageUrl": "https://tantubeats.com/beat/autumn-rain-429252",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429252&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3271,7 +3531,7 @@
 	},
 	{
 		"name": "Logic",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/logic-429553",
+		"pageUrl": "https://tantubeats.com/beat/logic-429553",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429553&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3286,7 +3546,7 @@
 	},
 	{
 		"name": "Kendrick Have A Dream",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/kendrick-have-a-dream-429423",
+		"pageUrl": "https://tantubeats.com/beat/kendrick-have-a-dream-429423",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429423&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3300,7 +3560,7 @@
 	},
 	{
 		"name": "Ghetto Bird",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/ghetto-bird-429372",
+		"pageUrl": "https://tantubeats.com/beat/ghetto-bird-429372",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429372&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3315,7 +3575,7 @@
 	},
 	{
 		"name": "Dedicated",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dedicated-429318",
+		"pageUrl": "https://tantubeats.com/beat/dedicated-429318",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429318&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3330,7 +3590,7 @@
 	},
 	{
 		"name": "Classics",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/classics-429296",
+		"pageUrl": "https://tantubeats.com/beat/classics-429296",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429296&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3345,7 +3605,7 @@
 	},
 	{
 		"name": "Analog Anthem",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/analog-anthem-429247",
+		"pageUrl": "https://tantubeats.com/beat/analog-anthem-429247",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429247&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3360,7 +3620,7 @@
 	},
 	{
 		"name": "Champion",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/champion-429286",
+		"pageUrl": "https://tantubeats.com/beat/champion-429286",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429286&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3374,7 +3634,7 @@
 	},
 	{
 		"name": "Turn Up!",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/turn-up-429518",
+		"pageUrl": "https://tantubeats.com/beat/turn-up-429518",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429518&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3389,7 +3649,7 @@
 	},
 	{
 		"name": "Cruisin",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/cruisin-429315",
+		"pageUrl": "https://tantubeats.com/beat/cruisin-429315",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429315&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3403,7 +3663,7 @@
 	},
 	{
 		"name": "Challenge Me",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/challenge-me-429283",
+		"pageUrl": "https://tantubeats.com/beat/challenge-me-429283",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429283&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3418,7 +3678,7 @@
 	},
 	{
 		"name": "The Funk",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/the-funk-429496",
+		"pageUrl": "https://tantubeats.com/beat/the-funk-429496",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429496&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3433,7 +3693,7 @@
 	},
 	{
 		"name": "Saxism",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/saxism-429624",
+		"pageUrl": "https://tantubeats.com/beat/saxism-429624",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429624&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3448,7 +3708,7 @@
 	},
 	{
 		"name": "Power",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/power-429605",
+		"pageUrl": "https://tantubeats.com/beat/power-429605",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429605&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3463,7 +3723,7 @@
 	},
 	{
 		"name": "I'm Back",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/im-back-429414",
+		"pageUrl": "https://tantubeats.com/beat/im-back-429414",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429414&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3478,7 +3738,7 @@
 	},
 	{
 		"name": "Fantasy World",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/fantasy-world-429349",
+		"pageUrl": "https://tantubeats.com/beat/fantasy-world-429349",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429349&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3493,7 +3753,7 @@
 	},
 	{
 		"name": "Great Minds",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/great-minds-429381",
+		"pageUrl": "https://tantubeats.com/beat/great-minds-429381",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429381&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3508,7 +3768,7 @@
 	},
 	{
 		"name": "Blues",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/blues-429268",
+		"pageUrl": "https://tantubeats.com/beat/blues-429268",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429268&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3523,7 +3783,7 @@
 	},
 	{
 		"name": "Pop That",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/pop-that-429604",
+		"pageUrl": "https://tantubeats.com/beat/pop-that-429604",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429604&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3538,7 +3798,7 @@
 	},
 	{
 		"name": "Do It",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/do-it-429328",
+		"pageUrl": "https://tantubeats.com/beat/do-it-429328",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429328&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3553,7 +3813,7 @@
 	},
 	{
 		"name": "Playing With My Heart",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/playing-with-my-heart-429601",
+		"pageUrl": "https://tantubeats.com/beat/playing-with-my-heart-429601",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429601&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3568,7 +3828,7 @@
 	},
 	{
 		"name": "Hoodie",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/hoodie-429399",
+		"pageUrl": "https://tantubeats.com/beat/hoodie-429399",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429399&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3582,7 +3842,7 @@
 	},
 	{
 		"name": "Dreaming",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dreaming-429335",
+		"pageUrl": "https://tantubeats.com/beat/dreaming-429335",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429335&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3597,7 +3857,7 @@
 	},
 	{
 		"name": "In Your Life",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/in-your-life-429418",
+		"pageUrl": "https://tantubeats.com/beat/in-your-life-429418",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429418&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3611,7 +3871,7 @@
 	},
 	{
 		"name": "Garden Of Peace",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/garden-of-peace-429364",
+		"pageUrl": "https://tantubeats.com/beat/garden-of-peace-429364",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429364&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3626,7 +3886,7 @@
 	},
 	{
 		"name": "You (+ Scratch Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/you-scratch-hook-429552",
+		"pageUrl": "https://tantubeats.com/beat/you-scratch-hook-429552",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429552&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3641,7 +3901,7 @@
 	},
 	{
 		"name": "You (No Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/you-no-hook-429546",
+		"pageUrl": "https://tantubeats.com/beat/you-no-hook-429546",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429546&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3656,7 +3916,7 @@
 	},
 	{
 		"name": "Where You Go",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/where-you-go-429530",
+		"pageUrl": "https://tantubeats.com/beat/where-you-go-429530",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429530&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3671,7 +3931,7 @@
 	},
 	{
 		"name": "Last Day Of Summer",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/last-day-of-summer-429435",
+		"pageUrl": "https://tantubeats.com/beat/last-day-of-summer-429435",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429435&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3686,7 +3946,7 @@
 	},
 	{
 		"name": "Real Life",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/real-life-429610",
+		"pageUrl": "https://tantubeats.com/beat/real-life-429610",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429610&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3701,7 +3961,7 @@
 	},
 	{
 		"name": "Corruption",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/corruption-429305",
+		"pageUrl": "https://tantubeats.com/beat/corruption-429305",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429305&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3716,7 +3976,7 @@
 	},
 	{
 		"name": "At Night",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/at-night-429250",
+		"pageUrl": "https://tantubeats.com/beat/at-night-429250",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429250&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3731,7 +3991,7 @@
 	},
 	{
 		"name": "Million Dollar",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/million-dollar-429568",
+		"pageUrl": "https://tantubeats.com/beat/million-dollar-429568",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429568&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3746,7 +4006,7 @@
 	},
 	{
 		"name": "Sudden Change",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sudden-change-429479",
+		"pageUrl": "https://tantubeats.com/beat/sudden-change-429479",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429479&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3761,7 +4021,7 @@
 	},
 	{
 		"name": "Shaolin Battle",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/shaolin-battle-429628",
+		"pageUrl": "https://tantubeats.com/beat/shaolin-battle-429628",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429628&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3776,7 +4036,7 @@
 	},
 	{
 		"name": "It's A Lie",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/its-a-lie--429420",
+		"pageUrl": "https://tantubeats.com/beat/its-a-lie--429420",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429420&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3791,7 +4051,7 @@
 	},
 	{
 		"name": "Victory",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/victory-429523",
+		"pageUrl": "https://tantubeats.com/beat/victory-429523",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429523&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3806,7 +4066,7 @@
 	},
 	{
 		"name": "My Love",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/my-love-429584",
+		"pageUrl": "https://tantubeats.com/beat/my-love-429584",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429584&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3821,7 +4081,7 @@
 	},
 	{
 		"name": "Lalala",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/lalala-429432",
+		"pageUrl": "https://tantubeats.com/beat/lalala-429432",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429432&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3836,7 +4096,7 @@
 	},
 	{
 		"name": "Magic",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/magic-429558",
+		"pageUrl": "https://tantubeats.com/beat/magic-429558",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429558&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3851,7 +4111,7 @@
 	},
 	{
 		"name": "Peace Brother",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/peace-brother-429596",
+		"pageUrl": "https://tantubeats.com/beat/peace-brother-429596",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429596&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3866,7 +4126,7 @@
 	},
 	{
 		"name": "Chapel Of Dreams",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/chapel-of-dreams-429292",
+		"pageUrl": "https://tantubeats.com/beat/chapel-of-dreams-429292",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429292&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3881,7 +4141,7 @@
 	},
 	{
 		"name": "A Chance",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/a-chance-429245",
+		"pageUrl": "https://tantubeats.com/beat/a-chance-429245",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429245&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3896,7 +4156,7 @@
 	},
 	{
 		"name": "March",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/march-429563",
+		"pageUrl": "https://tantubeats.com/beat/march-429563",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429563&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3911,7 +4171,7 @@
 	},
 	{
 		"name": "Sky High",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sky-high-429640",
+		"pageUrl": "https://tantubeats.com/beat/sky-high-429640",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429640&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3926,7 +4186,7 @@
 	},
 	{
 		"name": "The Truest (+ Scratch Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/the-truest-scratch-hook-429501",
+		"pageUrl": "https://tantubeats.com/beat/the-truest-scratch-hook-429501",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429501&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3941,7 +4201,7 @@
 	},
 	{
 		"name": "Trans",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/trans-429516",
+		"pageUrl": "https://tantubeats.com/beat/trans-429516",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429516&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3956,7 +4216,7 @@
 	},
 	{
 		"name": "Picture Me",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/picture-me-429600",
+		"pageUrl": "https://tantubeats.com/beat/picture-me-429600",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429600&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3971,7 +4231,7 @@
 	},
 	{
 		"name": "Open Your Eyes",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/open-your-eyes-429591",
+		"pageUrl": "https://tantubeats.com/beat/open-your-eyes-429591",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429591&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -3986,7 +4246,7 @@
 	},
 	{
 		"name": "Remember Me",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/remember-me-429612",
+		"pageUrl": "https://tantubeats.com/beat/remember-me-429612",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429612&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4001,7 +4261,7 @@
 	},
 	{
 		"name": "Lead",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/lead-429439",
+		"pageUrl": "https://tantubeats.com/beat/lead-429439",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429439&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4016,7 +4276,7 @@
 	},
 	{
 		"name": "TB",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/tb-429493",
+		"pageUrl": "https://tantubeats.com/beat/tb-429493",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429493&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4031,7 +4291,7 @@
 	},
 	{
 		"name": "Wind",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/wind-429540",
+		"pageUrl": "https://tantubeats.com/beat/wind-429540",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429540&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4046,7 +4306,7 @@
 	},
 	{
 		"name": "Show Me",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/show-me-429634",
+		"pageUrl": "https://tantubeats.com/beat/show-me-429634",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429634&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4061,7 +4321,7 @@
 	},
 	{
 		"name": "Broken Heart",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/broken-heart-429273",
+		"pageUrl": "https://tantubeats.com/beat/broken-heart-429273",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429273&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4076,7 +4336,7 @@
 	},
 	{
 		"name": "The Message",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/the-message-429500",
+		"pageUrl": "https://tantubeats.com/beat/the-message-429500",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429500&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4090,7 +4350,7 @@
 	},
 	{
 		"name": "This City (+ Scratch Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/this-city-scratch-hook-429509",
+		"pageUrl": "https://tantubeats.com/beat/this-city-scratch-hook-429509",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429509&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4105,7 +4365,7 @@
 	},
 	{
 		"name": "Short Life",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/short-life-429630",
+		"pageUrl": "https://tantubeats.com/beat/short-life-429630",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429630&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4120,7 +4380,7 @@
 	},
 	{
 		"name": "Still Alive",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/still-alive-429469",
+		"pageUrl": "https://tantubeats.com/beat/still-alive-429469",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429469&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4135,7 +4395,7 @@
 	},
 	{
 		"name": "This City (No Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/this-city-no-hook-429506",
+		"pageUrl": "https://tantubeats.com/beat/this-city-no-hook-429506",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429506&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4150,7 +4410,7 @@
 	},
 	{
 		"name": "Lose My Mind",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/lose-my-mind-429554",
+		"pageUrl": "https://tantubeats.com/beat/lose-my-mind-429554",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429554&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4165,7 +4425,7 @@
 	},
 	{
 		"name": "Style",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/style-429478",
+		"pageUrl": "https://tantubeats.com/beat/style-429478",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429478&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4180,7 +4440,7 @@
 	},
 	{
 		"name": "Universal Groove",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/universal-groove-429522",
+		"pageUrl": "https://tantubeats.com/beat/universal-groove-429522",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429522&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4195,7 +4455,7 @@
 	},
 	{
 		"name": "Lounge  (+ Scratch Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/lounge-scratch-hook-429555",
+		"pageUrl": "https://tantubeats.com/beat/lounge-scratch-hook-429555",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429555&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4210,7 +4470,7 @@
 	},
 	{
 		"name": "Heartless",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/heartless-429385",
+		"pageUrl": "https://tantubeats.com/beat/heartless-429385",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429385&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4225,7 +4485,7 @@
 	},
 	{
 		"name": "Let's Roll",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/lets-roll-429446",
+		"pageUrl": "https://tantubeats.com/beat/lets-roll-429446",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429446&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4240,7 +4500,7 @@
 	},
 	{
 		"name": "Television",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/television-429494",
+		"pageUrl": "https://tantubeats.com/beat/television-429494",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429494&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4255,7 +4515,7 @@
 	},
 	{
 		"name": "Dejavu (No Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dejavu-no-hook-429321",
+		"pageUrl": "https://tantubeats.com/beat/dejavu-no-hook-429321",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429321&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4270,7 +4530,7 @@
 	},
 	{
 		"name": "Dejavu (+ Scratch Hook)",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dejavu-scratch-hook-429322",
+		"pageUrl": "https://tantubeats.com/beat/dejavu-scratch-hook-429322",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429322&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4285,7 +4545,7 @@
 	},
 	{
 		"name": "Sun",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/sun-429485",
+		"pageUrl": "https://tantubeats.com/beat/sun-429485",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429485&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4300,7 +4560,7 @@
 	},
 	{
 		"name": "Kindergarten",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/kindergarten-429428",
+		"pageUrl": "https://tantubeats.com/beat/kindergarten-429428",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429428&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4315,7 +4575,7 @@
 	},
 	{
 		"name": "Why",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/why-429532",
+		"pageUrl": "https://tantubeats.com/beat/why-429532",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429532&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4330,7 +4590,7 @@
 	},
 	{
 		"name": "Perspective",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/perspective-429405",
+		"pageUrl": "https://tantubeats.com/beat/perspective-429405",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429405&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4345,7 +4605,7 @@
 	},
 	{
 		"name": "King Of LA",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/king-of-la-429431",
+		"pageUrl": "https://tantubeats.com/beat/king-of-la-429431",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429431&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4360,7 +4620,7 @@
 	},
 	{
 		"name": "How I Feel",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/how-i-feel-429411",
+		"pageUrl": "https://tantubeats.com/beat/how-i-feel-429411",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429411&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4375,7 +4635,7 @@
 	},
 	{
 		"name": "How Does It Feel",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/how-does-it-feel-429408",
+		"pageUrl": "https://tantubeats.com/beat/how-does-it-feel-429408",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429408&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4390,7 +4650,7 @@
 	},
 	{
 		"name": "Highscore",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/highscore-429392",
+		"pageUrl": "https://tantubeats.com/beat/highscore-429392",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429392&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4405,7 +4665,7 @@
 	},
 	{
 		"name": "Go Away",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/go-away-429375",
+		"pageUrl": "https://tantubeats.com/beat/go-away-429375",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429375&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4419,7 +4679,7 @@
 	},
 	{
 		"name": "Funktional",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/funktional-429358",
+		"pageUrl": "https://tantubeats.com/beat/funktional-429358",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429358&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4434,7 +4694,7 @@
 	},
 	{
 		"name": "Drugs",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/drugs-429338",
+		"pageUrl": "https://tantubeats.com/beat/drugs-429338",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429338&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4449,7 +4709,7 @@
 	},
 	{
 		"name": "Don't Worry",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dont-worry-429334",
+		"pageUrl": "https://tantubeats.com/beat/dont-worry-429334",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429334&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4464,7 +4724,7 @@
 	},
 	{
 		"name": "Don't Care",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/dont-care-429330",
+		"pageUrl": "https://tantubeats.com/beat/dont-care-429330",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429330&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4479,7 +4739,7 @@
 	},
 	{
 		"name": "Countryside",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/countryside-429310",
+		"pageUrl": "https://tantubeats.com/beat/countryside-429310",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429310&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4494,7 +4754,7 @@
 	},
 	{
 		"name": "Changes",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/changes-429288",
+		"pageUrl": "https://tantubeats.com/beat/changes-429288",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429288&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4509,7 +4769,7 @@
 	},
 	{
 		"name": "Blanco",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/blanco-429264",
+		"pageUrl": "https://tantubeats.com/beat/blanco-429264",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429264&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4524,7 +4784,7 @@
 	},
 	{
 		"name": "On Point No",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/on-point-no-429589",
+		"pageUrl": "https://tantubeats.com/beat/on-point-no-429589",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429589&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4539,7 +4799,7 @@
 	},
 	{
 		"name": "Acting Strange",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/acting-strange-429246",
+		"pageUrl": "https://tantubeats.com/beat/acting-strange-429246",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429246&return=audio",
 		"producers": [
 			"Tantu Beats"
@@ -4554,7 +4814,7 @@
 	},
 	{
 		"name": "24/7",
-		"pageUrl": "https://tantubeats.beatstars.com/beat/247-429244",
+		"pageUrl": "https://tantubeats.com/beat/247-429244",
 		"fileUrl": "https://main.v2.beatstars.com/stream?id=429244&return=audio",
 		"producers": [
 			"Tantu Beats"

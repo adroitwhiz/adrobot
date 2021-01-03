@@ -1,5 +1,77 @@
 [
 	{
+		"name": "Alone",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14168525",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Rool Wit It",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14168529",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "All Or Nothing",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14168524",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Under My Skin",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14168536",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Wither",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14168537",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Phantoms",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14168527",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Playtime",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14168528",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "No Witnesses",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14168526",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
 		"name": "Big Things Poppin",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052577",
@@ -18,9 +90,18 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "Paranoid",
+		"name": "The Speed Of Pain",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052600",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052576",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "We Are Chaos",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14103448",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -36,36 +117,9 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "Show Me A Reason",
+		"name": "Get Wild",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14068844",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Burning Memories",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052579",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "The Speed Of Pain",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052576",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Thats Whats Up",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052614",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043343",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -81,54 +135,9 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "Southland Killaz",
+		"name": "Thats Whats Up",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052605",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Get Wild",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043343",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Sadness",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052604",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Brown Eyed Girl",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14068842",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Otherside",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052593",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Red Moon",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043353",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052614",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -144,27 +153,36 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "Let's Get Freaky",
+		"name": "Burning Memories",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043349",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052579",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
 		"availableForPurchase": true
 	},
 	{
-		"name": "In The Rain",
+		"name": "Otherside",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14068843",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052593",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
 		"availableForPurchase": true
 	},
 	{
-		"name": "After Hours",
+		"name": "Sadness",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14068841",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052604",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Red Moon",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043353",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -180,6 +198,15 @@
 		"availableForPurchase": true
 	},
 	{
+		"name": "Old Friend",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043350",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
 		"name": "Shutdown",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043356",
@@ -189,9 +216,36 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "Old Friend",
+		"name": "In The Rain",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043350",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14068843",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Show Me A Reason",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14068844",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "After Hours",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14068841",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Brown Eyed Girl",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14068842",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -210,42 +264,6 @@
 		"name": "Illusion",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052588",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Bdsm",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12416875",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "City Bright Lights",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13048586",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Crank Dat",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12171331",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Wild Robot",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12791035",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -279,24 +297,6 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "Madness",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13130060",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "No Exit",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12946689",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
 		"name": "In The Dark",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13092424",
@@ -315,9 +315,18 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "So Tired",
+		"name": "No Exit",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12897756",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12946689",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Bdsm",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12416875",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -327,6 +336,42 @@
 		"name": "Now Or Never",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13048591",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Wild Robot",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12791035",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "So Tired",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12897756",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Nowhere To Run",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13092425",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": true
+	},
+	{
+		"name": "Crank Dat",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12171331",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -345,15 +390,6 @@
 		"name": "The Sky Is Over",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13284036",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Nowhere To Run",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13092425",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -417,15 +453,6 @@
 		"name": "Nerve Endings",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12847603",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Gravity",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12791023",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -648,15 +675,6 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "Ultimate Power",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12263643",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
 		"name": "Time Of My Life",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12397504",
@@ -669,15 +687,6 @@
 		"name": "Real Life",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12283039",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
-		"name": "Doors",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13008417",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -2421,15 +2430,6 @@
 		"availableForPurchase": true
 	},
 	{
-		"name": "Money Don't Lie",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12271619",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": true
-	},
-	{
 		"name": "Dead Man",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=11543046",
@@ -2988,6 +2988,123 @@
 		"availableForPurchase": true
 	},
 	{
+		"name": "Gravity",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12791023",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "City Bright Lights",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13048586",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Madness",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13130060",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Paranoid",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052600",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Ultimate Power",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12263643",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Let's Get Freaky",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14043349",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Southland Killaz",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=14052605",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Left Behind",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13005795",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "The Edge Of The World",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12358985",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "No More Crimes",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12470574",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Good Fight",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13284034",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Doors",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13008417",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
+		"name": "Money Don't Lie",
+		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
+		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12271619",
+		"producers": [
+			"Hollywood Legend Productions"
+		],
+		"availableForPurchase": false
+	},
+	{
 		"name": "Ready For War",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12370851",
@@ -3000,15 +3117,6 @@
 		"name": "Summer Rain",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13389784",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": false
-	},
-	{
-		"name": "Left Behind",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13005795",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
@@ -3051,24 +3159,6 @@
 		"availableForPurchase": false
 	},
 	{
-		"name": "The Edge Of The World",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12358985",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": false
-	},
-	{
-		"name": "No More Crimes",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12470574",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": false
-	},
-	{
 		"name": "Apocalipsis Today",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=11531388",
@@ -3081,15 +3171,6 @@
 		"name": "One Of Us",
 		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
 		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=12946690",
-		"producers": [
-			"Hollywood Legend Productions"
-		],
-		"availableForPurchase": false
-	},
-	{
-		"name": "Good Fight",
-		"pageUrl": "https://www.soundclick.com/artist/default.cfm?bandID=1240873&content=songs",
-		"fileUrl": "https://www.soundclick.com/playerV5/panels/audioStream.cfm?songID=13284034",
 		"producers": [
 			"Hollywood Legend Productions"
 		],
