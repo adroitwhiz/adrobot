@@ -1,6 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 const seedrandom = require('seedrandom');
+const templateString = require('../../util/template-string');
 
 const ratingStringsPath = 'data/rating-strings.json';
 
@@ -8,11 +9,6 @@ const floatToMinMaxInclusive = (min, max, float) => {
 	min = Math.ceil(min);
 	max = Math.floor(max);
 	return Math.floor(float * (max - min + 1)) + min;
-};
-
-const templateString = (string, templates) => {
-	const templateRegex = /{.+?}/g;
-	return string.replace(templateRegex, match => templates[match.slice(1, -1)]);
 };
 
 module.exports = {
