@@ -3,8 +3,6 @@ const path = require('path');
 const moment = require('moment');
 const templateString = require('../../util/template-string');
 
-const communityMembers = require('../../common/community-members.js');
-
 const dataFolder = 'data';
 
 const NUM_MILLISECONDS_IN_FIFTY_YEARS =
@@ -43,7 +41,8 @@ module.exports = {
 				);
 				const chosenPredictionTimeString = moment(0).to(chosenPredictionMilliseconds);
 				const predictionString = templateString(chosenPredictionTemplate, {
-					communityMember: () => communityMembers[Math.floor(Math.random() * communityMembers.length)]
+					communityMember: () =>
+						data.communityMembers[Math.floor(Math.random() * data.communityMembers.length)]
 				});
 
 				return outputChannel.send(`${chosenPredictionTimeString}, ${predictionString}`);
@@ -52,5 +51,7 @@ module.exports = {
 			name: 'predict',
 			helpString: 'Predicts your future'
 		};
-	}
+	},
+
+	commonData: {communityMembers: 'community-members.json'}
 };

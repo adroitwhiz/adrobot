@@ -13,25 +13,53 @@ const COMMAND_DIRECTORY = 'commands';
 const client = new Discord.Client();
 
 const loadCommands = () => {
+	const commonData = new Map();
+
 	return fs.readdir(COMMAND_DIRECTORY)
-		.then(files => {
+		.then(async files => {
 			console.log(`Loading ${files.length} command(s)...`);
 
 			const commandPromises = [];
 
-			files.forEach(file => {
+			for (const file of files) {
 				let currentCommandDirectory = path.join(__dirname, COMMAND_DIRECTORY, file);
 
 				let currentCommand = require(currentCommandDirectory);
 
+				let initDataPromise = currentCommand.initializeData ?
+					currentCommand.initializeData() :
+					Promise.resolve({});
+
+				let failedToLoad = false;
+				if (Object.prototype.hasOwnProperty.call(currentCommand, 'commonData')) {
+					const loadedCommonData = {};
+					for (const [key, filename] of Object.entries(currentCommand.commonData)) {
+						let fileData;
+						if (commonData.has(filename)) {
+							fileData = commonData.get(filename);
+						} else {
+							try {
+								fileData = Object.freeze(JSON.parse(await fs.readFile(path.join(__dirname, 'common-data', filename))));
+								commonData.set(filename, fileData);
+							} catch (err) {
+								console.warn(`Failed to load ${file} because required data ${filename} does not exist`);
+								failedToLoad = true;
+							}
+						}
+
+						loadedCommonData[key] = fileData;
+					}
+
+					initDataPromise = initDataPromise.then(data => Object.assign(data, loadedCommonData));
+				}
+				if (failedToLoad) continue;
+
 				console.log(`Loading ${file}`);
 
-				const commandPromise = currentCommand.initializeData ?
-					currentCommand.initializeData().then(currentCommand.command) :
-					currentCommand.command();
+				const commandPromise = initDataPromise.then(currentCommand.command);
 
 				commandPromises.push(commandPromise);
-			});
+			}
 
 			return Promise.all(commandPromises);
 		}).then(initializedCommands => {

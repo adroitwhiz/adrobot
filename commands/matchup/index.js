@@ -1,8 +1,6 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-const members = require('../../common/community-members.js');
-
 const dataFolder = 'data';
 
 const getRandomItem = arr => {
@@ -19,7 +17,7 @@ const shuffleArray = array => {
 	return array;
 };
 
-const generateMatchupObject = (characters, serieses) => {
+const generateMatchupObject = (characters, serieses, members) => {
 	let chosenCharacters = [];
 	for (let i = 0; i < 2; i++) {
 		chosenCharacters.push(getRandomItem(characters));
@@ -88,12 +86,14 @@ module.exports = {
 	command: data => {
 		return {
 			commandFunction: outputChannel => {
-				const matchup = generateMatchupObject(data.characters, data.series);
+				const matchup = generateMatchupObject(data.characters, data.series, data.communityMembers);
 				return outputChannel.send('', {embed: renderMatchupEmbed(matchup)});
 			},
 
 			name: 'matchup',
 			helpString: 'Generates a random rap battle matchup'
 		};
-	}
+	},
+
+	commonData: {communityMembers: 'community-members.json'}
 };

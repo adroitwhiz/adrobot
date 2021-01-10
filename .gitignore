@@ -1,4 +1,5 @@
 /node_modules
 /commands/*/node_modules
 /commands/beat/beats*
+/common-data/*
 npm-*
