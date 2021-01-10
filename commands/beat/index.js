@@ -1,6 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 const Fuse = require('fuse.js');
+const escapeUrlForMarkdown = require('../../util/escape-url-for-markdown');
 
 const beatsFolder = path.join(__dirname, 'beats');
 
@@ -23,11 +24,6 @@ const escapeMarkdown = text => {
 	const unescaped = text.replace(/\\(\*|_|`|~|\\)/g, '$1'); // unescape any "backslashed" character
 	const escaped = unescaped.replace(/(\*|_|`|~|\\)/g, '\\$1'); // escape *, _, `, ~, \
 	return escaped;
-};
-
-// Prevent any parentheses from causing the markdown URL format of "[text](link)" to mess up
-const escapeUrlForMarkdown = url => {
-	return url.split('(').join('%28').split(')').join('%29'); //super reliable
 };
 
 // Forgiving argument parser.

@@ -1,5 +1,6 @@
 const fs = require('fs').promises;
 const path = require('path');
+const escapeUrlForMarkdown = require('../../util/escape-url-for-markdown');
 
 const dataFolder = 'data';
 
@@ -16,6 +17,8 @@ const shuffleArray = array => {
 	}
 	return array;
 };
+
+const articleLink = character => `[${character.fictional_characterLabel}](${escapeUrlForMarkdown(character.article)})`;
 
 const generateMatchupObject = (characters, series, members) => {
 	let chosenCharacters = [];
@@ -38,14 +41,14 @@ const generateMatchupObject = (characters, series, members) => {
 	for (let i = 0; i < chosenCharacters.length; i++) {
 		castings.push({
 			'rapper': chosenMembers[i],
-			'character': chosenCharacters[i]
+			'character': articleLink(chosenCharacters[i])
 		});
 	}
 
 	const seasonString = Math.random() < 0.5 ? 'Season ' + (Math.floor(Math.random() * 4) + 1) : '';
 
 	return {
-		'title': `**${chosenCharacters[0]} vs ${chosenCharacters[1]}**`,
+		'title': `**${chosenCharacters[0].fictional_characterLabel} vs ${chosenCharacters[1].fictional_characterLabel}**`,
 		'series': `${series} ${seasonString}`,
 		'castings': castings
 	};
