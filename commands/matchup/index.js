@@ -17,7 +17,7 @@ const shuffleArray = array => {
 	return array;
 };
 
-const generateMatchupObject = (characters, serieses, members) => {
+const generateMatchupObject = (characters, series, members) => {
 	let chosenCharacters = [];
 	for (let i = 0; i < 2; i++) {
 		chosenCharacters.push(getRandomItem(characters));
@@ -42,7 +42,6 @@ const generateMatchupObject = (characters, serieses, members) => {
 		});
 	}
 
-	const series = getRandomItem(serieses);
 	const seasonString = Math.random() < 0.5 ? 'Season ' + (Math.floor(Math.random() * 4) + 1) : '';
 
 	return {
@@ -70,23 +69,31 @@ const renderMatchupEmbed = matchup => {
 	return embed;
 };
 
+const adjectives = ['Crazy', 'Wicked', 'Epic', 'Radical', 'Insane', 'Poggers', 'Cool', 'Unfathomable', 'Astounding', 'Neato', 'Uber'];
+const rap = ['Lyrical', 'Rap', 'Hip-Hop', 'Diss', 'Spit Barz', 'Rhyme'];
+const battle = ['Wars', 'Clashes', 'Battles', 'Conflicts', 'Skirmishes', 'Altercations'];
+const ofWhat = ['Steven Universe', 'Fiction', 'Vivziepop', 'The Community', 'Reality', 'The Universe', 'Literature', 'Television', 'Video Games', 'Internet History', 'Environmental Science'];
+
+const sample = arr => arr[Math.floor(Math.random() * arr.length)];
+
+const randomSeriesName = () => sample([
+	() => `${sample(adjectives)} ${sample(rap)} ${sample(battle)} of ${sample(ofWhat)}`,
+	() => `${sample(adjectives)} ${sample(rap)} ${sample(battle)}`,
+	() => `${sample(adjectives)} ${sample(rap)} ${sample(battle)}: ${sample(ofWhat)} vs Anything`
+])();
+
 module.exports = {
 	initializeData: () => {
 		const data = {};
-		return Promise.all([
-			fs.readFile(path.join(__dirname, dataFolder, 'characters.json')).then(charactersText => {
-				data.characters = JSON.parse(charactersText);
-			}),
-			fs.readFile(path.join(__dirname, dataFolder, 'series.json')).then(seriesText => {
-				data.series = JSON.parse(seriesText);
-			})
-		]).then(() => data);
+		return fs.readFile(path.join(__dirname, dataFolder, 'characters.json')).then(charactersText => {
+			data.characters = JSON.parse(charactersText);
+		}).then(() => data);
 	},
 
 	command: data => {
 		return {
 			commandFunction: outputChannel => {
-				const matchup = generateMatchupObject(data.characters, data.series, data.communityMembers);
+				const matchup = generateMatchupObject(data.characters, randomSeriesName(), data.communityMembers);
 				return outputChannel.send('', {embed: renderMatchupEmbed(matchup)});
 			},
 
