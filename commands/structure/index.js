@@ -33,6 +33,7 @@ module.exports = {
 					// check if there's an extra couplet to be randomly distributed between the two rappers
 					extraCouplet = numTotalCouplets % 2 !== 0;
 					numCoupletsPerRapper = Math.floor(numTotalCouplets / 2);
+					if (numCoupletsPerRapper <= 0) return outputChannel.send('That\'s not enough bars!');
 				} else {
 					numCoupletsPerRapper = randomInt(4, 16);
 				}
