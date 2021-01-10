@@ -1,3 +1,5 @@
+const templateString = require('../../util/template-string');
+
 module.exports = {
 	command: () => {
 		return {
@@ -11,7 +13,7 @@ module.exports = {
 
 					if (specialResults.commands.has(helpCommand)) {
 						const commandToHelpWith = specialResults.commands.get(helpCommand);
-						return outputChannel.send(commandToHelpWith.advancedHelpString || 'Advanced help is not available for that command.');
+						return outputChannel.send(templateString(commandToHelpWith.advancedHelpString, {prefix: specialResults.prefix}) || 'Advanced help is not available for that command.');
 					} else {
 						return outputChannel.send('That command doesn\'t exist.');
 					}

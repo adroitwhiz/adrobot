@@ -22,29 +22,59 @@ module.exports = {
 		return {
 			commandFunction: (outputChannel, config, specialResults) => {
 				const {args} = specialResults;
+				let argTotalCouplets;
+				let argTotalVerses;
+				if (args) {
+					const argsSplit = args.split(' ');
+					if (argsSplit.length >= 1) {
+						argTotalCouplets = Math.floor(parseInt(argsSplit[0]) / 2);
+						if (Number.isNaN(argTotalCouplets)) return outputChannel.send('That isn\'t a valid battle length!');
+
+						if (argsSplit.length >= 2) {
+							argTotalVerses = parseInt(argsSplit[1]);
+							if (Number.isNaN(argTotalVerses)) return outputChannel.send('That isn\'t a valid number of verses!');
+						}
+					}
+				}
 
 				// allow users to specify the total number of bars
 				let numCoupletsPerRapper;
 				let extraCouplet = false;
-				if (args) {
-					// divide bars by 2 to get couplets
-					const numTotalCouplets = Math.floor(parseInt(args.trim()) / 2);
-					if (Number.isNaN(numTotalCouplets)) return outputChannel.send('That isn\'t a valid battle length!');
+
+				if (argTotalCouplets) {
 					// check if there's an extra couplet to be randomly distributed between the two rappers
-					extraCouplet = numTotalCouplets % 2 !== 0;
-					numCoupletsPerRapper = Math.floor(numTotalCouplets / 2);
-					if (numCoupletsPerRapper <= 0) return outputChannel.send('That\'s not enough bars!');
+					extraCouplet = argTotalCouplets % 2 !== 0;
+					numCoupletsPerRapper = Math.floor(argTotalCouplets / 2);
+					if (numCoupletsPerRapper <= 0) return outputChannel.send('Battles need at least 4 bars!');
+					if (numCoupletsPerRapper >= 500) return outputChannel.send('That\'s too many bars!');
 				} else {
 					numCoupletsPerRapper = randomInt(4, 16);
 				}
-				// bias towards lower results
-				const numVersesPerRapper = randomInt(1, numCoupletsPerRapper, Math.pow(Math.random(), 2));
+
+
+				let numVersesPerRapper;
+				let extraVerse = false;
+
+				if (argTotalVerses) {
+					if (argTotalVerses < 2) return outputChannel.send('Battles need at least 2 verses!');
+					if (argTotalVerses > (numCoupletsPerRapper * 2) + Number(extraCouplet)) return outputChannel.send('That\'s too many verses!');
+					numVersesPerRapper = Math.floor(argTotalVerses / 2);
+					extraVerse = argTotalVerses % 2 !== 0;
+				} else {
+					numVersesPerRapper = randomInt(
+						1,
+						numCoupletsPerRapper,
+						// bias towards lower results
+						Math.pow(Math.random(), 2)
+					);
+				}
+
 				// if the total number of couplets isn't evenly distributable between rappers, give the extra couplet to
 				// one of the two rappers randomly
 				const distributeExtraCoupletTo = Math.round(Math.random());
 
 				const rapper1VerseLengths = randWithSum(
-					numVersesPerRapper,
+					numVersesPerRapper + Number(extraVerse),
 					numCoupletsPerRapper + (extraCouplet ? distributeExtraCoupletTo : 0)
 				);
 				const rapper2VerseLengths = randWithSum(
@@ -59,11 +89,16 @@ module.exports = {
 					interleaved.push(rapper2VerseLengths[i] * 2);
 				}
 
+				if (extraVerse) {
+					interleaved.push(rapper1VerseLengths[rapper1VerseLengths.length - 1] * 2);
+				}
+
 				return outputChannel.send(interleaved.join('-'));
 			},
 
 			name: 'structure',
-			helpString: 'Generates a random verse structure, optionally with a length of your choice',
+			helpString: 'Generates a random verse structure, optionally with a length (and number of verses) of your choice',
+			advancedHelpString: 'Usage: {prefix}structure [battle length] [number of verses]',
 			specials: ['args']
 		};
 	}
