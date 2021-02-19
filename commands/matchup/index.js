@@ -75,7 +75,7 @@ const renderMatchupEmbed = matchup => {
 const adjectives = ['Crazy', 'Wicked', 'Epic', 'Radical', 'Insane', 'Poggers', 'Cool', 'Unfathomable', 'Astounding', 'Neato', 'Uber'];
 const rap = ['Lyrical', 'Rap', 'Hip-Hop', 'Diss', 'Spit Barz', 'Rhyme'];
 const battle = ['Wars', 'Clashes', 'Battles', 'Conflicts', 'Skirmishes', 'Altercations'];
-const ofWhat = ['Steven Universe', 'Fiction', 'Vivziepop', 'The Community', 'Reality', 'The Universe', 'Literature', 'Television', 'Video Games', 'Internet History', 'Environmental Science'];
+const ofWhat = ['Steven Universe', 'Fiction', 'Vivziepop', 'The Community', 'Reality', 'The Universe', 'Literature', 'Television', 'Video Games', 'Internet History', 'Environmental Science', 'Anime'];
 
 const sample = arr => arr[Math.floor(Math.random() * arr.length)];
 
